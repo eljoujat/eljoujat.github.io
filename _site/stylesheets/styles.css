@@ -157,7 +157,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:575px;
   float:right;
   padding-bottom:50px;
 }
@@ -305,4 +305,21 @@ ul.inline-items li {
   -webkit-filter: grayscale(7%);
   -moz-filter: grayscale(7%);
   filter: grayscale(7%);
+}
+.post_entry {
+  width: 100%;
+}
+.post_entry .body{
+  color:  #777;
+  width: 100%
+}
+
+.post_entry  .title{
+  font-weight: bold;
+
+}
+.post_entry info {
+  padding-right:8px;
+    color:#999;
+    font-style:italic;
 }
