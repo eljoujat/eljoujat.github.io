@@ -294,13 +294,13 @@ ul.inline-items li {
 }
 
 .socialaccounts img{
-
   -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+  filter: grayscale(100%);
 }
 
 .socialaccounts img:hover {
   transform: rotate(2deg);
-  -webkit-transform: rotate(2deg);
   -moz-transform: rotate(2deg);
   -webkit-filter: grayscale(7%);
   -moz-filter: grayscale(7%);
