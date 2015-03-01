@@ -15,7 +15,7 @@ I'm programmer, i've always belived that every good progammer [should have a blo
 ##Blogging about ...?
 
 
-I had first to come up with a good answer for this question
+First I had to come up with a good answer for this question
 
 ![A terribly boring amateur comic strip](/images/blogger_joke.jpg)
 
