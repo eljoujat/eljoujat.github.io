@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rasmus Andersson</title>
+  <link href="http://eljoujat.github.io/atom.xml" rel="self"/>
+  <link href="http://eljoujat.github.io/"/>
+  <updated>2015-03-01T21:12:51+00:00</updated>
+  <id>http://eljoujat.github.io/</id>
+  <author>
+    <name>Rasmus Andersson</name>
+    <email>rasmus@notion.se</email>
+  </author>
+  
+  <entry>
+    <title>How i wrote this post</title>
+    <link href="http://eljoujat.github.io/2015/03/01/how-i-wrote-this-post.html"/>
+    <updated>2015-03-01T00:00:00+00:00</updated>
+    <id>http://eljoujat.github.io/2015/03/01/how-i-wrote-this-post</id>
+    <content type="html">&lt;blockquote&gt;&lt;p&gt;“There is no greater agony than bearing an untold story inside you.” .
+&lt;a href=&quot;http://www.mayaangelou.com/&quot;&gt;Maya Angelou&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;I&amp;rsquo;m programmer, i&amp;rsquo;ve always belived that every good progammer &lt;a href=&quot;http://architects.dzone.com/articles/why-programmers-should-have&quot;&gt;should have a blog&lt;/a&gt;,just last week i made the decision to create my first blog.&lt;/p&gt;
+
+&lt;h2&gt;Blogging about &amp;hellip;?&lt;/h2&gt;
+
+&lt;p&gt;I had first to come up with a good answer for this question&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blogger_joke.jpg&quot; alt=&quot;A terribly boring amateur comic strip&quot; /&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Rasmus Andersson</name>
+      <uri>http://eljoujat.github.io/about/</uri>
+    </author>
+  </entry>
+  
+</feed>
