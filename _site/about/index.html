@@ -2,7 +2,7 @@
 <html lang="en" prefix="og: http://ogp.me/ns#">
   <head>
     <meta charset="utf-8">
-    <title>Youssef El Jaoujat</title>
+    <title>About &mdash; Youssef El Jaoujat</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -35,12 +35,62 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@eljoujat">
     
-      <meta name="description" content="Youssef lab : a blog for trying things ..">
+    <meta property="og:title" content="About">
+      
+      <meta name="description" content="
+  
+  
+    
+    About
+    
+      
+    
+    
+    Coming sooon &hellip;
+
+    
+    
+    
+
+  
+  
+  
+
+
+
+
+
+">
+      <meta name="og:description" content="
+  
+  
+    
+    About
+    
+      
+    
+    
+    Coming sooon &hellip;
+
+    
+    
+    
+
+  
+  
+  
+
+
+
+
+
+">
+      
     
     
     
     
-    <meta property="og:url" content="http://eljoujat.github.io/">
+    <meta property="og:url" content="http://eljoujat.github.io/about/">
     <meta property="og:site_name" content="Yocef-Lab">
     <meta property="og:type" content="article">
     <meta property="og:locale" content="en_GB" />
@@ -92,7 +142,7 @@
     <ul class="inline-items">
       <li><a href="/archive/" title="Archived articles"><h3>Archives</h3></a></li>
       <li><a href="/projects/" title="projects "><h3>Projects</h3></a></li>
-      <li><a href="/about/"><h3>About me</h3></a></li>
+      <li><a href="/about/"class="active"><h3>About me</h3></a></li>
     </ul>
     </nav>
         <aside>
@@ -104,41 +154,69 @@
        </aside>   
       </header>
     <!--div class="wrapper content"-->
-      <div >
-  <section class="posts">
+      <div class="content content">
+  <section>
+  <div class="post single">
     
-    <div class="post_entry">
-    <a href="/2015/03/01/how-i-wrote-this-post.html" class="post-excerpt">
-       <div class="title">a post on my first post !</div>
-       
-        <!-- <div class="title">a post on my first post !</div> -->
-        <info datetime="">
-          Mar 2015
-        </info>
-        
-        <span class="body">This is my first post , it took me time to write it so it's worth to write a post about it and how i wrote it!</span>
-        
-      <!-- post.photo_url -->
-     </a>
-   </div>
+    <h1>About</h1>
+    <info datetime="">
+      
+    </info>
     
-    
+    <div class="body"><p>Coming sooon &hellip;</p>
+</div>
+    <!-- <div class="breaker"></div> -->
+    <div class="breaker"></div>
+    <!-- <info class="after">
+<div class="fb-like" data-href="http://rsms.me/about/index.html" data-send="false" data-width="550" data-show-faces="false" data-font="arial"></div>
+    </info> -->
+
+  
+  </div>
   </section>
 </div>
 
+<!-- During authoring, this automatically reloads the post as its changing -->
 <script type="text/javascript">
+(function() {
+var qs = document.location.search;
+var current_etag = qs.match(/etag=("?[a-zA-Z0-9_-]+)/);
+if (current_etag !== null) { current_etag = current_etag[1]; }
+var scrolly = qs.match(/scrolly=([0-9]+)/);
+if (scrolly) {
+  scrolly = parseInt(scrolly[1]);
+  window.scrollTo(window.scrollX, scrolly);
+  setTimeout(function () {
+    window.scrollTo(window.scrollX, scrolly);
+  }, 10);
+}
 
-$( function() {
-  
-  $('.posts').isotope({
-    itemSelector: '.post_entry',
-    masonry: {
-      columnWidth: 100
+function check() {
+  var r = new XMLHttpRequest();
+  var url = document.location.href + ((qs && qs !== '') ? '&' : '?') + 'r=' + Math.random();
+  r.open('GET', url, true);
+  r.onreadystatechange = function() {
+    if (r.readyState == 4){
+      var found_etag = r.getResponseHeader('Etag').replace(/^"|"$/g);
+      //console.log('current_etag:', current_etag, 'found_etag:', found_etag);
+      if (current_etag === null) {
+        current_etag = found_etag;
+      } else if (found_etag !== current_etag) {
+        document.location.search =
+          '?etag=' + encodeURIComponent(found_etag) +
+          '&scrolly=' + window.scrollY;
+        return;
+      }
+      setTimeout(check, 500);
     }
-  });
-
-});
+  };
+  r.send(null);
+}
+check();
+})();
 </script>
+
+
     <!--/div-->
     
     

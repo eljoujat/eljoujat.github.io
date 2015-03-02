@@ -1,5 +1,5 @@
 ---
-title: "A post on my first post !"
+title: "a post on my first post !"
 layout: post
 og_image_url: "http://eljoujat.github.io/images/blogger_joke.jpg"
 description: "This is my first post , it took me time to write it so it's worth to write a post about it and how i wrote it!"
@@ -14,9 +14,6 @@ I'm programmer, and i've always believed that every good progammer [should have 
 
 - What shoud i blogg about ? 
 - which blogging platform to use ?
-
-and then :
-
 - start blogging 
 
 
@@ -24,7 +21,9 @@ and then :
 ##Blogging about ...?
 
 
-This was for me the most difficult question to answer, as i considered for long time that i had no interesting things to add or share ... you know what ?! I was wrong all the whole time, and what's obvious to me could be amazing for others  <iframe width="560" height="315" src="https://www.youtube.com/embed/xcmI5SSQLmE" frameborder="0" allowfullscreen></iframe>
+This was for me the most difficult question to answer, as i considered for long time that i had no interesting things to add or share ... 
+
+Guess what ! I was wrong all the time, and what's obvious to me could be amazing for others   <iframe width="560" height="315" src="https://www.youtube.com/embed/xcmI5SSQLmE" frameborder="0" allowfullscreen></iframe>
 
 
 So start blogging about ....
@@ -39,7 +38,59 @@ Bref, This blog will be my laboratory.
 
 I start my day with reading what's new on [Hacker News](https://news.ycombinator.com/news), most of them are posts on blog hosted on platforms , like [Medium](https://medium.com/), [svbtle](https://svbtle.com/), [Blogger](https://www.blogger.com), [ghost](https://ghost.org/). each one of theme has pros and cons that i will not details here .
 
-I made a short list of what i want from the blog platform and search the 
+I made a short list of what features i need .
+
+- Free hosting ☺  (a personal domain is not) .
+- Progammer freindly :allow to write code with features like , formatting, syntax highliting...
+- Simple and minimalist
+- Easy and powerful customization 
+- Allow to write fast and publishing faster.
+
+
+[Jekyll](http://jekyllrb.com/) with [github pages](http://pages.github.com/) as free hosting solution was what suited for me the best .
+
+## Start Blogging
+
+### Create the blog
+
+Github give a simple and easye to follow step by step [guide](https://pages.github.com/) to create your blogg, all what one should do is to follow the guide : 
+
+### Install Jekyll
+Installing Jekyll is simple unless you are a windows user like me ☹ .
+
+- Download and install Ruby from [Ruby Installer](http://rubyinstaller.org/downloads#download-links)
+- Download and install Ruby Devkit  from [Ruby Dev Kit](http://rubyinstaller.org/downloads#ownload-links)
+- Extract the Dev kit zip to a local directory, and add it to the windows PATH variable.
+- From widnows command line execute 
+{% highlight Java %}
+gem install bundler
+{% endhighlight %}
+
+This command is to avoid getting  the  error : 
+
+- Install [Bundler](http://bundler.io/) with the follwoing command 
+ {% highlight Batchfile %}
+gem install bundler
+{% endhighlight %}
+
+☝ if you get the following error 
+ {% highlight Batchfile %}
+ERROR:  While executing gem (Encoding::UndefinedConversionError)
+    U+2019 to CP850 in conversion from UTF-16LE to UTF-8 to CP850
+{% endhighlight %}
+just type  
+ {% highlight Batchfile %}
+chcp 1252
+{% endhighlight %}
+and then re execute your command. 
+
+- 
+
+
+
+### 
+
+
 
 
 

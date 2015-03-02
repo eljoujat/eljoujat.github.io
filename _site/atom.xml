@@ -3,7 +3,7 @@
   <title>Rasmus Andersson</title>
   <link href="http://eljoujat.github.io/atom.xml" rel="self"/>
   <link href="http://eljoujat.github.io/"/>
-  <updated>2015-03-02T08:44:44+00:00</updated>
+  <updated>2015-03-02T15:18:44+00:00</updated>
   <id>http://eljoujat.github.io/</id>
   <author>
     <name>Rasmus Andersson</name>
@@ -11,7 +11,7 @@
   </author>
   
   <entry>
-    <title>A post on my first post !</title>
+    <title>a post on my first post !</title>
     <link href="http://eljoujat.github.io/2015/03/01/how-i-wrote-this-post.html"/>
     <updated>2015-03-01T00:00:00+00:00</updated>
     <id>http://eljoujat.github.io/2015/03/01/how-i-wrote-this-post</id>
@@ -23,19 +23,15 @@
 &lt;ul&gt;
 &lt;li&gt;What shoud i blogg about ?&lt;/li&gt;
 &lt;li&gt;which blogging platform to use ?&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;and then :&lt;/p&gt;
-
-&lt;ul&gt;
 &lt;li&gt;start blogging&lt;/li&gt;
 &lt;/ul&gt;
 
 
 &lt;h2&gt;Blogging about &amp;hellip;?&lt;/h2&gt;
 
-&lt;p&gt;This was for me the most difficult question to answer, as i considered for long time that i had no interesting things to add or share &amp;hellip; you know what ?! I was wrong all the whole time, and what&amp;rsquo;s obvious to me could be amazing for others  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xcmI5SSQLmE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;This was for me the most difficult question to answer, as i considered for long time that i had no interesting things to add or share &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Guess what ! I was wrong all the time, and what&amp;rsquo;s obvious to me could be amazing for others   &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xcmI5SSQLmE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 
 &lt;p&gt;So start blogging about &amp;hellip;.&lt;/p&gt;
 
@@ -49,7 +45,69 @@
 
 &lt;p&gt;I start my day with reading what&amp;rsquo;s new on &lt;a href=&quot;https://news.ycombinator.com/news&quot;&gt;Hacker News&lt;/a&gt;, most of them are posts on blog hosted on platforms , like &lt;a href=&quot;https://medium.com/&quot;&gt;Medium&lt;/a&gt;, &lt;a href=&quot;https://svbtle.com/&quot;&gt;svbtle&lt;/a&gt;, &lt;a href=&quot;https://www.blogger.com&quot;&gt;Blogger&lt;/a&gt;, &lt;a href=&quot;https://ghost.org/&quot;&gt;ghost&lt;/a&gt;. each one of theme has pros and cons that i will not details here .&lt;/p&gt;
 
-&lt;p&gt;I made a short list of what i want from the blog platform and search the&lt;/p&gt;
+&lt;p&gt;I made a short list of what features i need .&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Free hosting ☺  (a personal domain is not) .&lt;/li&gt;
+&lt;li&gt;Progammer freindly :allow to write code with features like , formatting, syntax highliting&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Simple and minimalist&lt;/li&gt;
+&lt;li&gt;Easy and powerful customization&lt;/li&gt;
+&lt;li&gt;Allow to write fast and publishing faster.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; with &lt;a href=&quot;http://pages.github.com/&quot;&gt;github pages&lt;/a&gt; as free hosting solution was what suited for me the best .&lt;/p&gt;
+
+&lt;h2&gt;Start Blogging&lt;/h2&gt;
+
+&lt;h3&gt;Create the blog&lt;/h3&gt;
+
+&lt;p&gt;Github give a simple and easye to follow step by step &lt;a href=&quot;https://pages.github.com/&quot;&gt;guide&lt;/a&gt; to create your blogg, all what one should do is to follow the guide :&lt;/p&gt;
+
+&lt;h3&gt;Install Jekyll&lt;/h3&gt;
+
+&lt;p&gt;Installing Jekyll is simple unless you are a windows user like me ☹ .&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Download and install Ruby from &lt;a href=&quot;http://rubyinstaller.org/downloads#download-links&quot;&gt;Ruby Installer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Download and install Ruby Devkit  from &lt;a href=&quot;http://rubyinstaller.org/downloads#ownload-links&quot;&gt;Ruby Dev Kit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Extract the Dev kit zip to a local directory, and add it to the windows PATH variable.&lt;/li&gt;
+&lt;li&gt;From widnows command line execute&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;gem install bundler&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;This command is to avoid getting  the  error :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Install &lt;a href=&quot;http://bundler.io/&quot;&gt;Bundler&lt;/a&gt; with the follwoing command&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-batchfile&quot; data-lang=&quot;batchfile&quot;&gt;gem install bundler&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;☝ if you get the following error&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-batchfile&quot; data-lang=&quot;batchfile&quot;&gt;ERROR:  While executing gem (Encoding::UndefinedConversionError)
+    U+2019 to CP850 in conversion from UTF-16LE to UTF-8 to CP850&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;just type&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-batchfile&quot; data-lang=&quot;batchfile&quot;&gt;chcp 1252&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;and then re execute your command.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;&lt;/h3&gt;
 </content>
     <author>
       <name>Rasmus Andersson</name>
