@@ -3,12 +3,40 @@
   <title>Rasmus Andersson</title>
   <link href="http://eljoujat.github.io/atom.xml" rel="self"/>
   <link href="http://eljoujat.github.io/"/>
-  <updated>2015-03-02T15:21:07+00:00</updated>
+  <updated>2015-03-02T16:01:58+00:00</updated>
   <id>http://eljoujat.github.io/</id>
   <author>
     <name>Rasmus Andersson</name>
     <email>rasmus@notion.se</email>
   </author>
+  
+  <entry>
+    <title>a post on my first post !</title>
+    <link href="http://eljoujat.github.io/2015/03/02/new-post.html"/>
+    <updated>2015-03-02T00:00:00+00:00</updated>
+    <id>http://eljoujat.github.io/2015/03/02/new-post</id>
+    <content type="html">&lt;p&gt;New Post&lt;/p&gt;
+</content>
+    <author>
+      <name>Rasmus Andersson</name>
+      <uri>http://eljoujat.github.io/about/</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <title>a post on my first post !</title>
+    <link href="http://eljoujat.github.io/2015/03/02/new%20post.html"/>
+    <updated>2015-03-02T00:00:00+00:00</updated>
+    <id>http://eljoujat.github.io/2015/03/02/new post</id>
+    <content type="html">&lt;p&gt;New Post&lt;/p&gt;
+
+&lt;h1&gt;h1&lt;/h1&gt;
+</content>
+    <author>
+      <name>Rasmus Andersson</name>
+      <uri>http://eljoujat.github.io/about/</uri>
+    </author>
+  </entry>
   
   <entry>
     <title>a post on my first post !</title>
@@ -66,46 +94,20 @@
 
 &lt;h3&gt;Install Jekyll&lt;/h3&gt;
 
-&lt;p&gt;Installing Jekyll is simple unless you are a windows user like me ☹ .&lt;/p&gt;
+&lt;p&gt;Installing Jekyll is simple unless you are a windows user like me .&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Download and install Ruby from &lt;a href=&quot;http://rubyinstaller.org/downloads#download-links&quot;&gt;Ruby Installer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Download and install Ruby Devkit  from &lt;a href=&quot;http://rubyinstaller.org/downloads#ownload-links&quot;&gt;Ruby Dev Kit&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Extract the Dev kit zip to a local directory, and add it to the windows PATH variable.&lt;/li&gt;
-&lt;li&gt;From widnows command line execute&lt;/li&gt;
+&lt;li&gt;From widnows command line execute
+and then re execute your command.&lt;/li&gt;
 &lt;/ul&gt;
 
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;gem install bundler&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;H1 added&lt;/h1&gt;
 
-
-&lt;p&gt;This command is to avoid getting  the  error :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Install &lt;a href=&quot;http://bundler.io/&quot;&gt;Bundler&lt;/a&gt; with the follwoing command&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-batchfile&quot; data-lang=&quot;batchfile&quot;&gt;gem install bundler&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;☝ if you get the following error&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-batchfile&quot; data-lang=&quot;batchfile&quot;&gt;ERROR:  While executing gem (Encoding::UndefinedConversionError)
-    U+2019 to CP850 in conversion from UTF-16LE to UTF-8 to CP850&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;just type&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-batchfile&quot; data-lang=&quot;batchfile&quot;&gt;chcp 1252&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;and then re execute your command.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
+&lt;h2&gt;h2 addded&lt;/h2&gt;
 
 &lt;h3&gt;&lt;/h3&gt;
 </content>

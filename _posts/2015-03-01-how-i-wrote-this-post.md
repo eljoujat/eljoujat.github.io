@@ -56,38 +56,17 @@ I made a short list of what features i need .
 Github give a simple and easye to follow step by step [guide](https://pages.github.com/) to create your blogg, all what one should do is to follow the guide : 
 
 ### Install Jekyll
-Installing Jekyll is simple unless you are a windows user like me ☹ .
+
+Installing Jekyll is simple unless you are a windows user like me .
 
 - Download and install Ruby from [Ruby Installer](http://rubyinstaller.org/downloads#download-links)
 - Download and install Ruby Devkit  from [Ruby Dev Kit](http://rubyinstaller.org/downloads#ownload-links)
 - Extract the Dev kit zip to a local directory, and add it to the windows PATH variable.
 - From widnows command line execute 
-{% highlight Java %}
-gem install bundler
-{% endhighlight %}
-
-This command is to avoid getting  the  error : 
-
-- Install [Bundler](http://bundler.io/) with the follwoing command 
- {% highlight Batchfile %}
-gem install bundler
-{% endhighlight %}
-
-☝ if you get the following error 
- {% highlight Batchfile %}
-ERROR:  While executing gem (Encoding::UndefinedConversionError)
-    U+2019 to CP850 in conversion from UTF-16LE to UTF-8 to CP850
-{% endhighlight %}
-just type  
- {% highlight Batchfile %}
-chcp 1252
-{% endhighlight %}
 and then re execute your command. 
 
-- 
-
-
-
+#H1 added 
+## h2 addded
 ### 
 
 
