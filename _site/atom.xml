@@ -3,7 +3,7 @@
   <title>Rasmus Andersson</title>
   <link href="http://eljoujat.github.io/atom.xml" rel="self"/>
   <link href="http://eljoujat.github.io/"/>
-  <updated>2015-03-01T21:28:27+00:00</updated>
+  <updated>2015-03-02T06:53:21+00:00</updated>
   <id>http://eljoujat.github.io/</id>
   <author>
     <name>Rasmus Andersson</name>
@@ -18,13 +18,34 @@
     <content type="html">&lt;blockquote&gt;&lt;p&gt;“There is no greater agony than bearing an untold story inside you.” .
 &lt;a href=&quot;http://www.mayaangelou.com/&quot;&gt;Maya Angelou&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 
-&lt;p&gt;I&amp;rsquo;m programmer, i&amp;rsquo;ve always belived that every good progammer &lt;a href=&quot;http://architects.dzone.com/articles/why-programmers-should-have&quot;&gt;should have a blog&lt;/a&gt;,just last week i made the decision to create my first blog.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m programmer, and i&amp;rsquo;ve always believed that every good progammer &lt;a href=&quot;http://architects.dzone.com/articles/why-programmers-should-have&quot;&gt;should have a blog&lt;/a&gt;. This week i made the decision to write my first post, before  that i had to answer some questions :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What shoud i blogg about ?&lt;/li&gt;
+&lt;li&gt;which blogging platform to use ?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;and then :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;start blogging&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;h2&gt;Blogging about &amp;hellip;?&lt;/h2&gt;
 
-&lt;p&gt;First I had to come up with a good answer for this question&lt;/p&gt;
+&lt;p&gt;This was for me the most difficult question to answer, as i considered for long time that i had no interesting things to add or share &amp;hellip; i was wrong all the whole time, as what&amp;rsquo;s obvious to me could be amazing for others  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xcmI5SSQLmE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;So Blogging about &amp;hellip;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/blogger_joke.jpg&quot; alt=&quot;A terribly boring amateur comic strip&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I decided to share every experiments i do with programming languages , new software techniques i learn or i wich learn. sometimes i face on my job new problems that take time to me to solve , so i will also write post describing how i solve it. I will wirte posts about any idea that came to me .&lt;/p&gt;
+
+&lt;p&gt;This blog will be my laboratory .&lt;/p&gt;
+
+&lt;h2&gt;Ghost, Medium, Blogger, &amp;hellip;.?&lt;/h2&gt;
 </content>
     <author>
       <name>Rasmus Andersson</name>

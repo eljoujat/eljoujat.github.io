@@ -1,5 +1,4 @@
 port: 4000
-highlighter: null
 lsi: false
 permalink: /:year/:month/:day/:title.html
 # paginate: 50
