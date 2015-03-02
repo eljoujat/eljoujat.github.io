@@ -3,40 +3,12 @@
   <title>Rasmus Andersson</title>
   <link href="http://eljoujat.github.io/atom.xml" rel="self"/>
   <link href="http://eljoujat.github.io/"/>
-  <updated>2015-03-02T16:01:58+00:00</updated>
+  <updated>2015-03-02T18:32:48+00:00</updated>
   <id>http://eljoujat.github.io/</id>
   <author>
     <name>Rasmus Andersson</name>
     <email>rasmus@notion.se</email>
   </author>
-  
-  <entry>
-    <title>a post on my first post !</title>
-    <link href="http://eljoujat.github.io/2015/03/02/new-post.html"/>
-    <updated>2015-03-02T00:00:00+00:00</updated>
-    <id>http://eljoujat.github.io/2015/03/02/new-post</id>
-    <content type="html">&lt;p&gt;New Post&lt;/p&gt;
-</content>
-    <author>
-      <name>Rasmus Andersson</name>
-      <uri>http://eljoujat.github.io/about/</uri>
-    </author>
-  </entry>
-  
-  <entry>
-    <title>a post on my first post !</title>
-    <link href="http://eljoujat.github.io/2015/03/02/new%20post.html"/>
-    <updated>2015-03-02T00:00:00+00:00</updated>
-    <id>http://eljoujat.github.io/2015/03/02/new post</id>
-    <content type="html">&lt;p&gt;New Post&lt;/p&gt;
-
-&lt;h1&gt;h1&lt;/h1&gt;
-</content>
-    <author>
-      <name>Rasmus Andersson</name>
-      <uri>http://eljoujat.github.io/about/</uri>
-    </author>
-  </entry>
   
   <entry>
     <title>a post on my first post !</title>
@@ -104,12 +76,6 @@
 and then re execute your command.&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h1&gt;H1 added&lt;/h1&gt;
-
-&lt;h2&gt;h2 addded&lt;/h2&gt;
-
-&lt;h3&gt;&lt;/h3&gt;
 </content>
     <author>
       <name>Rasmus Andersson</name>

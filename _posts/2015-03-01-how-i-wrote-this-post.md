@@ -65,9 +65,6 @@ Installing Jekyll is simple unless you are a windows user like me .
 - From widnows command line execute 
 and then re execute your command. 
 
-#H1 added 
-## h2 addded
-### 
 
 
 
