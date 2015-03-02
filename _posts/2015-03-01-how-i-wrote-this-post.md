@@ -39,7 +39,7 @@ Bref, This blog will be my laboratory.
 
 I start my day with reading what's new on [Hacker News](https://news.ycombinator.com/news), most of them are posts on blog hosted on platforms , like [Medium](https://medium.com/), [svbtle](https://svbtle.com/), [Blogger](https://www.blogger.com), [ghost](https://ghost.org/). each one of theme has pros and cons that i will not details here .
 
-I just make a short list of what i want from the blog platform and search the 
+I made a short list of what i want from the blog platform and search the 
 
 
 
