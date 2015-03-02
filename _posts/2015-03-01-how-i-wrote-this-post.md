@@ -10,27 +10,27 @@ disqus_comments: true
 > “There is no greater agony than bearing an untold story inside you.” .
 [Maya Angelou](http://www.mayaangelou.com/) 
 
-I'm programmer, and i've always believed that every good progammer [should have a blog](http://architects.dzone.com/articles/why-programmers-should-have). This week i made the decision to write my first post, before  that i had to answer some questions :
+I'm programmer, i've always believed that every good progammer [should have a blog](http://architects.dzone.com/articles/why-programmers-should-have). This week i made the decision to write my first post, before writing the first post i had to answer some questions :
 
 - What shoud i blogg about ? 
 - which blogging platform to use ?
-- start blogging 
+- then i can start blogging 
 
 
 
 ##Blogging about ...?
 
 
-This was for me the most difficult question to answer, as i considered for long time that i had no interesting things to add or share ... 
+For me This was the most difficult question to answer, as i thoought for a long time that i have no good things share ... 
 
-Guess what ! I was wrong all the time, and what's obvious to me could be amazing for others   <iframe width="560" height="315" src="https://www.youtube.com/embed/xcmI5SSQLmE" frameborder="0" allowfullscreen></iframe>
+ was wrong all the time, and what's obvious to me could be amazing for others  <iframe width="560" height="315" src="https://www.youtube.com/embed/xcmI5SSQLmE" frameborder="0" allowfullscreen></iframe>
 
 
-So start blogging about ....
+So blogging about ....
 
-![A terribly boring amateur comic strip](/images/blogger_joke.jpg)
+![Blog about ...](/images/blogger_joke.jpg)
 
-Eevery programming experiment i do , every new software concept i learnt or i wish to learn. Sometimes  on my dail job tasks, i face new problems that take me time to solve, so i will also write post describing how i solve it. I will also write posts about any idea that came to me .
+Eevery programming experiments i do, every new software notion i learn or i wish to learn. On my daily job tasks, i face problems that take me time to solve, so i will write posts describing how i solve them. I will write posts about every idea that found its path to my mind.
 
 Bref, This blog will be my laboratory.
 
@@ -57,13 +57,23 @@ Github give a simple and easye to follow step by step [guide](https://pages.gith
 
 ### Install Jekyll
 
-Installing Jekyll is simple unless you are a windows user like me .
+To Install Jekyll is a simple task, unless you are a windows user like me .
 
 - Download and install Ruby from [Ruby Installer](http://rubyinstaller.org/downloads#download-links)
 - Download and install Ruby Devkit  from [Ruby Dev Kit](http://rubyinstaller.org/downloads#ownload-links)
 - Extract the Dev kit zip to a local directory, and add it to the windows PATH variable.
-- From widnows command line execute 
-and then re execute your command. 
+- Open up a command prompt and type : `gem install Bundle`
+
+ If you have this error `ERROR:  While executing gem (Encoding::UndefinedConversionError)
+    U+2019 to CP850 in conversion from UTF-16LE to UTF-8 to CP850`.
+
+ don't panic , just type `chcp 1252` and then re execute your command. 
+
+ - type `Bundle --version ` to verify if all went well .
+
+### Theme and The Structure the Blog Site 
+
+
 
 
 
