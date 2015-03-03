@@ -179,37 +179,41 @@
 <li>Download and install Ruby from <a href="http://rubyinstaller.org/downloads#download-links">Ruby Installer</a></li>
 <li>Download and install Ruby Devkit  from <a href="http://rubyinstaller.org/downloads#ownload-links">Ruby Dev Kit</a></li>
 <li>Extract the Dev kit zip to a local directory, and add it to the windows PATH variable.</li>
-<li>Open up a command prompt and type : <code>gem install Bundle</code></li>
+<li>Open up a command prompt and type :</li>
 </ul>
 
 
-<p> If you have this error <code>ERROR:  While executing gem (Encoding::UndefinedConversionError)
-    U+2019 to CP850 in conversion from UTF-16LE to UTF-8 to CP850</code>.</p>
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">gem</span> <span class="n">install</span> <span class="no">Bundle</span></code></pre></div>
 
-<p> don&rsquo;t panic , just type <code>chcp 1252</code> and then re execute your command.</p>
+
+<p> If you have this error</p>
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="ss">ERROR</span><span class="p">:</span>  <span class="no">While</span> <span class="n">executing</span> <span class="n">gem</span> <span class="p">(</span><span class="no">Encoding</span><span class="o">::</span><span class="no">UndefinedConversionError</span><span class="p">)</span>
+    <span class="n">U</span><span class="o">+</span><span class="mi">2019</span> <span class="n">to</span> <span class="no">CP850</span> <span class="k">in</span> <span class="n">conversion</span> <span class="n">from</span> <span class="no">UTF</span><span class="o">-</span><span class="mi">16</span><span class="no">LE</span> <span class="n">to</span> <span class="no">UTF</span><span class="o">-</span><span class="mi">8</span> <span class="n">to</span> <span class="no">CP850</span><span class="o">.</span></code></pre></div>
+
+
+<p> don&rsquo;t panic , just type</p>
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">chcp</span> <span class="mi">1252</span></code></pre></div>
+
+
+<p> and then re execute your command.</p>
 
 <ul>
-<li>type <code>Bundle --version</code> to verify if all went well .</li>
+<li>Execute</li>
 </ul>
 
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="no">Bundle</span> <span class="o">--</span><span class="n">version</span></code></pre></div>
+
+
+<p> to verify if all went well .</p>
 
 <h3>Structuring the Blog Site</h3>
 
-<p><a href="http://jekyllrb.com/docs/sites/">Sites using Jekyll</a> is a very good list of sites that i used as starting point to understand how to structure the site and good best practices to use.</p>
+<p>I took these list of <a href="http://jekyllrb.com/docs/sites/">Sites using Jekyll</a> , as a starting  point to understand how i should structure my blog and some best practices to use.</p>
 
-<p>I got inspired a lot by  the site of <a href="http://rsms.me/">Rasmus Andersson</a>(<a href="https://github.com/rsms/rsms.github.com">Source</a>)</p>
-
-<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="lineno">1</span> <span class="k">def</span> <span class="nf">show</span>
-<span class="lineno">2</span>   <span class="nb">puts</span> <span class="s2">&quot;Outputting a very lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong line&quot;</span>
-<span class="lineno">3</span>   <span class="vi">@widget</span> <span class="o">=</span> <span class="no">Widget</span><span class="p">(</span><span class="n">params</span><span class="o">[</span><span class="ss">:id</span><span class="o">]</span><span class="p">)</span>
-<span class="lineno">4</span>   <span class="n">respond_to</span> <span class="k">do</span> <span class="o">|</span><span class="nb">format</span><span class="o">|</span>
-<span class="lineno">5</span>     <span class="nb">format</span><span class="o">.</span><span class="n">html</span> <span class="c1"># show.html.erb</span>
-<span class="lineno">6</span>     <span class="nb">format</span><span class="o">.</span><span class="n">json</span> <span class="p">{</span> <span class="n">render</span> <span class="ss">json</span><span class="p">:</span> <span class="vi">@widget</span> <span class="p">}</span>
-<span class="lineno">7</span>   <span class="k">end</span>
-<span class="lineno">8</span> <span class="k">end</span></code></pre></div>
-
-
-
+<p>I got inspired a especialy by the blog of <a href="http://rsms.me/">Rasmus Andersson</a>(<a href="https://github.com/rsms/rsms.github.com">Source</a>)</p>
 </div>
     <!-- <div class="breaker"></div> -->
     <div class="breaker"></div>

@@ -65,33 +65,26 @@ To Install Jekyll is a simple task, unless you are a windows user like me .
 - Download and install Ruby from [Ruby Installer](http://rubyinstaller.org/downloads#download-links)
 - Download and install Ruby Devkit  from [Ruby Dev Kit](http://rubyinstaller.org/downloads#ownload-links)
 - Extract the Dev kit zip to a local directory, and add it to the windows PATH variable.
-- Open up a command prompt and type : `gem install Bundle`
+- Open up a command prompt and type : {% highlight ruby %} gem install Bundle{% endhighlight %}
 
- If you have this error `ERROR:  While executing gem (Encoding::UndefinedConversionError)
-    U+2019 to CP850 in conversion from UTF-16LE to UTF-8 to CP850`.
+ If you have this error 
+{% highlight ruby %}
+ ERROR:  While executing gem (Encoding::UndefinedConversionError)
+    U+2019 to CP850 in conversion from UTF-16LE to UTF-8 to CP850.
+{% endhighlight %}
 
- don't panic , just type `chcp 1252` and then re execute your command. 
 
- - type `Bundle --version ` to verify if all went well .
+ don't panic , just type {% highlight ruby %} chcp 1252 {% endhighlight %} and then re execute your command. 
+
+ - Execute {% highlight ruby %}Bundle --version {% endhighlight %} to verify if all went well .
 
 ### Structuring the Blog Site 
 
 
-[Sites using Jekyll](http://jekyllrb.com/docs/sites/) is a very good list of sites that i used as starting point to understand how to structure the site and good best practices to use. 
+I took these list of [Sites using Jekyll](http://jekyllrb.com/docs/sites/) , as a starting  point to understand how i should structure my blog and some best practices to use. 
 
-I got inspired a lot by  the site of [Rasmus Andersson](http://rsms.me/)([Source](https://github.com/rsms/rsms.github.com))
+I got inspired a especialy by the blog of [Rasmus Andersson](http://rsms.me/)([Source](https://github.com/rsms/rsms.github.com))
 
-
-{% highlight ruby linenos %}
-def show
-  puts "Outputting a very lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong line"
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-{% endhighlight %}
 
 
 
