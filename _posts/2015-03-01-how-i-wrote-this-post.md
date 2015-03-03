@@ -1,5 +1,5 @@
 ---
-title: "a post on my first post !"
+title: "How i wrote my first post !"
 layout: post
 og_image_url: "http://eljoujat.github.io/images/blogger_joke.jpg"
 description: "This is my first post , it took me time to write it so it's worth to write a post about it and how i wrote it!"
@@ -53,7 +53,10 @@ I made a short list of what features i need .
 
 ### Create the blog
 
-Github give a simple and easye to follow step by step [guide](https://pages.github.com/) to create your blogg, all what one should do is to follow the guide : 
+Github give a simple and easye to follow step by step [guide](https://pages.github.com/) to create your blogg, all what one should do is to follow the guide.
+
+i cloned the site into my local post so i can preview any change and validate before publishing to github . 
+
 
 ### Install Jekyll
 
@@ -71,9 +74,24 @@ To Install Jekyll is a simple task, unless you are a windows user like me .
 
  - type `Bundle --version ` to verify if all went well .
 
-### Theme and The Structure the Blog Site 
+### Structuring the Blog Site 
 
 
+[Sites using Jekyll](http://jekyllrb.com/docs/sites/) is a very good list of sites that i used as starting point to understand how to structure the site and good best practices to use. 
+
+I got inspired a lot by  the site of [Rasmus Andersson](http://rsms.me/)([Source](https://github.com/rsms/rsms.github.com))
+
+
+{% highlight ruby linenos %}
+def show
+  puts "Outputting a very lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong line"
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
 
 
 

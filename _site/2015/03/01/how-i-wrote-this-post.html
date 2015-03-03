@@ -2,7 +2,7 @@
 <html lang="en" prefix="og: http://ogp.me/ns#">
   <head>
     <meta charset="utf-8">
-    <title>a post on my first post ! &mdash; Youssef El Jaoujat</title>
+    <title>How i wrote my first post ! &mdash; Youssef El Jaoujat</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,11 +31,12 @@
     <meta name="theme-color" content="#ffffff">
      <link rel="stylesheet" href="/stylesheets/styles.css">
     <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="/stylesheets/syntax.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@eljoujat">
     
-    <meta property="og:title" content="a post on my first post !">
+    <meta property="og:title" content="How i wrote my first post !">
       
       <meta name="description" content="This is my first post , it took me time to write it so it's worth to write a post about it and how i wrote it!">
       <meta name="og:description" content="This is my first post , it took me time to write it so it's worth to write a post about it and how i wrote it!">
@@ -114,7 +115,7 @@
   <section>
   <div class="post single">
     
-    <h1>a post on my first post !</h1>
+    <h1>How i wrote my first post !</h1>
     <info datetime="2015-03-01">
       Mar 01, 2015
     </info>
@@ -166,7 +167,9 @@
 
 <h3>Create the blog</h3>
 
-<p>Github give a simple and easye to follow step by step <a href="https://pages.github.com/">guide</a> to create your blogg, all what one should do is to follow the guide :</p>
+<p>Github give a simple and easye to follow step by step <a href="https://pages.github.com/">guide</a> to create your blogg, all what one should do is to follow the guide.</p>
+
+<p>i cloned the site into my local post so i can preview any change and validate before publishing to github .</p>
 
 <h3>Install Jekyll</h3>
 
@@ -190,7 +193,23 @@
 </ul>
 
 
-<h3>Theme and The Structure the Blog Site</h3>
+<h3>Structuring the Blog Site</h3>
+
+<p><a href="http://jekyllrb.com/docs/sites/">Sites using Jekyll</a> is a very good list of sites that i used as starting point to understand how to structure the site and good best practices to use.</p>
+
+<p>I got inspired a lot by  the site of <a href="http://rsms.me/">Rasmus Andersson</a>(<a href="https://github.com/rsms/rsms.github.com">Source</a>)</p>
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="lineno">1</span> <span class="k">def</span> <span class="nf">show</span>
+<span class="lineno">2</span>   <span class="nb">puts</span> <span class="s2">&quot;Outputting a very lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong line&quot;</span>
+<span class="lineno">3</span>   <span class="vi">@widget</span> <span class="o">=</span> <span class="no">Widget</span><span class="p">(</span><span class="n">params</span><span class="o">[</span><span class="ss">:id</span><span class="o">]</span><span class="p">)</span>
+<span class="lineno">4</span>   <span class="n">respond_to</span> <span class="k">do</span> <span class="o">|</span><span class="nb">format</span><span class="o">|</span>
+<span class="lineno">5</span>     <span class="nb">format</span><span class="o">.</span><span class="n">html</span> <span class="c1"># show.html.erb</span>
+<span class="lineno">6</span>     <span class="nb">format</span><span class="o">.</span><span class="n">json</span> <span class="p">{</span> <span class="n">render</span> <span class="ss">json</span><span class="p">:</span> <span class="vi">@widget</span> <span class="p">}</span>
+<span class="lineno">7</span>   <span class="k">end</span>
+<span class="lineno">8</span> <span class="k">end</span></code></pre></div>
+
+
+
 </div>
     <!-- <div class="breaker"></div> -->
     <div class="breaker"></div>
