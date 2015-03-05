@@ -2,7 +2,7 @@
 title: "How i wrote my first post !"
 layout: post
 og_image_url: "http://eljoujat.github.io/images/blogger_joke.jpg"
-description: "This is my first post , it took me time to write it so it's worth to write a post about it and how i wrote it!"
+description: "A step by step guide on how to create your blog with Github and Jekyll "
 disqus_comments: true
 ---
 
