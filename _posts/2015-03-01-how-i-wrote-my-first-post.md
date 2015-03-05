@@ -1,5 +1,5 @@
 ---
-title: "How i wrote my first post !"
+title: "How i wrote my first post ?"
 layout: post
 og_image_url: "http://eljoujat.github.io/images/blogger_joke.jpg"
 description: "A step by step guide on how to create your blog with Github and Jekyll "
