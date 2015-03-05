@@ -3,7 +3,7 @@
   <title>Rasmus Andersson</title>
   <link href="http://eljoujat.github.io/atom.xml" rel="self"/>
   <link href="http://eljoujat.github.io/"/>
-  <updated>2015-03-03T20:41:38+00:00</updated>
+  <updated>2015-03-05T10:01:31+00:00</updated>
   <id>http://eljoujat.github.io/</id>
   <author>
     <name>Rasmus Andersson</name>
@@ -92,7 +92,7 @@
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;chcp&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1252&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt; and then re execute your command.&lt;/p&gt;
+&lt;p&gt; and then re execute the previous command.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Execute&lt;/li&gt;
@@ -104,11 +104,33 @@
 
 &lt;p&gt; to verify if all went well .&lt;/p&gt;
 
-&lt;h3&gt;Structuring the Blog Site&lt;/h3&gt;
+&lt;h3&gt;Structure of the Blog&lt;/h3&gt;
 
-&lt;p&gt;I took these list of &lt;a href=&quot;http://jekyllrb.com/docs/sites/&quot;&gt;Sites using Jekyll&lt;/a&gt; , as a starting  point to understand how i should structure my blog and some best practices to use.&lt;/p&gt;
+&lt;p&gt;I took these list of &lt;a href=&quot;http://jekyllrb.com/docs/sites/&quot;&gt;Sites using Jekyll&lt;/a&gt; , as a starting  point to understand how i should structure my blog and some best practices to apply.&lt;/p&gt;
 
-&lt;p&gt;I got inspired a especialy by the blog of &lt;a href=&quot;http://rsms.me/&quot;&gt;Rasmus Andersson&lt;/a&gt;(&lt;a href=&quot;https://github.com/rsms/rsms.github.com&quot;&gt;Source&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;I got especialy inspired  by the blog of &lt;a href=&quot;http://rsms.me/&quot;&gt;Rasmus Andersson&lt;/a&gt;(&lt;a href=&quot;https://github.com/rsms/rsms.github.com&quot;&gt;Source&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h4&gt;Layouts :&lt;/h4&gt;
+
+&lt;p&gt;Layouts allow you to define a structure and used as i want with just a declaration .&lt;/p&gt;
+
+&lt;p&gt;I defined two Layouts :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the default layout for the page (header , footer ,side bars, comments section) .&lt;/li&gt;
+&lt;li&gt;the post layout for the post ,thta include the default layout.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt; &lt;a href=&quot;https://github.com/eljoujat/eljoujat.github.io/tree/master/_layouts&quot;&gt;code source&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Includes :&lt;/h3&gt;
+
+&lt;p&gt;I used these feature , to include google analytics code and &lt;a href=&quot;https://disqus.com/&quot;&gt;disqus comments engine &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/eljoujat/eljoujat.github.io/tree/master/_includes&quot;&gt;Code source&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Start Blogging&lt;/h3&gt;
 </content>
     <author>
       <name>Rasmus Andersson</name>

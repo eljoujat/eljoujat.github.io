@@ -74,16 +74,37 @@ To Install Jekyll is a simple task, unless you are a windows user like me .
 {% endhighlight %}
 
 
- don't panic , just type {% highlight ruby %} chcp 1252 {% endhighlight %} and then re execute your command. 
+ don't panic , just type {% highlight ruby %} chcp 1252 {% endhighlight %} and then re execute the previous command. 
 
  - Execute {% highlight ruby %}Bundle --version {% endhighlight %} to verify if all went well .
 
-### Structuring the Blog Site 
+### Structure of the Blog 
 
 
-I took these list of [Sites using Jekyll](http://jekyllrb.com/docs/sites/) , as a starting  point to understand how i should structure my blog and some best practices to use. 
+I took these list of [Sites using Jekyll](http://jekyllrb.com/docs/sites/) , as a starting  point to understand how i should structure my blog and some best practices to apply. 
 
-I got inspired a especialy by the blog of [Rasmus Andersson](http://rsms.me/)([Source](https://github.com/rsms/rsms.github.com))
+I got especialy inspired  by the blog of [Rasmus Andersson](http://rsms.me/)([Source](https://github.com/rsms/rsms.github.com))
+
+#### Layouts :
+
+Layouts allow you to define a structure and used as i want with just a declaration . 
+
+I defined two Layouts :
+
+- the default layout for the page (header , footer ,side bars, comments section) . 
+- the post layout for the post ,thta include the default layout. 
+
+ [code source](https://github.com/eljoujat/eljoujat.github.io/tree/master/_layouts)
+
+### Includes : 
+
+I used these feature , to include google analytics code and [disqus comments engine ](https://disqus.com/) 
+
+[Code source](https://github.com/eljoujat/eljoujat.github.io/tree/master/_includes)
+
+### Start Blogging 
+
+
 
 
 
