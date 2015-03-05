@@ -3,7 +3,7 @@
   <title>Rasmus Andersson</title>
   <link href="http://eljoujat.github.io/atom.xml" rel="self"/>
   <link href="http://eljoujat.github.io/"/>
-  <updated>2015-03-05T10:01:31+00:00</updated>
+  <updated>2015-03-05T21:13:11+00:00</updated>
   <id>http://eljoujat.github.io/</id>
   <author>
     <name>Rasmus Andersson</name>
@@ -12,9 +12,9 @@
   
   <entry>
     <title>How i wrote my first post !</title>
-    <link href="http://eljoujat.github.io/2015/03/01/how-i-wrote-this-post.html"/>
+    <link href="http://eljoujat.github.io/2015/03/01/how-i-wrote-my-first-post.html"/>
     <updated>2015-03-01T00:00:00+00:00</updated>
-    <id>http://eljoujat.github.io/2015/03/01/how-i-wrote-this-post</id>
+    <id>http://eljoujat.github.io/2015/03/01/how-i-wrote-my-first-post</id>
     <content type="html">&lt;blockquote&gt;&lt;p&gt;“There is no greater agony than bearing an untold story inside you.” .
 &lt;a href=&quot;http://www.mayaangelou.com/&quot;&gt;Maya Angelou&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 
@@ -130,7 +130,13 @@
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/eljoujat/eljoujat.github.io/tree/master/_includes&quot;&gt;Code source&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;Start Blogging&lt;/h3&gt;
+&lt;h3&gt;Write the first post&lt;/h3&gt;
+
+&lt;p&gt;Once the structure of the blog is well defined, all what&amp;rsquo;s left is to print my ideas on a text format that Jekyll and github can render to obtain what you are seeing and reading right now .&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;&lt;p&gt;“I believe that there is always an other way to do it, and i hope that you let me know .”&lt;/p&gt;&lt;/blockquote&gt;
 </content>
     <author>
       <name>Rasmus Andersson</name>

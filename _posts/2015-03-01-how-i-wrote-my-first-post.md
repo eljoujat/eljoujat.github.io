@@ -102,7 +102,18 @@ I used these feature , to include google analytics code and [disqus comments eng
 
 [Code source](https://github.com/eljoujat/eljoujat.github.io/tree/master/_includes)
 
-### Start Blogging 
+### Write the first post
+
+Once the structure of the blog is well defined, all what's left is to print my ideas on a text format that Jekyll and github can render to obtain what you are seeing and reading right now . 
+
+ * * *
+
+
+
+
+> “I believe that there is always an other way to do it, and i hope that you let me know .”
+ 
+
 
 
 
