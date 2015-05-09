@@ -1,8 +1,8 @@
 ---
-title: "Writing Impex with Style !"
+title: "Writing Hybris Impex with Style !"
 layout: post
-og_image_url: "http://eljoujat.github.io/images/blogger_joke.jpg"
-description: "A step by step guide on how to create your blog with Github and Jekyll "
+og_image_url: "http://eljoujat.github.io/images/impex/image004.jpg"
+description: "Writing Hybris Impex with style: a short story about a may last lab. Devlopping an eclipse plugin that will change the way you work with Impex with"
 disqus_comments: true
 ---
 
