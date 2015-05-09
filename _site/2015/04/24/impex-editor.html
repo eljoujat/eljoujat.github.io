@@ -1,0 +1,383 @@
+<!DOCTYPE HTML>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8">
+    <title>Writing Impex with Style ! &mdash; Youssef El Jaoujat</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link href='http://fonts.googleapis.com/css?family=Poly:400,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic' rel='stylesheet' type='text/css'>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+     <script src=" https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.1.1/isotope.pkgd.js"></script>
+    <link rel="alternate" type="application/atom+xml" title="Youssef El Jaoujat" href="/atom.xml">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+     <link rel="stylesheet" href="/stylesheets/styles.css">
+    <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="/stylesheets/syntax.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@eljoujat">
+    
+    <meta property="og:title" content="Writing Impex with Style !">
+      
+      <meta name="description" content="A step by step guide on how to create your blog with Github and Jekyll ">
+      <meta name="og:description" content="A step by step guide on how to create your blog with Github and Jekyll ">
+      
+    
+    
+    <meta property="og:image" content="http://eljoujat.github.io/images/blogger_joke.jpg">
+    
+    <meta property="og:url" content="http://eljoujat.github.io/2015/04/24/impex-editor.html">
+    <meta property="og:site_name" content="Yocef-Lab">
+    <meta property="og:type" content="article">
+    <meta property="og:locale" content="en_GB" />
+    
+    <meta property="article:published_time" content="2015-04-24">
+    
+    
+    <script>
+  //html { zoom:50%; }
+  if (window.addEventListener) {
+    var sidebarAdjustTimer;
+    function updateOrientation(orientationChangeEvent) {
+      if (sidebarAdjustTimer) clearInterval(sidebarAdjustTimer);
+      //console.log('window.orientation -> '+window.orientation);
+      if (window.orientation === -90 || window.orientation === 90) {
+        // landscape
+        var sidebar = document.getElementById('sidebar');
+        if (!sidebar.src || sidebar.src === '') {
+          sidebar.src = '/archive/sidebar.html';
+        }
+        sidebarAdjustTimer = setInterval(function() {
+          var height = Math.round(document.height * 1.6);
+          if (sidebar.height != height) {
+            sidebar.height = height;
+            sidebar.style.height = height + 'px';
+          }
+        },500);
+      } else {
+        // portrait
+      }
+    }
+    window.addEventListener('orientationchange', updateOrientation);
+    document.addEventListener('DOMSubtreeModified', function(ev) {
+      if (document.getElementById('sidebar')) {
+        document.removeEventListener('DOMSubtreeModified', arguments.callee);
+        updateOrientation();
+      }
+    });
+  }
+</script>
+    
+    
+       <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+  <div class="wrapper">
+     <header>
+    <nav class="global-nav deluxe" id="main-nav" role="navigation">
+    <ul class="inline-items">
+      <li><a href="/archive/" title="Archived articles"><h3>Archives</h3></a></li>
+      <li><a href="/projects/" title="projects "><h3>Projects</h3></a></li>
+      <li><a href="/about/"><h3>About me</h3></a></li>
+    </ul>
+    </nav>
+        <aside>
+          <div class="sidebox">    
+          <a href="/"><h1>Yocef-Lab</h1></a>
+          <p></p>
+
+          </div> 
+       </aside>   
+      </header>
+    <!--div class="wrapper content"-->
+      <div class="content content">
+  <section>
+  <div class="post single">
+    
+    <h1>Writing Impex with Style !</h1>
+    <info datetime="2015-04-24">
+      Apr 24, 2015
+    </info>
+    
+    <div class="body"><blockquote><p>“TODO: Citation here.” .
+<a href="http://www.mayaangelou.com/">Maya Angelou</a></p></blockquote>
+
+<h2>The idea behind the current lab.</h2>
+
+<p>Impex is a <a href="http://hybris.com">hybris</a> specific language in top of SQL to import/export data the database.</p>
+
+<p>The lack of tools for working with Impex, make this tasks a laborious one. In fact some available tools are:</p>
+
+<ul>
+<li>Web console offered by hybris:
+
+<ul>
+<li>Pros: Syntax highlighting, validation, execution.</li>
+<li>Cons : requires a running instance of hybris, going out from eclipse, risking to loose all you work if the browser crashes.</li>
+</ul>
+</li>
+<li>Excel or similar tools that could read and format CSV file:
+
+<ul>
+<li>Pros: Formatting that offers higher readability</li>
+<li>Cons: no syntax highlighting, no validation and execution.</li>
+</ul>
+</li>
+<li>Eclipse or similar IDE:
+
+<ul>
+<li>Pros: you stay focus on your IDE.</li>
+<li>Cons: no formatting, no syntax highlighting, no validation and execution.</li>
+</ul>
+</li>
+</ul>
+
+
+<p>The most used option is to use eclipse! Even if it&rsquo;s the poorest option, but developer tend to choose it to stay more focus.</p>
+
+<h2>Eclipse Plugin :</h2>
+
+<p>To boost my productivity and to be more focus,I decided to develop an Impex eclipse plugin.</p>
+
+<p>The plugin should bring the hybris web console functionalities to eclipse.
+The challenge was that all that I know about eclipse plugin development are some basic notions.</p>
+
+<h3>Learn by example:</h3>
+
+<p>I believe the best way to learn new things is to start with some theory, then jump to a practical example where the real wisdom is gained.</p>
+
+<ul>
+<li>A good theorical Article is <a href="http://www.eclipsepluginsite.com/">Introduction To Eclipse Plugin Development</a>.</li>
+<li>A good practical tutorial i found interesting is :  <a href="http://www.vogella.com/tutorials/EclipsePlugIn/article.html">Extending the Eclipse IDE - Plug-in development - Tutorial</a></li>
+</ul>
+
+
+<p>I took as example the sample plugin project given by eclipse to create a xml editor .</p>
+
+<h3>Components of the plugin :</h3>
+
+<h4>Syntax highlighting:</h4>
+
+<p>The Syntax highlighting feature uses the rule based scanner class ;  the scanner toos a givent number of rule, it cosume the impex file and evalute each token, if the token match a rule , the scanner exit with the correspondant properties.</p>
+
+<p>The ruleset are based on the Hybris <a href="https://wiki.hybris.com/display/release5/ImpEx+Syntax">Impex syntax documentation</a></p>
+
+<p>Before :
+<img src="/images/impex/avant.png" alt="Before" /></p>
+
+<p>After :</p>
+
+<p><img src="/images/impex/after.png" alt="After" /></p>
+
+<h3>Preferences Of the plugins :</h3>
+
+<p>I also used the Preferences API to allow customisation, to give the more friendly user experience.</p>
+
+<p>It&rsquo;s possible to customize the feel and look of the Impex file:</p>
+
+<p><img src="/images/impex/perferences_1.png" alt="Preference Snapshot" /></p>
+
+<p>And you can configure the connection with hybris, to execute and validate the impex with any running instance of hybris !</p>
+
+<p><img src="/images/impex/perferences_2.png" alt="Preference Snapshot" /></p>
+
+<h4>Detecting hyrbis Item and attributes :</h4>
+
+<p>The first time eclipse run, the plugin connect to a the already configured running hybris instance (by default the localhost),call the Rest Webservice <code>allItems</code> , and <code>allAttributes</code> (exposed by hybris) and store the information to avoid call the web service again.</p>
+
+<p>To detect newly added Items or attributes, I Implementer an action to refresh the already stored data definition.</p>
+
+<h4>A challenge and a new techniques acquired :</h4>
+
+<p>The web services exposed by hybris require a registered hybris account and it&rsquo;s secured against <a href="http://en.wikipedia.org/wiki/Cross-site_request_forgery">Cross-site request forgery</a>.</p>
+
+<p>To make a successful call the request should pass a crsf token, the token is associated with the connected account. the challenge was that token is stored on the HTML code of a response, and I had to use the <a href="http://jsoup.org/">jsoup</a> library to retrieve the token.</p>
+
+<ul>
+<li>Make a first to login, the call return with a JSESSIONID, I store the JSESSIONID for a further call.</li>
+<li>Use jsoup with the stored JSESSIONID, and get the crsf token from the html.</li>
+<li>Make a Rest Call to retrieve the Items and attributes definition.</li>
+</ul>
+
+
+<h3>The coolest feature : Autocompletion .</h3>
+
+<p>The auto-completion is the moste liked what the most user look for in any text editor, since i have stored the data deffinition, this feature was easy to implement as well :</p>
+
+<p><img src="/images/impex/autosuggest.png" alt="Preference Snapshot" /></p>
+
+<h2>Install the plugin :</h2>
+
+<p>To install the plugin just copy <a href="/labs/org.ucf.eclipseplugins.impexeditor_1.5.4.201505091329.jar">eclipseplugins</a> to the dropins folder under eclipse directory , and restart eclipse , and enjoy :)</p>
+
+<h2>What next:</h2>
+
+<p>Other features i&rsquo;m working on are :</p>
+
+<ul>
+<li>Validate the impex with error markers.</li>
+<li>Execute the impex .</li>
+<li>Hyperlink features to easily locate where an Item is already valued from the same impex .</li>
+<li>Find usage Features, find all usage for the selected definied and selected item .</li>
+<li>Formatting .</li>
+</ul>
+
+
+<h2>Code Source Repos:</h2>
+
+<p><a href="https://github.com/eljoujat/eclipseimpexeditor">The code source repo is available here </a></p>
+
+<blockquote><p>“I believe that there is always an other way to do it, and i hope that you let me know .”</p></blockquote>
+</div>
+    <!-- <div class="breaker"></div> -->
+    <div class="breaker"></div>
+    <!-- <info class="after">
+<div class="fb-like" data-href="http://rsms.me/2015/04/24/impex-editor.html" data-send="false" data-width="550" data-show-faces="false" data-font="arial"></div>
+    </info> -->
+
+  
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      window.disqus_identifier = "/2015/04/24/impex-editor";
+    </script>
+    <script async src="http://hunch.disqus.com/embed.js"></script>
+    <noscript>Please enable JavaScript to view the
+      <a href="http://disqus.com/?ref_noscript=hunch">comments powered by Disqus.</a>
+    </noscript>
+    <script>
+// Disqus
+var disqus_shortname = 'yocef-lab';
+if (!window.disqus_url) window.disqus_url = "http://eljoujat.github.io/2015/04/24/impex-editor.html";
+if (!window.disqus_title) window.disqus_title = document.title;
+(function(){try{
+// this hack takes care of formatting # comments
+var v = document.getElementsByClassName('dsq-comment-count');
+var loaded = false;
+var polle;
+for (var i=0;i<v.length;i++) {
+  var e = v.item(i);
+  if (e.firstChild.nodeValue === '-') {
+    polle = e.firstChild;
+    break;
+  }
+}
+function onload() {
+  for (var i=0;i<v.length;i++) {
+    var e = v.item(i);
+    if (e.firstChild.nodeValue !== '0 and 0') {
+      var m = e.firstChild.nodeValue.split(' ');
+      e.firstChild.nodeValue = String(parseInt(m[0]) + parseInt(m[2]));
+      e.style.display = 'inline';
+    }
+  }
+}
+if (polle) {
+  var timer = setInterval(function(){
+    if (polle.nodeValue !== '-') { clearInterval(timer); onload(); }
+  },100);
+}
+}catch(e){}})();
+</script>
+<script async src="http://disqus.com/forums/yocef-lab/count.js"></script>
+
+  
+  </div>
+  </section>
+</div>
+
+<!-- During authoring, this automatically reloads the post as its changing -->
+<script type="text/javascript">
+(function() {
+var qs = document.location.search;
+var current_etag = qs.match(/etag=("?[a-zA-Z0-9_-]+)/);
+if (current_etag !== null) { current_etag = current_etag[1]; }
+var scrolly = qs.match(/scrolly=([0-9]+)/);
+if (scrolly) {
+  scrolly = parseInt(scrolly[1]);
+  window.scrollTo(window.scrollX, scrolly);
+  setTimeout(function () {
+    window.scrollTo(window.scrollX, scrolly);
+  }, 10);
+}
+
+function check() {
+  var r = new XMLHttpRequest();
+  var url = document.location.href + ((qs && qs !== '') ? '&' : '?') + 'r=' + Math.random();
+  r.open('GET', url, true);
+  r.onreadystatechange = function() {
+    if (r.readyState == 4){
+      var found_etag = r.getResponseHeader('Etag').replace(/^"|"$/g);
+      //console.log('current_etag:', current_etag, 'found_etag:', found_etag);
+      if (current_etag === null) {
+        current_etag = found_etag;
+      } else if (found_etag !== current_etag) {
+        document.location.search =
+          '?etag=' + encodeURIComponent(found_etag) +
+          '&scrolly=' + window.scrollY;
+        return;
+      }
+      setTimeout(check, 500);
+    }
+  };
+  r.send(null);
+}
+check();
+})();
+</script>
+
+
+    <!--/div-->
+    
+    
+    
+    
+    
+    
+     <footer>
+        <p class="view"><a href="https://github.com/eljoujat">You can also find me in</a></p>
+          <div class="socialaccounts">
+            <a href="https://github.com/eljoujat/" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-github.png"> </a> 
+            <a href="http://www.linkedin.com/in/eljaoujat" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-linkedin.png" alt="LinkedIn" title="Let's connect!"></a>
+          <a href="https://www.facebook.com/eljoujat" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-facebook.png"> </a><a href="https://plus.google.com/+YoussefELJAOUJAT/posts" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-googleplus.png"></a>
+           </div>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+          
+      </footer>
+    
+    
+    <script src="javascripts/scale.fix.js"></script>
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-60231332-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+</script>
+
+  </div>
+  </body>
+</html>

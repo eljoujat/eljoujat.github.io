@@ -3,12 +3,153 @@
   <title>Rasmus Andersson</title>
   <link href="http://eljoujat.github.io/atom.xml" rel="self"/>
   <link href="http://eljoujat.github.io/"/>
-  <updated>2015-03-06T08:17:04+00:00</updated>
+  <updated>2015-05-09T13:45:06+01:00</updated>
   <id>http://eljoujat.github.io/</id>
   <author>
     <name>Rasmus Andersson</name>
     <email>rasmus@notion.se</email>
   </author>
+  
+  <entry>
+    <title>Writing Impex with Style !</title>
+    <link href="http://eljoujat.github.io/2015/04/24/impex-editor.html"/>
+    <updated>2015-04-24T00:00:00+01:00</updated>
+    <id>http://eljoujat.github.io/2015/04/24/impex-editor</id>
+    <content type="html">&lt;blockquote&gt;&lt;p&gt;“TODO: Citation here.” .
+&lt;a href=&quot;http://www.mayaangelou.com/&quot;&gt;Maya Angelou&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;h2&gt;The idea behind the current lab.&lt;/h2&gt;
+
+&lt;p&gt;Impex is a &lt;a href=&quot;http://hybris.com&quot;&gt;hybris&lt;/a&gt; specific language in top of SQL to import/export data the database.&lt;/p&gt;
+
+&lt;p&gt;The lack of tools for working with Impex, make this tasks a laborious one. In fact some available tools are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web console offered by hybris:
+
+&lt;ul&gt;
+&lt;li&gt;Pros: Syntax highlighting, validation, execution.&lt;/li&gt;
+&lt;li&gt;Cons : requires a running instance of hybris, going out from eclipse, risking to loose all you work if the browser crashes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Excel or similar tools that could read and format CSV file:
+
+&lt;ul&gt;
+&lt;li&gt;Pros: Formatting that offers higher readability&lt;/li&gt;
+&lt;li&gt;Cons: no syntax highlighting, no validation and execution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Eclipse or similar IDE:
+
+&lt;ul&gt;
+&lt;li&gt;Pros: you stay focus on your IDE.&lt;/li&gt;
+&lt;li&gt;Cons: no formatting, no syntax highlighting, no validation and execution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;The most used option is to use eclipse! Even if it&amp;rsquo;s the poorest option, but developer tend to choose it to stay more focus.&lt;/p&gt;
+
+&lt;h2&gt;Eclipse Plugin :&lt;/h2&gt;
+
+&lt;p&gt;To boost my productivity and to be more focus,I decided to develop an Impex eclipse plugin.&lt;/p&gt;
+
+&lt;p&gt;The plugin should bring the hybris web console functionalities to eclipse.
+The challenge was that all that I know about eclipse plugin development are some basic notions.&lt;/p&gt;
+
+&lt;h3&gt;Learn by example:&lt;/h3&gt;
+
+&lt;p&gt;I believe the best way to learn new things is to start with some theory, then jump to a practical example where the real wisdom is gained.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A good theorical Article is &lt;a href=&quot;http://www.eclipsepluginsite.com/&quot;&gt;Introduction To Eclipse Plugin Development&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;A good practical tutorial i found interesting is :  &lt;a href=&quot;http://www.vogella.com/tutorials/EclipsePlugIn/article.html&quot;&gt;Extending the Eclipse IDE - Plug-in development - Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;I took as example the sample plugin project given by eclipse to create a xml editor .&lt;/p&gt;
+
+&lt;h3&gt;Components of the plugin :&lt;/h3&gt;
+
+&lt;h4&gt;Syntax highlighting:&lt;/h4&gt;
+
+&lt;p&gt;The Syntax highlighting feature uses the rule based scanner class ;  the scanner toos a givent number of rule, it cosume the impex file and evalute each token, if the token match a rule , the scanner exit with the correspondant properties.&lt;/p&gt;
+
+&lt;p&gt;The ruleset are based on the Hybris &lt;a href=&quot;https://wiki.hybris.com/display/release5/ImpEx+Syntax&quot;&gt;Impex syntax documentation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Before :
+&lt;img src=&quot;/images/impex/avant.png&quot; alt=&quot;Before&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/impex/after.png&quot; alt=&quot;After&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Preferences Of the plugins :&lt;/h3&gt;
+
+&lt;p&gt;I also used the Preferences API to allow customisation, to give the more friendly user experience.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s possible to customize the feel and look of the Impex file:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/impex/perferences_1.png&quot; alt=&quot;Preference Snapshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And you can configure the connection with hybris, to execute and validate the impex with any running instance of hybris !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/impex/perferences_2.png&quot; alt=&quot;Preference Snapshot&quot; /&gt;&lt;/p&gt;
+
+&lt;h4&gt;Detecting hyrbis Item and attributes :&lt;/h4&gt;
+
+&lt;p&gt;The first time eclipse run, the plugin connect to a the already configured running hybris instance (by default the localhost),call the Rest Webservice &lt;code&gt;allItems&lt;/code&gt; , and &lt;code&gt;allAttributes&lt;/code&gt; (exposed by hybris) and store the information to avoid call the web service again.&lt;/p&gt;
+
+&lt;p&gt;To detect newly added Items or attributes, I Implementer an action to refresh the already stored data definition.&lt;/p&gt;
+
+&lt;h4&gt;A challenge and a new techniques acquired :&lt;/h4&gt;
+
+&lt;p&gt;The web services exposed by hybris require a registered hybris account and it&amp;rsquo;s secured against &lt;a href=&quot;http://en.wikipedia.org/wiki/Cross-site_request_forgery&quot;&gt;Cross-site request forgery&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To make a successful call the request should pass a crsf token, the token is associated with the connected account. the challenge was that token is stored on the HTML code of a response, and I had to use the &lt;a href=&quot;http://jsoup.org/&quot;&gt;jsoup&lt;/a&gt; library to retrieve the token.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Make a first to login, the call return with a JSESSIONID, I store the JSESSIONID for a further call.&lt;/li&gt;
+&lt;li&gt;Use jsoup with the stored JSESSIONID, and get the crsf token from the html.&lt;/li&gt;
+&lt;li&gt;Make a Rest Call to retrieve the Items and attributes definition.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;The coolest feature : Autocompletion .&lt;/h3&gt;
+
+&lt;p&gt;The auto-completion is the moste liked what the most user look for in any text editor, since i have stored the data deffinition, this feature was easy to implement as well :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/impex/autosuggest.png&quot; alt=&quot;Preference Snapshot&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Install the plugin :&lt;/h2&gt;
+
+&lt;p&gt;To install the plugin just copy &lt;a href=&quot;/labs/org.ucf.eclipseplugins.impexeditor_1.5.4.201505091329.jar&quot;&gt;eclipseplugins&lt;/a&gt; to the dropins folder under eclipse directory , and restart eclipse , and enjoy :)&lt;/p&gt;
+
+&lt;h2&gt;What next:&lt;/h2&gt;
+
+&lt;p&gt;Other features i&amp;rsquo;m working on are :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Validate the impex with error markers.&lt;/li&gt;
+&lt;li&gt;Execute the impex .&lt;/li&gt;
+&lt;li&gt;Hyperlink features to easily locate where an Item is already valued from the same impex .&lt;/li&gt;
+&lt;li&gt;Find usage Features, find all usage for the selected definied and selected item .&lt;/li&gt;
+&lt;li&gt;Formatting .&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Code Source Repos:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/eljoujat/eclipseimpexeditor&quot;&gt;The code source repo is available here &lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;“I believe that there is always an other way to do it, and i hope that you let me know .”&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+    <author>
+      <name>Rasmus Andersson</name>
+      <uri>http://eljoujat.github.io/about/</uri>
+    </author>
+  </entry>
   
   <entry>
     <title>How i wrote my first post ?</title>

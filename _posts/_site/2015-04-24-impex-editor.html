@@ -1,0 +1,148 @@
+<blockquote>
+  <p>“TODO: Citation here.” .
+<a href="http://www.mayaangelou.com/">Maya Angelou</a> </p>
+</blockquote>
+
+<h2 id="idea-behind-the-current-lab-">Idea behind the current lab .</h2>
+
+<p>Impex is the <a href="http://hybris.com">hybris</a> way to import and export data to/from the data base. it’s a sepcifique language that comes in top of SQL languages .</p>
+
+<p>As a Hybris Devlopper , i’m constantly working with Impex, one things that not make life easy when dealing with this language is the leak of tools that facilitate writing , validating and executing impex files. In fact some options are :</p>
+
+<ul>
+  <li>Web console offered by hybris:
+    <ul>
+      <li>pros : Syntax highlithing , validation, execution.</li>
+      <li>cons : requires a running instance of hybris, go out from eclipse coy past , risk to loose all you wrok if the browser close accedentaly.</li>
+    </ul>
+  </li>
+  <li>Excel or similar tools that could read and format csv file:
+    <ul>
+      <li>pros : Formatting that offers higher lisibility </li>
+      <li>cons : no syntax highliting , no validation and execution.</li>
+    </ul>
+  </li>
+  <li>Eclipse or similar IDE :
+    <ul>
+      <li>pros : you saty focus on your IDE.</li>
+      <li>cons : no formatting, no syntax highliting , no validation and execution.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Surpringly in my four years wiht Hybris and impex the most used method is work with impex from within eclipse !! one reason behinf that is that help to stay more focus.which what thought workers need more that any thing to be productive.  </p>
+
+<h2 id="eclipse-plugin-">Eclipse Plugin :</h2>
+
+<p>So, to win some times avoid frustruation and to be more focus, i decided to write a plugin that brings hybris web cosole  functionnalities to eclipse.</p>
+
+<p>The challenge was that all what i know  about eclipse plugin devloppement, is that’s wrinting in java ,and it’s feasible. </p>
+
+<h3 id="learn-by-example">Learn by example:</h3>
+
+<p>I’m convinced that the best way to learn new things is to begine with general theory no more than 30 minutes ,then jump quickly to a practicle example where the real wisdon is gained. So i did . </p>
+
+<p>A good theorical Article is <a href="http://linkToTheorical.com">TODO</a>. a good tutorila i recommande is the <a href="http://linkToVogellaTutos.com">Vogella tutorials for eclipse Plugin Devloppement</a></p>
+
+<h3 id="new-project">New Project:</h3>
+
+<p>I created the new projetc based on the eclipse Sample  to highlight an XML file . </p>
+
+<p>All The world is governed by same rules (laws) (Einseitein life was convinced that’s a unique same law) just the manifestation of this law varies . given that one most techique one should practicie all the time is reasoning by analogy and generalisation . </p>
+
+<p>So i did , </p>
+
+<p>XML : IMPEX</p>
+
+<p>file extention .xml    file extention .impex </p>
+
+<p>Eevery programming experiments i do, every new software notion i learn or i wish to learn. On my daily job tasks, i face problems that take me time to solve, so i will write posts describing how i solve them. I will write posts about every idea that found its path to my mind.</p>
+
+<p>Bref, This blog will be my laboratory.</p>
+
+<h2 id="ghost-medium-blogger-which-blogging-platform-to-use-">Ghost, Medium, Blogger,… which blogging platform to use ?</h2>
+
+<p>I start my day with reading what’s new on <a href="https://news.ycombinator.com/news">Hacker News</a>, most of them are posts on blog hosted on platforms , like <a href="https://medium.com/">Medium</a>, <a href="https://svbtle.com/">svbtle</a>, <a href="https://www.blogger.com">Blogger</a>, <a href="https://ghost.org/">ghost</a>. each one of theme has pros and cons that i will not details here .</p>
+
+<p>I made a short list of what features i need .</p>
+
+<ul>
+  <li>Free hosting ☺  (a personal domain is not) .</li>
+  <li>Progammer freindly :allow to write code with features like , formatting, syntax highliting…</li>
+  <li>Simple and minimalist</li>
+  <li>Easy and powerful customization </li>
+  <li>Allow to write fast and publishing faster.</li>
+</ul>
+
+<p><a href="http://jekyllrb.com/">Jekyll</a> with <a href="http://pages.github.com/">github pages</a> as free hosting solution was what suited for me the best .</p>
+
+<h2 id="start-blogging">Start Blogging</h2>
+
+<h3 id="create-the-blog">Create the blog</h3>
+
+<p>Github give a simple and easye to follow step by step <a href="https://pages.github.com/">guide</a> to create your blogg, all what one should do is to follow the guide.</p>
+
+<p>i cloned the site into my local post so i can preview any change and validate before publishing to github . </p>
+
+<h3 id="install-jekyll">Install Jekyll</h3>
+
+<p>To Install Jekyll is a simple task, unless you are a windows user like me .</p>
+
+<ul>
+  <li>Download and install Ruby from <a href="http://rubyinstaller.org/downloads#download-links">Ruby Installer</a></li>
+  <li>Download and install Ruby Devkit  from <a href="http://rubyinstaller.org/downloads#ownload-links">Ruby Dev Kit</a></li>
+  <li>Extract the Dev kit zip to a local directory, and add it to the windows PATH variable.</li>
+  <li>Open up a command prompt and type : 
+&lt;div class="highlight"&gt;&lt;pre&gt;<code class="language-ruby" data-lang="ruby"><span class="n">gem</span> <span class="n">install</span> <span class="no">Bundle</span></code>&lt;/pre&gt;&lt;/div&gt;</li>
+</ul>
+
+<p>If you have this error </p>
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="ss">ERROR</span><span class="p">:</span>  <span class="no">While</span> <span class="n">executing</span> <span class="n">gem</span> <span class="p">(</span><span class="no">Encoding</span><span class="o">::</span><span class="no">UndefinedConversionError</span><span class="p">)</span>
+    <span class="n">U</span><span class="o">+</span><span class="mi">2019</span> <span class="n">to</span> <span class="no">CP850</span> <span class="k">in</span> <span class="n">conversion</span> <span class="n">from</span> <span class="no">UTF</span><span class="o">-</span><span class="mi">16</span><span class="no">LE</span> <span class="n">to</span> <span class="no">UTF</span><span class="o">-</span><span class="mi">8</span> <span class="n">to</span> <span class="no">CP850</span><span class="o">.</span></code></pre></div>
+
+<p>don’t panic , just type 
+&lt;div class="highlight"&gt;&lt;pre&gt;<code class="language-ruby" data-lang="ruby"><span class="n">chcp</span> <span class="mi">1252</span></code>&lt;/pre&gt;&lt;/div&gt;
+ and then re execute the previous command. </p>
+
+<ul>
+  <li>Execute 
+&lt;div class="highlight"&gt;&lt;pre&gt;<code class="language-ruby" data-lang="ruby"><span class="no">Bundle</span> <span class="o">--</span><span class="n">version</span></code>&lt;/pre&gt;&lt;/div&gt;
+ to verify if all went well .</li>
+</ul>
+
+<h3 id="structure-of-the-blog">Structure of the Blog</h3>
+
+<p>I took these list of <a href="http://jekyllrb.com/docs/sites/">Sites using Jekyll</a> , as a starting  point to understand how i should structure my blog and some best practices to apply. </p>
+
+<p>I got especialy inspired  by the blog of <a href="http://rsms.me/">Rasmus Andersson</a>(<a href="https://github.com/rsms/rsms.github.com">Source</a>)</p>
+
+<h4 id="layouts-">Layouts :</h4>
+
+<p>Layouts allow you to define a structure and used as i want with just a declaration . </p>
+
+<p>I defined two Layouts :</p>
+
+<ul>
+  <li>the default layout for the page (header , footer ,side bars, comments section) . </li>
+  <li>the post layout for the post ,thta include the default layout. </li>
+</ul>
+
+<p><a href="https://github.com/eljoujat/eljoujat.github.io/tree/master/_layouts">code source</a></p>
+
+<h3 id="includes-">Includes :</h3>
+
+<p>I used these feature , to include google analytics code and <a href="https://disqus.com/">disqus comments engine </a> </p>
+
+<p><a href="https://github.com/eljoujat/eljoujat.github.io/tree/master/_includes">Code source</a></p>
+
+<h3 id="write-the-first-post">Write the first post</h3>
+
+<p>Once the structure of the blog is well defined, all what’s left is to print my ideas on a text format that Jekyll and github can render to obtain what you are seeing and reading right now . </p>
+
+<hr />
+
+<blockquote>
+  <p>“I believe that there is always an other way to do it, and i hope that you let me know .”</p>
+</blockquote>
+
