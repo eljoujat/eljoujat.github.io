@@ -7,8 +7,8 @@ disqus_comments: true
 ---
 
 
-> “TODO: Citation here.” .
-[Maya Angelou](http://www.mayaangelou.com/) 
+> “Two things that drive us, software development addicts: enthusiasm and laziness...” .
+[Maya Angelou](ANONYMOUS) 
 
 
 ## The idea behind the current lab. 
