@@ -7,8 +7,8 @@ disqus_comments: true
 ---
 
 
-> “Two things that drive us, software development addicts: enthusiasm and laziness...” .
-[Maya Angelou](ANONYMOUS) 
+> Two things that drive us, software development addicts: enthusiasm and laziness...
+ANONYMOUS
 
 
 ## The idea behind the current lab. 
