@@ -323,3 +323,17 @@ ul.inline-items li {
     color:#999;
     font-style:italic;
 }
+
+/*** Apply Wired's Hyperlink Style ***/
+.body a {
+
+  color:#777;
+  box-shadow : 0px -4px 0px #CBEEFA inset;
+  border-bottom: 1px solid #CBEEFA;
+
+}
+
+.body a:hover {
+  background: #CBEEFA;
+  color: rose;
+}
