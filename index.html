@@ -2,39 +2,39 @@
 layout: default
 ---
 <div >
-  <section class="posts">
+  <section class="posts">    
     {% for post in site.posts limit:25 %}
-    <div class="post_entry">
-    <a href="{{ post.url }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}">
-       <div class="title">{{ post.title }}</div>
-       {% if post.photo_url %}
-        <div class="image" style="background-image:url('{{ post.photo_url }}')"></div>
-      {% else %}
-        <!-- <div class="title">{{ post.title }}</div> -->
-        <info datetime="{{ page.date | date: "%Y-%m-%d" }}">
-          {{ post.date | date: "%b %Y" }}
-        </info>
-        {% if post.description %}
-        <span class="body">{{ post.description | strip_html }}</span>
-        {% else %}
-        <span class="body">{{ post.excerpt | strip_html }}</span>
-        {% endif %}
-      {% endif %}<!-- post.photo_url -->
-     </a>
-   </div>
-    {% endfor %}
+<div class="card">
+<div class="action">
+    <a href='{{ post.url }}'><span class="title">{{ post.title }}</span></a>
+  </div>
+  <div class="image">
+  {% if post.photo_url %}
+        <img src="{{ post.photo_url }}">
+  {% endif %}
     
+  </div>
+  <div class="content">
+    <p>{{ post.description | strip_html }}</p>
+  </div>
+  <div class="action">
+    <info datetime>{{ post.date | date: "%b %Y" }}</info>
+    <a href='{{ post.url }}' class="more">...</a>
+  </div>
+</div>
+    {% endfor %}
   </section>
 </div>
+
 
 <script type="text/javascript">
 
 $( function() {
   
   $('.posts').isotope({
-    itemSelector: '.post_entry',
+    itemSelector: '.card',
     masonry: {
-      columnWidth: 100
+
     }
   });
 
