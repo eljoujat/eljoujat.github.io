@@ -16,7 +16,7 @@ ANONYMOUS
 
 Impex is a [hybris](http://hybris.com) specific language in top of SQL to import/export data .
 
-The lack of tools makes things difficult when working with Impex, in fact some available options are :
+The lack of tools make things difficult when working with Impex, in fact some available options are :
 
 - Web console offered by hybris:
 	- Pros: Syntax highlighting, validation, execution.
@@ -29,14 +29,12 @@ The lack of tools makes things difficult when working with Impex, in fact some a
 	- Cons: no formatting, no syntax highlighting, no validation and execution.
 
 
-The most used option is to use eclipse! Even if it's the poorest option, but developer tend to choose it to stay more focus.
+And guess what, Eclipse is The most used option ! developers choose it over other options , beacause it allow them to stay more focus.
 
 ## Eclipse Plugin :
 
-To boost my productivity and to be more focus,I decided to develop an Impex eclipse plugin.
-
-The plugin should bring the hybris web console functionalities to eclipse.
-The challenge was that all that I know about eclipse plugin development are some basic notions.
+To boost my productivity and to be more focus while working withe impex on Eclipse, I decided to develop an Impex Editor.The plugin should bring the hybris web console features to eclipse.
+Still that all what I know about eclipse plugin development is some basic notions.
 
 ### Learn by example:
 
@@ -51,7 +49,7 @@ I took as example the sample plugin project given by eclipse to create a xml edi
 
 #### Syntax highlighting:
 
-The Syntax highlighting feature uses the rule based scanner class. The scanner takes a givent number of rules, and cosumes the impex file and evaluates each token. If the token matches a rule, the scanner exits with the corresponding properties.
+The Syntax highlighting feature uses the rule based scanner class, given a set of rules, the scanner consumes the impex file and evaluates each token. If the token matches a rule, the scanner exits with the corresponding properties.
 
 The ruleset are based on the Hybris [Impex syntax documentation](https://wiki.hybris.com/display/release5/ImpEx+Syntax)
 
@@ -67,13 +65,11 @@ After :
 
 ### Preferences of the plugins :
 
-I also used the Preferences API to allow customisation, to give the more friendly user experience.
-
-It's possible to customize colors of text on the Impex file:
+To give the more friendly user experience,i used the Preferences API to allow customisation.
 
 ![Preference Snapshot](/images/impex/perferences_1.png)
 
-And you can configure the connection with hybris, to execute and validate the impex with any running instance of hybris !
+I also possible to configure the connection parameters with hybris, this connection will be used to execute and validate the impex .
 
 ![Preference Snapshot](/images/impex/perferences_2.png)
 
@@ -81,29 +77,29 @@ And you can configure the connection with hybris, to execute and validate the im
 
 #### Detecting hyrbis Item and attributes :
 
-The first time eclipse run, the plugin connect to a the already configured running hybris instance (by default the localhost),call the Rest Webservice `allItems` , and `allAttributes` (exposed by hybris) and store the information to avoid call the web service again.
+The first time eclipse run, the plugin connect to the already configured running hybris instance, calls the Rest Webservice `allItems` , and `allAttributes` (exposed by hybris) and store the information to avoid calling the web service again.
 
-To detect newly added Items or attributes, I Implementer an action to refresh the already stored data definition.
+I Implemented an action to refresh the already stored data definition, the action will allo detecting newly added Items or attributes.
 
 #### A challenge and a new techniques acquired :  
 
-The web services exposed by hybris require a registered hybris account and it's secured against [Cross-site request forgery](http://en.wikipedia.org/wiki/Cross-site_request_forgery).
+The web services exposed by hybris requires a registered hybris account and it's secured against [Cross-site request forgery](http://en.wikipedia.org/wiki/Cross-site_request_forgery).
 
-To make a successful call the request should pass a crsf token, the token is associated with the connected account. the challenge was that token is stored on the HTML code of a response, and I had to use the [jsoup](http://jsoup.org/) library to retrieve the token.
+To make a successful call the request should pass a crsf token, it's associated with the connected account. and it's stored on the HTML code of a response,so i had to use the [jsoup](http://jsoup.org/) library to retrieve its value. 
 
 - Make a first to login, the call return with a JSESSIONID, I store the JSESSIONID for a further call.
 - Use jsoup with the stored JSESSIONID, and get the crsf token from the html.
 - Make a Rest Call to retrieve the Items and attributes definition.
 
 ### The coolest feature : Autocompletion .
-The auto-completion is the moste liked what the most user look for in any text editor, since i have stored the data deffinition, this feature was easy to implement as well :
+The auto-completion is the most liked feature, since i have stored the data deffinition, this feature was easy to implement as well .
 
 ![Preference Snapshot](/images/impex/autosuggest.png)
 
 
 ## Install the plugin :
 
-To install the features contained here, press Help > Install New Software… in your Eclipse IDE and enter the URL [http://eljoujat.github.io/updates/](http://eljoujat.github.io/updates/).
+To install the plugin , just open your eclipse , click Help > Install New Software… and enter the URL [http://eljoujat.github.io/updates/](http://eljoujat.github.io/updates/).
 
 Or :
 
