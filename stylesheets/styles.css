@@ -160,7 +160,8 @@ section {
   width:77%;
   float:right;
   padding-bottom:50px;
-  left: 100px;
+  left: 0px;
+  position: relative;
 }
 
 small {
@@ -292,7 +293,7 @@ ul.inline-items li {
   float:left;
   position:fixed;
   top: 50%;
-  left:13%;
+  left:7%;
 }
 
 .socialaccounts img{
