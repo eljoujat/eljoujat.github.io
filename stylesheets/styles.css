@@ -264,7 +264,6 @@ footer {
   background: #fff;
   background: rgba(255, 255, 255, .95);
   border-bottom: 1px solid #d8d8d8;
-  font-family: "Franklin ITC Pro Bold", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -289,7 +288,7 @@ ul.inline-items li {
 }
 
 .sidebox{
-    width:270px;
+  width:270px;
   float:left;
   position:fixed;
   top: 50%;
