@@ -292,6 +292,8 @@ ul.inline-items li {
     width:270px;
   float:left;
   position:fixed;
+  top: 50%;
+  left:13%;
 }
 
 .socialaccounts img{
