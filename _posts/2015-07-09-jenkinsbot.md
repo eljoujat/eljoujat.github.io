@@ -7,8 +7,8 @@ disqus_comments: true
 ---
 
 
-> “There is no greater agony than bearing an untold story inside you.” .
-[Maya Angelou](http://www.mayaangelou.com/)
+> “Besides black art, there is only automation and mechanization.” .
+[Federico García Lorca](https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca/)
 
 Where i work, Jenkins is what we use for continuous integration. Skype is what we use to communicate.
 Now imagine with me that every day at least 6 times I'm being asked to run a build, another 6  to check the status of the build!  another 6 to run a deploy.
