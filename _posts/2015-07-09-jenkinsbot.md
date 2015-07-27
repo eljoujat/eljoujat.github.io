@@ -23,7 +23,7 @@ All this because some managers are too scared to let  non-technical person touch
 
 So every request is sent directly to him as a command, he performs the action automatically and listens for any change on the status of the Jenkins job, if he detects any change or transitions, he sends us a notification.
 
-![Dolor de Cabeza...](/images/gif_demo.gif)](/images/gif_demo.gif)
+[![Dolor de Cabeza...](/images/gif_demo.gif)](/images/gif_demo.gif)
 
 The robot is just s python script running on the background as demon,  using Skype4Py and Jenkins API module, and some basic logic that can be easily extended.
 
