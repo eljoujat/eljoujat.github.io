@@ -1,8 +1,8 @@
 ---
-title: "How to use Docker to build a Skype Robot controlling  Jenkins?"
+title: "How to use Docker to build a Skype Robot controlling  Jenkins!"
 layout: post
 og_image_url: "http://eljoujat.github.io/images/jenkinsbot_schma.png"
-description: "How to use Docker to build a Skype Robot communicating with jenkins ? "
+description: "How to use Docker to build a Skype Robot communicating with jenkins! "
 disqus_comments: true
 ---
 
