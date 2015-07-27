@@ -25,7 +25,7 @@ So every request is sent directly to him as a command, he performs the action au
 
 ![Dolor de Cabeza...](/images/gif_demo.gif)](/images/gif_demo.gif)
 
-The robot is just s python script running on the background as demon,  using Skype4Py and Jenkins API module, and some basic logic that can easily extended.
+The robot is just s python script running on the background as demon,  using Skype4Py and Jenkins API module, and some basic logic that can be easily extended.
 
 ![Communication Diagramm](/images/jenkinsbot_schma.png)
 
