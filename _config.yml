@@ -5,7 +5,7 @@ syntax-highlighting:
   css: syntax.css
 permalink: /:year/:month/:day/:title.html
 # paginate: 50
-markdown: rdiscount
+markdown: kramdown
 # enables SmartyPants (nice curly quotation marks, em/en dashes, elipses, etc):
 rdiscount:
   extensions: [smart]
