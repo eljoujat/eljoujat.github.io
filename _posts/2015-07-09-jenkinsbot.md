@@ -1,8 +1,8 @@
 ---
-title: "How to use Docker to build a Skype Robot controlling  Jenkins!"
+title: "How to use Docker to build a Skype Bot controlling  Jenkins!"
 layout: post
 og_image_url: "http://eljoujat.github.io/images/jenkinsbot_schma.png"
-description: "How to use Docker to build a Skype Robot communicating with jenkins! "
+description: "How to use Docker to build a Skype Bot communicating with jenkins! "
 disqus_comments: true
 ---
 
@@ -19,17 +19,17 @@ And guess what ?! another 6 times to checks the status of the deploy and another
 
 All this because some managers are too scared to let  non-technical person touch Jenkins, and some of the non-technical persons are too lazy to take the initiative to know how to run or check Jenkins's jobs.
 
- I was getting annoyed and bored with this repeatedly tasks when i decided to build a Robot and delegate the task to him!
+ I was getting annoyed and bored with this repeatedly tasks when i decided to build a Bot and delegate the task to him!
 
 So every request is sent directly to him as a command, he performs the action automatically and listens for any change on the status of the Jenkins job, if he detects any change or transitions, he sends us a notification.
 
 [![Dolor de Cabeza...](/images/gif_demo.gif)](/images/gif_demo.gif)
 
-The robot is just s python script running on the background as demon,  using Skype4Py and Jenkins API module, and some basic logic that can be easily extended.
+The Bot is just s python script running on the background as demon,  using Skype4Py and Jenkins API module, and some basic logic that can be easily extended.
 
 ![Communication Diagramm](/images/jenkinsbot_schma.png)
 
-Things are not so easy as it looks and i will present step by step how i built a functional Robot !
+Things are not so easy as it looks and i will present step by step how i built a functional Bot !
 
 First we cannot run two instances of Skype on the same machine, and i could not use another windows machine, I had access to the server where Jenkins is installed: so why not install Skype there and run the python script?
 
@@ -263,7 +263,7 @@ docker build -t eljoujat/skype:V1.2 .
 docker run -it -v /tmp/.X11-unix:/tmp/.X11-unix -v /media/eljaoujat/Linux/job/labs/docker/skype:/scripts/scripts -e DISPLAY=unix$DISPLAY --device /dev/snd  eljoujat/skype:V1.2
 {% endhighlight %}
 
-- To test  :  just send a messgae to the jenkins robot telling him to run a job .
+- To test  :  just send a messgae to the jenkins Bot telling him to run a job .
 
 
 > “I believe that there is always an other way to do it, and i hope that you let me know .”
