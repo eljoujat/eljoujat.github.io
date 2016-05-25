@@ -1,8 +1,8 @@
 ---
-title: "Writing Hybris Impex with Style !"
+title: "Writing SAP-Hybris Impex with Style !"
 layout: post
 og_image_url: "http://eljoujat.github.io/images/impex/image004.jpg"
-description: "Writing Hybris Impex with style: An eclipse plugin that will change the way you work with Impex."
+description: "Writing SAP-Hybris Impex with style: An eclipse plugin that will change the way you work with Impex."
 disqus_comments: true
 ---
 
@@ -14,11 +14,11 @@ ANONYMOUS
 ## The idea behind the current lab.
 
 
-Impex is a [hybris](http://hybris.com) specific language in top of SQL to import/export data .
+Impex is a [Sap-hybris](http://hybris.com) specific language in top of SQL to import/export data .
 
 The lack of tools make things difficult when working with Impex, in fact some available options are :
 
-- Web console offered by hybris:
+- Web console offered by SAP-hybris:
 	- Pros: Syntax highlighting, validation, execution.
 	- Cons : requires a running instance of hybris, going out from eclipse, risking to loose all you work if the browser crashes.
 - Excel or similar tools that could read and format CSV file:
