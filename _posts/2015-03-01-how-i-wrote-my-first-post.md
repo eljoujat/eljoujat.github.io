@@ -1,9 +1,10 @@
 ---
-title: "How I wrote my first post ?"
+title: How I wrote my first post ?
 layout: post
-og_image_url: "http://eljoujat.github.io/images/blogger_joke.jpg"
-description: "A step by step guide on how to create your blog with Github and Jekyll "
+og_image_url: 'http://eljoujat.github.io/images/blogger_joke.jpg'
+description: 'A step by step guide on how to create your blog with Github and Jekyll '
 disqus_comments: true
+published: true
 ---
 
 
@@ -15,7 +16,6 @@ I'm a programmer, I've always believed that every good programmer [should have a
 - What should I blog about ?
 - which blogging platform to use ?
 - then I can start blogging
-
 
 
 ##Blogging about ...?
