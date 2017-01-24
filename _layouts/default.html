@@ -72,6 +72,27 @@
     <![endif]-->
   </head>
   <body{% if page.wide_layout %} class="wide"{% endif %}>
+  <script>
+
+   window.fbAsyncInit = function() {
+     FB.init({
+       appId: "APP_ID",
+       xfbml: true,
+       version: "v2.6"
+     });
+
+   };
+
+   (function(d, s, id){
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) { return; }
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js";
+      fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+
+ </script>
+
   <div class="wrapper">
      <header>
     <nav class="global-nav deluxe" id="main-nav" role="navigation">
@@ -82,36 +103,36 @@
     </ul>
 
      <aside>
-          <div class="sidebox-mobile data-mobile">    
+          <div class="sidebox-mobile data-mobile">
           <a href="/"><h1>joujat-lab</h1></a>
           <p></p>
-          </div> 
-       </aside>   
+          </div>
+       </aside>
     </nav>
         <aside>
-          <div class="sidebox data-desktop">    
+          <div class="sidebox data-desktop">
           <a href="/"><h1>joujat-Lab</h1></a>
            <div class="socialaccounts">
-            <a href="https://github.com/eljoujat/" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-github.png"> </a> 
+            <a href="https://github.com/eljoujat/" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-github.png"> </a>
             <a href="http://www.linkedin.com/in/eljaoujat" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-linkedin.png" alt="LinkedIn" title="Let's connect!"></a>
           <a href="https://www.facebook.com/eljoujat" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-facebook.png"> </a><a href="https://plus.google.com/+YoussefELJAOUJAT/posts" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-googleplus.png"></a>
            </div>
           <p></p>
 
-          </div> 
-       </aside>   
+          </div>
+       </aside>
       </header>
     <!--div class="wrapper content"-->
       {{ content }}
     <!--/div-->
-    
+
     {% if page.fb_comments or page.comments %}
     <!--div class="content sub">
       <h2 id="comments">comments</h2>
       <div class="fb-comments" data-href="http://eljoujat.github.io/{{ page.url }}" data-num-posts="{{ page.fb_comments }}" data-width="550" data-font="arial"></div>
     </div-->
     {% endif %}
-    
+
     {% if paginator.page %}
     <div id="paginator" class="content">
       {% if paginator.next_page %}
@@ -122,8 +143,8 @@
       {% endif %}
     </div>
     {% endif %}
-    
-    
+
+
     {% include analytics.html %}
   </div>
   </body>
