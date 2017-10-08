@@ -11,17 +11,14 @@ published: true
 > “There is no greater agony than bearing an untold story inside you.” .
 [Maya Angelou](http://www.mayaangelou.com/)
 
-I'm a programmer, I've always believed that every good programmer [should have a blog](http://architects.dzone.com/articles/why-programmers-should-have). This week I made the decision to write my first post, before writing the first post I had to answer some questions :
+I'm a programmer, I believe that a good programmer [should have a blog](http://architects.dzone.com/articles/why-programmers-should-have). This week I made the decision to write my first post, before start writing, i had to answer some questions :
 
 - What should I blog about ?
 - which blogging platform to use ?
-- then I can start blogging
-
 
 ##Blogging about ...?
 
-
-For me, This was the most difficult question to answer, as I thought for a long time that I have no good things share ...
+This was the most difficult question to answer, as I thought for a long time that I have no good things share ...
 
  was wrong all the time, and what's obvious to me could be amazing for others  <iframe width="560" height="315" src="https://www.youtube.com/embed/xcmI5SSQLmE" frameborder="0" allowfullscreen></iframe>
 
@@ -30,9 +27,8 @@ So blogging about ....
 
 ![Blog about ...](/images/blogger_joke.jpg)
 
-Every programming experiments I do, every new software notion I learn or I wish to learn. On my daily job tasks, I face problems that take me time to solve, so I will write posts describing how I solve them. I will write posts about every idea that found its path to my mind.
+Every programming experiments I do, every new software notion I learn or I wish to learn. Also On my daily job , I face problems that take me time to solve, so I will write posts describing how I solved them. I will write posts about every idea that found its path to my mind.
 
-This blog will be my laboratory.
 
 ## Ghost, Medium, Blogger,... which blogging platform to use ?
 
@@ -40,27 +36,24 @@ I start my day with reading what's new on [Hacker News](https://news.ycombinator
 
 I made a short list of what features I need .
 
-- Free hosting ☺  (a personal domain is not) .
-- Programmer friendly :allow to write code with features like , formatting, syntax highlighting...
+- Free hosting ☺ .
+- Programmer friendly : allow to write code with features like , formatting, syntax highlighting...
 - Simple and minimalist
 - Easy and powerful customization
 - Allow to write fast and publishing faster.
 
 
-[Jekyll](http://jekyllrb.com/) with [github pages](http://pages.github.com/) as the free hosting solution has what suited me the best .
+[Jekyll](http://jekyllrb.com/) with [github pages](http://pages.github.com/) as the free hosting solution are the best choice for me .
 
 ## Start Blogging
 
 ### Create the blog
 
-Github gives a simple and easy to follow step by step [guide](https://pages.github.com/) to create your blog, all that one should do is to follow the guide.
-
-I cloned the site into my local post , to  preview any change and validate before publishing to GitHub .
-
+Github gives a simple and easy to follow step by step [guide](https://pages.github.com/) to create your blog, I had just follow the guide.
 
 ### Install Jekyll
 
-To Install, Jekyll is a simple task unless you are a windows user like me .
+Installation of Jekyll is a simple task unless you are a windows user like me .
 
 - Download and install Ruby from [Ruby Installer](http://rubyinstaller.org/downloads#download-links)
 - Download and install Ruby Devkit  from [Ruby Dev Kit](http://rubyinstaller.org/downloads#ownload-links)
@@ -106,7 +99,7 @@ I used these feature , to include google analytics code and [disqus comments eng
 
 Once the structure of the blog is well defined, all that's left is to print my ideas in a text format that Jekyll and GitHub can render to obtain what you are seeing and reading right now .
 
- * * *
+ ***
 
 
 
