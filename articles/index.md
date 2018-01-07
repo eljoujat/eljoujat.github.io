@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<div >
+  <section class="posts">    
+    {% for post in site.posts limit:25 %}
+<div class="card">
+<div class="action">
+    <a href='{{ post.url }}'><span class="title">{{ post.title }}</span></a>
+  </div>
+  <div class="image">
+  {% if post.photo_url %}
+        <img src="{{ post.photo_url }}">
+  {% endif %}
+
+  </div>
+  <div class="content">
+    <p>{{ post.description | strip_html }}</p>
+  </div>
+  <div class="action">
+    <info datetime>{{ post.date | date: "%b %Y" }}</info>
+    <a href='{{ post.url }}' class="more">...</a>
+  </div>
+</div>
+    {% endfor %}
+  </section>
+</div>
+
+
+<script type="text/javascript">
+
+$( function() {
+
+  $('.posts').isotope({
+    itemSelector: '.card',
+    masonry: {
+
+    }
+  });
+
+});
+</script>

@@ -65,7 +65,7 @@ code, pre {
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;  
+  background: #f8f8f8;
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
@@ -99,9 +99,9 @@ img {
 header ul {
   list-style:none;
   height:40px;
-  
+
   padding:0;
-  
+
   background: #eee;
   background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
@@ -109,7 +109,7 @@ header ul {
   background: -o-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
   background: -ms-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
   background: linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  
+
   border-radius:5px;
   border:1px solid #d2d2d2;
   box-shadow:inset #fff 0 1px 0, inset rgba(0,0,0,0.03) 0 -1px 0;
@@ -133,6 +133,35 @@ header ul a {
   text-align:center;
   padding-top:6px;
   height:40px;
+}
+
+a, a:active, a:link, a:visited {
+    color: #39c;
+    text-decoration: none;
+    transition: color 1s ease-out;
+}
+
+html{
+  padding: 1em;
+  box-sizing: border-box;
+padding: 1em;
+font-size: 20px;
+line-height: 1.5;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+nav {
+    text-align: right;
+    margin: 1.5rem 0;
+}
+
+nav a, nav a:link {
+    text-transform: uppercase;
+    margin-left: .8em;
 }
 
 strong {
@@ -183,33 +212,33 @@ footer {
 }
 
 @media print, screen and (max-width: 960px) {
-  
+
   div.wrapper {
     width:auto;
     margin:0;
   }
-  
+
   header, section, footer {
     float:none;
     position:static;
     width:auto;
   }
-  
+
   header {
     padding-right:320px;
   }
-  
+
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
   }
-  
+
   header a small {
     display:inline;
   }
-  
+
   header ul {
     position:absolute;
     right:50px;
@@ -223,7 +252,7 @@ footer {
   body {
     padding:15px;
   }
-  
+
   header ul {
     display:none;
   }
@@ -242,18 +271,17 @@ footer {
 }
 
 .global-nav {
-  position: fixed;
   z-index: 100;
   top: 0;
   width: 96%;
   background: #fff;
   background: rgba(255, 255, 255, .95);
-  border-bottom: 1px solid #d8d8d8;
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
   line-height: 18px;
   padding: 0 24px;
+  text-align: right;
 }
 
 .global-nav ul {
@@ -395,9 +423,9 @@ ul.inline-items li {
  position: absolute;
 }
 
-@media only screen 
-and (min-device-width : 375px) 
-and (max-device-width : 667px) { 
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 667px) {
 
 .data-desktop{
 	display: none;
@@ -409,15 +437,15 @@ and (max-device-width : 667px) {
   body {
     word-wrap:break-word;
   }
-  
+
   header {
     padding:0;
   }
-  
+
   header ul, header p.view {
     position:static;
   }
-  
+
   pre, code {
     word-wrap:normal;
   }
@@ -436,4 +464,22 @@ and (max-device-width : 667px) {
 
 .data-mobile{
 	display: none;
+}
+
+
+.summary{
+      margin-top: 19px;
+      width: 155%;
+      margin-left: -414px;
+}
+
+
+.summary p {
+    font-size: 1rem;
+    line-height: 30px;
+}
+
+.summary span{
+  color:#494949;
+font-size: 1.1rem;
 }

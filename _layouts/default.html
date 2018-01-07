@@ -93,35 +93,19 @@
 
  </script>
 
-  <div class="wrapper">
+
      <header>
-    <nav class="global-nav deluxe" id="main-nav" role="navigation">
-    <ul class="inline-items">
-      <li><a href="/archive/"{% if page.url contains "/archive/" %}class="active"{% endif %} title="Archived articles"><h3>Archives</h3></a></li>
-      <li><a href="/projects/"{% if page.url contains "/projects/" %}class="active"{% endif %} title="projects "><h3>Projects</h3></a></li>
-      <li><a href="/about/"{% if page.url contains "/about/" %}class="active"{% endif %}><h3>About me</h3></a></li>
-    </ul>
-
-     <aside>
-          <div class="sidebox-mobile data-mobile">
-          <a href="/"><h1>joujat-lab</h1></a>
-          <p></p>
-          </div>
-       </aside>
-    </nav>
-        <aside>
-          <div class="sidebox data-desktop">
-          <a href="/"><h1>joujat-Lab</h1></a>
-           <div class="socialaccounts">
-            <a href="https://github.com/eljoujat/" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-github.png"> </a>
-            <a href="http://www.linkedin.com/in/eljaoujat" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-linkedin.png" alt="LinkedIn" title="Let's connect!"></a>
-          <a href="https://www.facebook.com/eljoujat" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-facebook.png"> </a>
-           </div>
-          <p></p>
-
-          </div>
-       </aside>
+       <div class="container">
+          <nav class="global-nav deluxe" id="main-nav" role="navigation">
+            <ul class="inline-items">
+              <li><a href="/"{% if page.url contains "/home/" %}class="active"{% endif %} title="Home Page"><h3>Home</h3></a></li>
+              <li><a href="/articles/"{% if page.url contains "/articles/" %}class="active"{% endif %} title="Articles "><h3>Articles</h3></a></li>
+              <li><a href="/projects/"{% if page.url contains "/projects/" %}class="active"{% endif %}><h3>Projects</h3></a></li>
+            </ul>
+        </nav>
+    </diV>
       </header>
+  <div class="wrapper">
     <!--div class="wrapper content"-->
       {{ content }}
     <!--/div-->
