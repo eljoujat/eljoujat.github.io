@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
-  padding:50px;
   font:13px Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
   color:#000;
   font-weight:300;
@@ -468,9 +467,7 @@ and (max-device-width : 667px) {
 
 
 .summary{
-      margin-top: 19px;
-      width: 155%;
-      margin-left: -414px;
+      margin-top: 100px;
 }
 
 
@@ -482,4 +479,9 @@ and (max-device-width : 667px) {
 .summary span{
   color:#494949;
 font-size: 1.1rem;
+}
+
+.home_container {
+  width: 100%;
+  max-width: 45em;
 }
