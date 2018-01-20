@@ -1,6 +1,6 @@
 ---
 layout: default
-lang: en
+lang: fr
 ---
 
 {% assign posts=site.posts | where:"lang", page.lang %}

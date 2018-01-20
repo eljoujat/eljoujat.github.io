@@ -1,6 +1,7 @@
 ---
 title: "Writing SAP-Hybris Impex with Style !"
 layout: post
+lang: en
 og_image_url: "http://eljoujat.github.io/images/impex/image004.jpg"
 description: "Writing SAP-Hybris Impex with style: An eclipse plugin that will change the way you work with Impex."
 disqus_comments: true
@@ -85,7 +86,7 @@ I Implemented an action to refresh the already stored data definition, the actio
 
 The web services exposed by hybris requires a registered hybris account and it's secured against [Cross-site request forgery](http://en.wikipedia.org/wiki/Cross-site_request_forgery).
 
-To make a successful call the request should pass a crsf token, it's associated with the connected account. and it's stored on the HTML code of a response,so i had to use the [jsoup](http://jsoup.org/) library to retrieve its value. 
+To make a successful call the request should pass a crsf token, it's associated with the connected account. and it's stored on the HTML code of a response,so i had to use the [jsoup](http://jsoup.org/) library to retrieve its value.
 
 - Make a first to login, the call return with a JSESSIONID, I store the JSESSIONID for a further call.
 - Use jsoup with the stored JSESSIONID, and get the crsf token from the html.

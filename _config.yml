@@ -4,6 +4,10 @@ syntax-highlighting:
   enabled : true
   css: syntax.css
 permalink: /:year/:month/:day/:title.html
+default_category: "en"
+paginate: 7
+paginate_path: "/page:num"
+paginate_per_category: true
 # paginate: 50
 markdown: kramdown
 # enables SmartyPants (nice curly quotation marks, em/en dashes, elipses, etc):
@@ -12,3 +16,9 @@ rdiscount:
 # Since GH pages override this to "true", we test this value to see if we are running locally
 safe: false
 include: [".well-known"]
+plugins_dir:
+  - i18n
+gems:
+  - jekyll-paginate
+default_locale:     "en"
+authorized_locales: ["en", "fr"]

@@ -1,6 +1,7 @@
 ---
 title: How I wrote my first post ?
 layout: post
+lang: en
 og_image_url: 'http://eljoujat.github.io/images/blogger_joke.jpg'
 description: 'A step by step guide on how to create your blog with Github and Jekyll '
 disqus_comments: true
