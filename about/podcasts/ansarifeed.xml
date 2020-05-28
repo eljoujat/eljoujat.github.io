@@ -10,10 +10,10 @@
     xmlns:media="http://search.yahoo.com/mrss/">
 
 <channel>
-<title>  فريد الانصاري</title>
+<title> الشَّيخ فريد الانصاري</title>
     <atom:link href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/ansarifeed.xml" rel="self" type="application/rss+xml"/>
     <link>https://eljoujat.github.io</link>
-    <description>أخبار العرب و سيرة سيد البشر</description>
+    <description>كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله.</description>
     <pubDate>Thu, 28 May 2020 07:24:48 +0000</pubDate>
     <generator>https://podbean.com/?v=5.5</generator>
     <language>en</language>
@@ -22,7 +22,7 @@
     <ttl>1440</ttl>
     <itunes:type>episodic</itunes:type>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:summary>New podcast weblog</itunes:summary>
+    <itunes:summary>كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل الأول بعنوان: بارقة.</itunes:summary>
     <itunes:author>eljoujat</itunes:author>
 <itunes:category text="Religion &amp; Spirituality"/>
     <itunes:owner>
@@ -34,30 +34,52 @@
     <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg" />
     <image>
         <url>https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg</url>
-        <title>قناة الشَّيخ سَعيد الكَمَلي</title>
-        <link>https://eljoujat.podbean.com</link>
-        <width>144</width>
-        <height>144</height>
+        <title>قناة الشَّيخ فريد الانصاري</title>
+        <link>https://eljoujat.github.io</link>
+        <width>1200</width>
+        <height>1200</height>
     </image>
     <item>
-        <title>الحلقة 8 _ من رجـال جُـهـيـنة  القـبـيـلة الـعـربـيـة المـشهـورة !</title>
-        <itunes:title>الحلقة 8 _ من رجـال جُـهـيـنة  القـبـيـلة الـعـربـيـة المـشهـورة !</itunes:title>
-        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-_%d9%85%d9%86-%d8%b1%d8%ac%d9%80%d8%a7%d9%84%d8%ac%d9%8f%d9%80%d9%87%d9%80%d9%8a%d9%80%d9%86%d8%a9/</link>
-        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-_%d9%85%d9%86-%d8%b1%d8%ac%d9%80%d8%a7%d9%84%d8%ac%d9%8f%d9%80%d9%87%d9%80%d9%8a%d9%80%d9%86%d8%a9/#comments</comments>
+        <title>الحلقة 1 : بارقة </title>
+        <itunes:title>الحلقة 1 : بارقة </itunes:title>
+        <link>https://www.youtube.com/watch?v=gz2OKrMbDZM&list=PLyzWhI8DaPfiK4mVpmGJkwZ546n6HFEYz&index=1</link>
+        <comments> قناديل الصلاة #01 </comments>
         <pubDate>Thu, 28 May 2020 07:24:48 +0000</pubDate>
         <guid isPermaLink="false">eljoujat.podbean.com/bfc44db3-46fa-5aed-a694-f0545aa8fff4</guid>
                     <description><![CDATA[]]></description>
                         <content:encoded><![CDATA[]]></content:encoded>
 
-        <enclosure url="https://mcdn.podbean.com/mf/web/9q83h9/EP8.m4a" length="11674500" type="audio/x-m4a"/>
+        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_01.mp3" length="11674500" type="audio/x-m4a"/>
         <itunes:subtitle></itunes:subtitle>
-        <itunes:summary></itunes:summary>
-        <itunes:author>eljoujat</itunes:author>
+        <itunes:summary>كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل الأول بعنوان: بارقة.</itunes:summary>
+        <itunes:author>الشَّيخ فريد الانصاري</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:block>No</itunes:block>
-        <itunes:duration>12:01</itunes:duration>
-                <itunes:episode>8</itunes:episode>
+        <itunes:duration>5:45</itunes:duration>
+                <itunes:episode>1</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="http://eljoujat.podbean.com/mf/web/ue48mr/back_rsz.png" />    </item>
+        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/kanadil_salat/EP1.png" />
+    </item>
+    <item>
+        <title>الحلقة 2 :  يا أيها الحيران، هنا الصلاة فادخل!  </title>
+        <itunes:title>الحلقة 1 : بارقة </itunes:title>
+        <link>https://www.youtube.com/watch?v=gz2OKrMbDZM&list=PLyzWhI8DaPfiK4mVpmGJkwZ546n6HFEYz&index=1</link>
+        <comments>كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل الأول بعنوان:  يا أيها الحيران، هنا الصلاة فادخل! . </comments>
+        <pubDate>Thu, 28 May 2020 07:24:48 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/bfc44db3-46fa-5aed-a694-f0545aa8fff4</guid>
+        <description><![CDATA[]]></description>
+        <content:encoded><![CDATA[]]></content:encoded>
+
+        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_02.mp3" length="11674500" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ فريد الانصاري</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>15:22</itunes:duration>
+        <itunes:episode>2</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/kanadil_salat/EP2.png" />
+    </item>
 </channel>
 </rss>
