@@ -107,7 +107,7 @@
         <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_03.mp3" length="71170216" type="audio/mpeg"/>
         <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/EP3.png"/>
         <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>2</itunes:episode>
+        <itunes:episode>3</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:duration>9:37</itunes:duration>
     </item>
@@ -134,7 +134,7 @@
         <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_04.mp3" length="71170216" type="audio/mpeg"/>
         <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/EP4.png"/>
         <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>2</itunes:episode>
+        <itunes:episode>4</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:duration>14:11</itunes:duration>
     </item>
