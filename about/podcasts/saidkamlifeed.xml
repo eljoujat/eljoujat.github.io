@@ -17,17 +17,17 @@
     <itunes:subtitle />
     <itunes:summary>المبتدأ و الخبر: أخبار العرب و سيرة سيد البشر</itunes:summary>
     <itunes:author>eljoujat</itunes:author>
-    <itunes:category text="Religion & Spirituality" />
+    <itunes:category text="Religion, Spirituality" />
     <itunes:owner>
         <itunes:name>eljoujat</itunes:name>
         <itunes:email>eljoujat@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>No</itunes:block>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/8412854/_-_-_--_-_-_-_-_-_-_-__68sn1.jpg" />
+    <itunes:image href="https://ia601501.us.archive.org/34/items/ep-12_202006/Podcast_Cover.jpg" />
     <image>
         <url>
-    https://pbcdn1.podbean.com/imglogo/image-logo/8412854/_-_-_--_-_-_-_-_-_-_-__68sn1.jpg
+            https://ia601501.us.archive.org/34/items/ep-12_202006/Podcast_Cover.jpg
     </url>
         <title>قناة الشَّيخ سَعيد الكَمَلي</title>
         <link>https://eljoujat.podbean.com</link>
@@ -36,27 +36,27 @@
     </image>
     <item>
         <title>المبتدأ و الخبر: الحلقة 1 ..أهمية علم التاريخ وكلام جميل عن عظمة هذ العلم </title>
-        <link>https://www.youtube.com/watch?v=gz2OKrMbDZM</link>
+        <link>https://www.youtube.com/watch?v=lKoRxjNES24</link>
         <description>
             المبتدأ و الخبر: الحلقة 1 ..أهمية علم التاريخ وكلام جميل عن عظمة هذ العلم </description>
-        <pubDate>Thu, 28 May 2020 07:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=gz2OKrMbDZM</guid>
+        <pubDate>Sun, 02 Jun 2020 07:24:48 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=lKoRxjNES24</guid>
         <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_01.mp3" type="audio/mpeg" isDefault="true" expression="full">
             <media:title type="plain">الحلقة 1 : بارقة</media:title>
             <media:description>
                 المبتدأ و الخبر: الحلقة 1 ..أهمية علم التاريخ وكلام جميل عن عظمة هذ العلم     </media:description>
             <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
+            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/mobtada_khabar/back_rsz.webp"/>
             <media:keywords>
                 religion, islam, culture education, prayer
             </media:keywords>
         </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_01.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
+        <enclosure url="https://archive.org/download/ep-12_202006/EP1.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/mobtada_khabar/back_rsz.webpg"/>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:episode>1</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>5:45</itunes:duration>
+        <itunes:duration>10:26</itunes:duration>
     </item>
 
 </channel>
