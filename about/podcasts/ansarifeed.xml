@@ -193,6 +193,59 @@
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:duration>17:11</itunes:duration>
     </item>
+    <item>
+        <title>قناديل الصلاةالحلقة 7: و خر راكعا و ٱناب </title>
+        <link>https://www.youtube.com/watch?v=RIdwH-dsRX8</link>
+        <description>
+            كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 7 بعنوان:و خر راكعا و ٱناب
+        </description>
+        <pubDate>Sun, 02 Jun 2020 09:24:48 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=RIdwH-dsRX8</guid>
+        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_07.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 7 : و خر راكعا و ٱناب </media:title>
+            <media:description>
+                كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 7 بعنوان:و خر راكعا و ٱناب
+            </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_07.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>7</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>10:57</itunes:duration>
+    </item>
+
+    <item>
+        <title>قناديل الصلاةالحلقة 8: إلى مقام الحمد و الثناء </title>
+        <link>https://www.youtube.com/watch?v=4b7gCc_Py8o</link>
+        <description>
+            كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 8 بعنوان:إلى مقام الحمد و الثناء
+        </description>
+        <pubDate>Sun, 02 May 2020 12:24:48 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=4b7gCc_Py8o</guid>
+        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_08.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 8 : و خر راكعا و ٱناب </media:title>
+            <media:description>
+                كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 8 بعنوان:إلى مقام الحمد و الثناء
+            </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_08.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>8</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>10:57</itunes:duration>
+    </item>
 
 </channel>
 </rss>
