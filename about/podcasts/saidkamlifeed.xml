@@ -41,8 +41,8 @@
             المبتدأ و الخبر: الحلقة 1 ..أهمية علم التاريخ وكلام جميل عن عظمة هذ العلم </description>
         <pubDate>Sun, 02 Jun 2020 07:24:48 +0000</pubDate>
         <guid isPermaLink="true">https://www.youtube.com/watch?v=lKoRxjNES24</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_01.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 1 : بارقة</media:title>
+        <media:content medium="audio" url="https://archive.org/download/ep-12_202006/EP1.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 1</media:title>
             <media:description>
                 المبتدأ و الخبر: الحلقة 1 ..أهمية علم التاريخ وكلام جميل عن عظمة هذ العلم     </media:description>
             <media:rating scheme="urn:simple">nonadult</media:rating>
@@ -57,6 +57,54 @@
         <itunes:episode>1</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:duration>10:26</itunes:duration>
+    </item>
+    <item>
+        <title>المبتدأ و الخبر: الحلقة 2 .. نسب رسول الله ﷺ كأنك ستسمعه لأول مرة</title>
+        <link>https://www.youtube.com/watch?v=9U0iun8JfgQ</link>
+        <description>
+            المبتدأ و الخبر: الحلقة 2 .. نسب رسول الله ﷺ كأنك ستسمعه لأول مرة</description>
+        <pubDate>Sun, 02 Jun 2020 09:24:48 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=9U0iun8JfgQ</guid>
+        <media:content medium="audio" url="https://archive.org/download/ep-12_202006/EP2.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 2</media:title>
+            <media:description>
+                المبتدأ و الخبر: الحلقة 2 .. نسب رسول الله ﷺ كأنك ستسمعه لأول مرة  </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/mobtada_khabar/back_rsz.webp"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/ep-12_202006/EP2.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/mobtada_khabar/back_rsz.webpg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>2</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>10:43</itunes:duration>
+    </item>
+    <item>
+        <title>المبتدأ و الخبر: الحلقة 3 ..''عدنان'' الجدّ الأعلى في نسب رسول الله ﷺ ، و أشعار وطرائف جميلة </title>
+        <link>https://www.youtube.com/watch?v=Nd2iiFIclUA</link>
+        <description>
+            المبتدأ و الخبر: الحلقة 3 ..''عدنان'' الجدّ الأعلى في نسب رسول الله ﷺ ، و أشعار وطرائف جميلة </description>
+        <pubDate>Sun, 02 Jun 2020 07:24:48 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=Nd2iiFIclUA</guid>
+        <media:content medium="audio" url="https://archive.org/download/ep-12_202006/EP3.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 3</media:title>
+            <media:description>
+                المبتدأ و الخبر: الحلقة 3 ..''عدنان'' الجدّ الأعلى في نسب رسول الله ﷺ ، و أشعار وطرائف جميلة     </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/mobtada_khabar/back_rsz.webp"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/ep-12_202006/EP3.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/mobtada_khabar/back_rsz.webpg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>3</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>11:16</itunes:duration>
     </item>
 
 </channel>
