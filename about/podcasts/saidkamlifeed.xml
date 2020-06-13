@@ -1,47 +1,464 @@
-<rss xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><!-- generator="podbean/5.5" -->
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:spotify="http://www.spotify.com/ns/rss"
+    xmlns:media="http://search.yahoo.com/mrss/">
 
 <channel>
     <title>قناة الشَّيخ سَعيد الكَمَلي</title>
-    <atom:link href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamlifeed.xml" rel="self" type="application/rss+xml" />
-    <link>https://eljoujat.github.io</link>
+    <atom:link href="https://feed.podbean.com/eljoujat/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://eljoujat.podbean.com</link>
     <description>أخبار العرب و سيرة سيد البشر</description>
-    <pubDate>Thu, 28 May 2020 07:24:48 +0000</pubDate>
+    <pubDate>Wed, 10 Jun 2020 17:54:55 +0000</pubDate>
     <generator>https://podbean.com/?v=5.5</generator>
-    <language>ar</language>
-    <copyright>Copyright 2020 All rights reserved.</copyright>
+    <language>en</language>
+        <copyright>Copyright 2020 All rights reserved.</copyright>
     <category>Religion &amp; Spirituality</category>
     <ttl>1440</ttl>
     <itunes:type>episodic</itunes:type>
-    <itunes:subtitle />
-    <itunes:summary>المبتدأ و الخبر: أخبار العرب و سيرة سيد البشر</itunes:summary>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>New podcast weblog</itunes:summary>
     <itunes:author>eljoujat</itunes:author>
-    <itunes:category text="Religion &amp; Spirituality"/>
+<itunes:category text="Religion &amp; Spirituality"/>
     <itunes:owner>
         <itunes:name>eljoujat</itunes:name>
         <itunes:email>eljoujat@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:block>No</itunes:block>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://ia601501.us.archive.org/34/items/ep-12_202006/Podcast_Cover.jpg" />
+	<itunes:block>No</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/8412854/rsz_12_said_kamli-min.jpg" />
     <image>
-        <url>
-            https://ia601501.us.archive.org/34/items/ep-12_202006/Podcast_Cover.jpg
-    </url>
+        <url>https://pbcdn1.podbean.com/imglogo/image-logo/8412854/rsz_12_said_kamli-min.jpg</url>
         <title>قناة الشَّيخ سَعيد الكَمَلي</title>
         <link>https://eljoujat.podbean.com</link>
         <width>144</width>
         <height>144</height>
     </image>
     <item>
+        <title>الحلقة25- قصة هلاك" أبرهة "الذي أراد هدم الكعبة I الإمام السهيلي..من أشهرعلماء هذه الأمة ذكاءا وفطنة</title>
+        <itunes:title>الحلقة25- قصة هلاك" أبرهة "الذي أراد هدم الكعبة I الإمام السهيلي..من أشهرعلماء هذه الأمة ذكاءا وفطنة</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a925%d9%82%d8%b5%d8%a9-%d9%87%d9%84%d8%a7%d9%83%d8%a3%d8%a8%d8%b1%d9%87%d8%a9%d8%a7%d9%84%d8%b0/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a925%d9%82%d8%b5%d8%a9-%d9%87%d9%84%d8%a7%d9%83%d8%a3%d8%a8%d8%b1%d9%87%d8%a9%d8%a7%d9%84%d8%b0/#comments</comments>
+        <pubDate>Wed, 10 Jun 2020 17:54:55 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/4e18a493-8f05-54b0-8454-b079e2f35e0b</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/cd3vt3/_25-_____I_128kbit_AAC__81n1v.m4a" length="11161449" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:30</itunes:duration>
+                <itunes:episode>25</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 24 _ الصحابية الجليلة.. أسماء بنت عميس.. زوجة الخليفتين والشهيدين وصاحبة الهجرتين</title>
+        <itunes:title>الحلقة 24 _ الصحابية الجليلة.. أسماء بنت عميس.. زوجة الخليفتين والشهيدين وصاحبة الهجرتين</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24_-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a%d8%a9%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84%d8%a9/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24_-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a%d8%a9%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84%d8%a9/#comments</comments>
+        <pubDate>Wed, 10 Jun 2020 17:53:15 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/8826ba5b-e023-5b8c-90f8-d0fc4dc01c39</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/z3e40r/_24___128kbit_AAC__8hbkk.m4a" length="11692728" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>12:03</itunes:duration>
+                <itunes:episode>24</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 23-قصة اشهر كهان العرب في الجاهليه[ شق وسطيح ] مع ملك اليمن و نبوءة خروج النبي</title>
+        <itunes:title>الحلقة 23-قصة اشهر كهان العرب في الجاهليه[ شق وسطيح ] مع ملك اليمن و نبوءة خروج النبي</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23%d9%82%d8%b5%d8%a9-%d8%a7%d8%b4%d9%87%d8%b1-%d9%83%d9%87%d8%a7%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23%d9%82%d8%b5%d8%a9-%d8%a7%d8%b4%d9%87%d8%b1-%d9%83%d9%87%d8%a7%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8/#comments</comments>
+        <pubDate>Tue, 09 Jun 2020 15:36:52 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/7fa6ae56-75a0-5e5f-ad05-d38f7167fcfc</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/ejxwuf/_23-_-_128kbit_AAC__buq48.m4a" length="11721732" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>12:04</itunes:duration>
+                <itunes:episode>23</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 22- من طالب فقـير عند أبي حنيفة إلى قـاض مـشهور يجالس هارون الرشيد !!! </title>
+        <itunes:title>الحلقة 22- من طالب فقـير عند أبي حنيفة إلى قـاض مـشهور يجالس هارون الرشيد !!! </itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22%d9%85%d9%86-%d8%b7%d8%a7%d9%84%d8%a8-%d9%81%d9%82%d9%80%d9%8a%d8%b1%d8%b9%d9%86%d8%af-%d8%a7/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22%d9%85%d9%86-%d8%b7%d8%a7%d9%84%d8%a8-%d9%81%d9%82%d9%80%d9%8a%d8%b1%d8%b9%d9%86%d8%af-%d8%a7/#comments</comments>
+        <pubDate>Tue, 09 Jun 2020 15:35:18 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/80898525-a4ee-50a6-9606-69cb9fb4effc</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/smse9d/_22-_128kbit_AAC__66t1b.m4a" length="11638111" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشـيـخ سعيد الكـملي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>12:00</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>22</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 21 - مـناقب عظيمة للصحابي الجليل جرير بن عبدالله البجلي مع الرسول ﷺ </title>
+        <itunes:title>الحلقة 21 - مـناقب عظيمة للصحابي الجليل جرير بن عبدالله البجلي مع الرسول ﷺ </itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21%d9%85%d9%80%d9%86%d8%a7%d9%82%d8%a8-%d8%b9%d8%b8%d9%8a%d9%85%d8%a9%d9%84%d9%84%d8%b5%d8%ad%d8%a7/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21%d9%85%d9%80%d9%86%d8%a7%d9%82%d8%a8-%d8%b9%d8%b8%d9%8a%d9%85%d8%a9%d9%84%d9%84%d8%b5%d8%ad%d8%a7/#comments</comments>
+        <pubDate>Tue, 09 Jun 2020 15:34:11 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/3d4a4b50-48db-59e6-9f34-81a3e4790ccc</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/dj48wq/_21_-_128kbit_AAC__9u67f.m4a" length="10262367" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشيخ سعيد الكملي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>10:35</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>21</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 20 - سلوا الله العافية - النهاية المؤلمة للقاضي ابن ابي دؤاد</title>
+        <itunes:title>الحلقة 20 - سلوا الله العافية - النهاية المؤلمة للقاضي ابن ابي دؤاد</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20%d8%b3%d9%84%d9%88%d8%a7-%d8%a7%d9%84%d9%84%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%81%d9%8a%d8%a9%d8%a7%d9%84%d9%86/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20%d8%b3%d9%84%d9%88%d8%a7-%d8%a7%d9%84%d9%84%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%81%d9%8a%d8%a9%d8%a7%d9%84%d9%86/#comments</comments>
+        <pubDate>Mon, 08 Jun 2020 13:01:37 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/5b26af8f-5c7d-58ba-a666-bf47c88cbc57</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/f7ujhx/_20_-_-_-_128kbit_AAC__6sv1p.m4a" length="11583464" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشيخ سعيد الكملي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:37</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>20</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 19ـ _ وتُـذِلُّ مـن تَـشَـاء _.. المنـاظرة التي أذلّت الوزير ابن أبي دؤاد</title>
+        <itunes:title>الحلقة 19ـ _ وتُـذِلُّ مـن تَـشَـاء _.. المنـاظرة التي أذلّت الوزير ابن أبي دؤاد</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19%d9%80_-%d9%88%d8%aa%d9%8f%d9%80%d8%b0%d9%90%d9%84%d9%8f%d9%91-%d9%85%d9%80%d9%86-%d8%aa%d9%8e%d9%80/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19%d9%80_-%d9%88%d8%aa%d9%8f%d9%80%d8%b0%d9%90%d9%84%d9%8f%d9%91-%d9%85%d9%80%d9%86-%d8%aa%d9%8e%d9%80/#comments</comments>
+        <pubDate>Mon, 08 Jun 2020 13:00:08 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/f807ec50-ca5e-5c8a-bfd1-20e4062dd7b1</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/bh14ci/_19_____128kbit_AAC__7pn04.m4a" length="11297717" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشيخ سعيد الكملي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:39</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>19</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 18 -‏عجائب الجود والكرم_ كعب بن مامة وأبو دؤاد الإياديان </title>
+        <itunes:title>الحلقة 18 -‏عجائب الجود والكرم_ كعب بن مامة وأبو دؤاد الإياديان </itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18%e2%80%8f%d8%b9%d8%ac%d8%a7%d9%8a%d9%94%d8%a8-%d8%a7%d9%84%d8%ac%d9%88%d8%af%d9%88%d8%a7%d9%84%d9%83%d8%b1/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18%e2%80%8f%d8%b9%d8%ac%d8%a7%d9%8a%d9%94%d8%a8-%d8%a7%d9%84%d8%ac%d9%88%d8%af%d9%88%d8%a7%d9%84%d9%83%d8%b1/#comments</comments>
+        <pubDate>Mon, 08 Jun 2020 12:59:12 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/63ad93c6-f58b-5471-b028-b0a4e54417ff</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/oe6qkv/_18_-___-_128kbit_AAC__bqfcf.m4a" length="10856901" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشيخ سعيد الكملي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:12</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>18</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 17- قصة الشاعر الفحل مع ملك الفرس _ و قصة أحد أجود العرب.. جاد بحياته لإنقاذ رفيقه من العطش</title>
+        <itunes:title>الحلقة 17- قصة الشاعر الفحل مع ملك الفرس _ و قصة أحد أجود العرب.. جاد بحياته لإنقاذ رفيقه من العطش</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17%d9%82%d8%b5%d8%a9%d8%a7%d9%84%d8%b4%d8%a7%d8%b9%d8%b1-%d8%a7%d9%84%d9%81%d8%ad%d9%84-%d9%85%d8%b9/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17%d9%82%d8%b5%d8%a9%d8%a7%d9%84%d8%b4%d8%a7%d8%b9%d8%b1-%d8%a7%d9%84%d9%81%d8%ad%d9%84-%d9%85%d8%b9/#comments</comments>
+        <pubDate>Sat, 06 Jun 2020 15:35:39 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/4693ff1c-350a-5769-b0ac-f371e1580daf</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/f7wddz/_17-___128kbit_AAC__7v9mr.m4a" length="12068341" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>12:26</itunes:duration>
+                <itunes:episode>17</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 16 - من أعظم رجال '' إياد ''..أشهر خطباء العرب الذي يَضرِب به الشعراء المثل</title>
+        <itunes:title>الحلقة 16 - من أعظم رجال '' إياد ''..أشهر خطباء العرب الذي يَضرِب به الشعراء المثل</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16%d9%85%d9%86%d8%a7%d9%94%d8%b9%d8%b8%d9%85%d8%b1%d8%ac%d8%a7%d9%84%d8%a7%d9%95%d9%8a%d8%a7%d8%af%d8%a7/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16%d9%85%d9%86%d8%a7%d9%94%d8%b9%d8%b8%d9%85%d8%b1%d8%ac%d8%a7%d9%84%d8%a7%d9%95%d9%8a%d8%a7%d8%af%d8%a7/#comments</comments>
+        <pubDate>Sat, 06 Jun 2020 15:34:31 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/fd14c4fd-7332-5600-a37b-2a7184c70847</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/98ivem/_16_-_128kbit_AAC__ab3j5.m4a" length="10476568" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>10:47</itunes:duration>
+                <itunes:episode>16</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 15-قصة الاربعة الاذكياء مُضر وربيعة وأنمار وإياد مع الافعى الجرهمي</title>
+        <itunes:title>الحلقة 15-قصة الاربعة الاذكياء مُضر وربيعة وأنمار وإياد مع الافعى الجرهمي</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15%d9%82%d8%b5%d8%a9-%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a9-%d8%a7%d9%84%d8%a7%d8%b0%d9%83%d9%8a%d8%a7%d8%a1/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15%d9%82%d8%b5%d8%a9-%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a9-%d8%a7%d9%84%d8%a7%d8%b0%d9%83%d9%8a%d8%a7%d8%a1/#comments</comments>
+        <pubDate>Sat, 06 Jun 2020 15:33:19 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/c9bcdd99-7bd3-5cfd-b7e1-a9e9d6da323e</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/8g2dgu/_15-_128kbit_AAC__70vpd.m4a" length="10557266" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشيخ سعيد الكملي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>10:52</itunes:duration>
+                <itunes:episode>15</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 14-كلام جمـيل يُـشـبه أن لا يكون عربيا ! _ قصة الرجل الذي يصلي مئة ركعة بين المغرب و العشاء</title>
+        <itunes:title>الحلقة 14-كلام جمـيل يُـشـبه أن لا يكون عربيا ! _ قصة الرجل الذي يصلي مئة ركعة بين المغرب و العشاء</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14%d9%83%d9%84%d8%a7%d9%85%d8%ac%d9%85%d9%80%d9%8a%d9%84%d9%8a%d9%8f%d9%80%d8%b4%d9%80%d8%a8%d9%87-%d8%a7/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14%d9%83%d9%84%d8%a7%d9%85%d8%ac%d9%85%d9%80%d9%8a%d9%84%d9%8a%d9%8f%d9%80%d8%b4%d9%80%d8%a8%d9%87-%d8%a7/#comments</comments>
+        <pubDate>Fri, 05 Jun 2020 09:14:05 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/cbf9205f-2a04-52f2-9aa9-96bb05e78ecc</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/mo6s70/_14-___128kbit_AAC__bvspl.m4a" length="10960182" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:17</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>14</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 13 - من روائـع أخبار أشهر قبيلة عربية '' قضاعة </title>
+        <itunes:title>الحلقة 13 - من روائـع أخبار أشهر قبيلة عربية '' قضاعة </itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13%d9%85%d9%86%d8%b1%d9%88%d8%a7%d9%8a%d9%94%d9%80%d8%b9-%d8%a7%d9%94%d8%ae%d8%a8%d8%a7%d8%b1/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13%d9%85%d9%86%d8%b1%d9%88%d8%a7%d9%8a%d9%94%d9%80%d8%b9-%d8%a7%d9%94%d8%ae%d8%a8%d8%a7%d8%b1/#comments</comments>
+        <pubDate>Fri, 05 Jun 2020 09:13:11 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/f70aaeba-7caf-5caa-9fb1-3fa2282ab717</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/v7mthh/_13_-_-_128kbit_AAC__bbs19.m4a" length="10587714" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>10:54</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>13</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 12 - قصة الصحابي الذي صلى بقومه و هو في عمر 6 سنين ، و قصص اخرى من الزمن الجميل</title>
+        <itunes:title>الحلقة 12 - قصة الصحابي الذي صلى بقومه و هو في عمر 6 سنين ، و قصص اخرى من الزمن الجميل</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12%d9%82%d8%b5%d8%a9%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a-%d8%a7%d9%84%d8%b0%d9%8a-%d8%b5/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12%d9%82%d8%b5%d8%a9%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a-%d8%a7%d9%84%d8%b0%d9%8a-%d8%b5/#comments</comments>
+        <pubDate>Fri, 05 Jun 2020 09:12:19 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/7698cbf0-ed39-5634-9e47-91d84f9b582f</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/djj66v/_12_-_6_-_128kbit_AAC__ap8fi.m4a" length="12897864" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>13:17</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>12</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 11-رجل نهى رسول الله ﷺ عن قتله !! قصة عجيبة تعجب منها الشيخ سعيد الكملي</title>
+        <itunes:title>الحلقة 11-رجل نهى رسول الله ﷺ عن قتله !! قصة عجيبة تعجب منها الشيخ سعيد الكملي</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d9%82%d8%b5%d8%a9-%d8%b9%d8%ac%d9%8a%d8%a8%d8%a9%d8%aa%d8%b9%d8%ac%d8%a8%d9%85%d9%86%d9%87%d8%a7%d8%a7%d9%84%d8%b4%d9%8a%d8%ae/</link>
+        <comments>https://eljoujat.podbean.com/e/%d9%82%d8%b5%d8%a9-%d8%b9%d8%ac%d9%8a%d8%a8%d8%a9%d8%aa%d8%b9%d8%ac%d8%a8%d9%85%d9%86%d9%87%d8%a7%d8%a7%d9%84%d8%b4%d9%8a%d8%ae/#comments</comments>
+        <pubDate>Wed, 03 Jun 2020 08:14:25 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/f1c4129c-c48c-5dd7-83d1-76e2c48789c8</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/fk00qx/EP11.m4a" length="11051064" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:23</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>11</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 10 - هل رأيتم قتيلا بكى من حب قاتله !!! قصة حب حزينة للشاعر العذري جميل بثينة</title>
+        <itunes:title>الحلقة 10 - هل رأيتم قتيلا بكى من حب قاتله !!! قصة حب حزينة للشاعر العذري جميل بثينة</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d9%87%d9%84-%d8%b1%d8%a3%d9%8a%d8%aa%d9%85-%d9%82%d8%aa%d9%8a%d9%84%d8%a7%d8%a8%d9%83%d9%89-%d9%85%d9%86-%d8%ad%d8%a8%d9%82%d8%a7%d8%aa%d9%84%d9%87/</link>
+        <comments>https://eljoujat.podbean.com/e/%d9%87%d9%84-%d8%b1%d8%a3%d9%8a%d8%aa%d9%85-%d9%82%d8%aa%d9%8a%d9%84%d8%a7%d8%a8%d9%83%d9%89-%d9%85%d9%86-%d8%ad%d8%a8%d9%82%d8%a7%d8%aa%d9%84%d9%87/#comments</comments>
+        <pubDate>Wed, 03 Jun 2020 08:13:01 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/40a40fe7-b667-5a94-8963-47b3eeb7f837</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/w919hz/EP10.m4a" length="11914668" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>12:16</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>10</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 9 - قصة أغرب من الخيال ! ـ رجل نسبه من نار -- أنصف قصيدة عرفها العرب !</title>
+        <itunes:title>الحلقة 9 - قصة أغرب من الخيال ! ـ رجل نسبه من نار -- أنصف قصيدة عرفها العرب !</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9%d9%82%d8%b5%d8%a9%d8%a3%d8%ba%d8%b1%d8%a8%d9%85%d9%86-%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d9%84%d9%80-%d8%b1/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9%d9%82%d8%b5%d8%a9%d8%a3%d8%ba%d8%b1%d8%a8%d9%85%d9%86-%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d9%84%d9%80-%d8%b1/#comments</comments>
+        <pubDate>Wed, 03 Jun 2020 08:12:01 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/b763b01e-34bf-5f69-bf41-451510cb2762</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/c6zpnh/EP9.m4a" length="11394220" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشيخ سعيد الكملي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:44</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>9</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 8 _ من رجـال جُـهـيـنة  القـبـيـلة الـعـربـيـة المـشهـورة !</title>
+        <itunes:title>الحلقة 8 _ من رجـال جُـهـيـنة  القـبـيـلة الـعـربـيـة المـشهـورة !</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-_%d9%85%d9%86-%d8%b1%d8%ac%d9%80%d8%a7%d9%84%d8%ac%d9%8f%d9%80%d9%87%d9%80%d9%8a%d9%80%d9%86%d8%a9/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-_%d9%85%d9%86-%d8%b1%d8%ac%d9%80%d8%a7%d9%84%d8%ac%d9%8f%d9%80%d9%87%d9%80%d9%8a%d9%80%d9%86%d8%a9/#comments</comments>
+        <pubDate>Thu, 28 May 2020 07:24:48 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/bfc44db3-46fa-5aed-a694-f0545aa8fff4</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/9q83h9/EP8.m4a" length="11674500" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>eljoujat</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>12:01</itunes:duration>
+                <itunes:episode>8</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 7- أشهر رجال الجاهلية و سيد قضاعة !_ من هو جهينة ؟</title>
+        <itunes:title>الحلقة 7- أشهر رجال الجاهلية و سيد قضاعة !_ من هو جهينة ؟</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7%d8%a3%d8%b4%d9%87%d8%b1%d8%b1%d8%ac%d8%a7%d9%84%d8%a7%d9%84%d8%ac%d8%a7%d9%87%d9%84%d9%8a%d8%a9-%d9%88/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7%d8%a3%d8%b4%d9%87%d8%b1%d8%b1%d8%ac%d8%a7%d9%84%d8%a7%d9%84%d8%ac%d8%a7%d9%87%d9%84%d9%8a%d8%a9-%d9%88/#comments</comments>
+        <pubDate>Thu, 28 May 2020 07:24:14 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/3d25caf0-a36f-5c52-b723-370daaa43a38</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/j7vu7w/EP7.m4a" length="10737214" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>eljoujat</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:03</itunes:duration>
+                <itunes:episode>7</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" />    </item>
+    <item>
+        <title>الحلقة 6-قصة عجيبة  لزيد بن حارثة مع رسول الله ﷺ الذي أحبه حبا شديدا فكان بمثابة ابنه الذي لم ينجبه </title>
+        <itunes:title>الحلقة 6-قصة عجيبة  لزيد بن حارثة مع رسول الله ﷺ الذي أحبه حبا شديدا فكان بمثابة ابنه الذي لم ينجبه </itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%82%d8%b5%d8%a9-%d8%b9%d8%ac%d9%8a%d8%a8%d8%a9%d9%84%d8%b2%d9%8a%d8%af%d8%a8%d9%86-%d8%ad%d8%a7/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%82%d8%b5%d8%a9-%d8%b9%d8%ac%d9%8a%d8%a8%d8%a9%d9%84%d8%b2%d9%8a%d8%af%d8%a8%d9%86-%d8%ad%d8%a7/#comments</comments>
+        <pubDate>Thu, 28 May 2020 07:23:20 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/3c06e3ba-de8d-5053-bfcc-1a689d991fcd</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/p8rv9z/EP6.m4a" length="10418357" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>eljoujat</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>10:44</itunes:duration>
+                <itunes:episode>6</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8412854/back_rsz.png" /> 
+    </item>
+    <item>
         <title>المبتدأ و الخبر: الحلقة 1 ..أهمية علم التاريخ وكلام جميل عن عظمة هذ العلم </title>
         <link>https://www.youtube.com/watch?v=lKoRxjNES24</link>
         <description>
             المبتدأ و الخبر: الحلقة 1 ..أهمية علم التاريخ وكلام جميل عن عظمة هذ العلم </description>
-        <pubDate>Sat, 01 Jun 2020 08:24:48 +0000</pubDate>
+        <pubDate>Thu, 21 May 2020 05:24:48 +0000</pubDate>
         <guid isPermaLink="true">https://www.youtube.com/watch?v=lKoRxjNES24</guid>
-        <media:content medium="audio" url="https://archive.org/download/ep-12_202006/EP1.m4a" type="audio/mpeg" isDefault="true" expression="full">
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP01.m4a" type="audio/mpeg" isDefault="true" expression="full">
             <media:title type="plain">الحلقة 1</media:title>
             <media:description>
                 المبتدأ و الخبر: الحلقة 1 ..أهمية علم التاريخ وكلام جميل عن عظمة هذ العلم     </media:description>
@@ -51,7 +468,7 @@
                 religion, islam, culture education, prayer
             </media:keywords>
         </media:content>
-        <enclosure url="https://archive.org/download/ep-12_202006/EP1.m4a" length="71170216" type="audio/mpeg"/>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP01.m4a" length="71170216" type="audio/mpeg"/>
         <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/mobtada_khabar/back_rsz.webpg"/>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:episode>1</itunes:episode>
@@ -63,19 +480,19 @@
         <link>https://www.youtube.com/watch?v=9U0iun8JfgQ</link>
         <description>
             المبتدأ و الخبر: الحلقة 4 .. نسب رسول الله ﷺ كأنك ستسمعه لأول مرة</description>
-        <pubDate>Sat, 01 Jun 2020 09:24:48 +0000</pubDate>
+        <pubDate>Thu, 21 May 2020 08:24:48 +0000</pubDate>
         <guid isPermaLink="true">https://www.youtube.com/watch?v=9U0iun8JfgQ</guid>
-        <media:content medium="audio" url="https://archive.org/download/ep-12_202006/EP2.m4a" type="audio/mpeg" isDefault="true" expression="full">
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP04.m4a" type="audio/mpeg" isDefault="true" expression="full">
             <media:title type="plain">الحلقة 2</media:title>
             <media:description>
-                المبتدأ و الخبر: الحلقة 2 .. نسب رسول الله ﷺ كأنك ستسمعه لأول مرة  </media:description>
+                المبتدأ و الخبر: الحلقة 4 .. نسب رسول الله ﷺ كأنك ستسمعه لأول مرة  </media:description>
             <media:rating scheme="urn:simple">nonadult</media:rating>
             <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/mobtada_khabar/back_rsz.webp"/>
             <media:keywords>
                 religion, islam, culture education, prayer
             </media:keywords>
         </media:content>
-        <enclosure url="https://archive.org/download/ep-12_202006/EP2.m4a" length="71170216" type="audio/mpeg"/>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP04.m4a" length="71170216" type="audio/mpeg"/>
         <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/mobtada_khabar/back_rsz.webpg"/>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:episode>2</itunes:episode>
@@ -87,9 +504,9 @@
         <link>https://www.youtube.com/watch?v=Nd2iiFIclUA</link>
         <description>
             المبتدأ و الخبر: الحلقة 3 ..''عدنان'' الجدّ الأعلى في نسب رسول الله ﷺ ، و أشعار وطرائف جميلة </description>
-        <pubDate>Sat, 01 Jun 2020 10:24:48 +0000</pubDate>
+        <pubDate>Thu, 21 May 2020 07:24:48 +0000</pubDate>
         <guid isPermaLink="true">https://www.youtube.com/watch?v=Nd2iiFIclUA</guid>
-        <media:content medium="audio" url="https://ia801501.us.archive.org/34/items/ep-12_202006/EP3.m4a" type="audio/mpeg" isDefault="true" expression="full">
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP03.m4a" type="audio/mpeg" isDefault="true" expression="full">
             <media:title type="plain">الحلقة 3</media:title>
             <media:description>
                 المبتدأ و الخبر: الحلقة 3 ..''عدنان'' الجدّ الأعلى في نسب رسول الله ﷺ ، و أشعار وطرائف جميلة     </media:description>
@@ -99,7 +516,7 @@
                 religion, islam, culture education, prayer
             </media:keywords>
         </media:content>
-        <enclosure url="https://ia801501.us.archive.org/34/items/ep-12_202006/EP3.m4a" length="71170216" type="audio/mpeg"/>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP03.m4a" length="71170216" type="audio/mpeg"/>
         <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/mobtada_khabar/back_rsz.webpg"/>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:episode>3</itunes:episode>
