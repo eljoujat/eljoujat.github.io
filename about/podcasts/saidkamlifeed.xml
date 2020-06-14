@@ -11,8 +11,8 @@
 
 <channel>
     <title>قناة الشَّيخ سَعيد الكَمَلي</title>
-    <atom:link href="https://feed.podbean.com/eljoujat/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>https://eljoujat.podbean.com</link>
+    <atom:link href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamlifeed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://www.youtube.com/channel/UCASAOTD6fMPEg8jmO4nPblQ</link>
     <description>أخبار العرب و سيرة سيد البشر</description>
     <pubDate>Wed, 10 Jun 2020 17:54:55 +0000</pubDate>
     <generator>https://podbean.com/?v=5.5</generator>
@@ -45,7 +45,7 @@
         <link>https://www.youtube.com/watch?v=zrrDF62uLg4</link>
         <description>
             المبتدأ و الخبر: الحلقة هل تعرف " هرم بن حيان العبدي " القائد الفاتح </description>
-         <pubDate>Sun, 14 Jun 2020 07:54:55 +0000</pubDate>
+         <pubDate>Sun, 14 Jun 2020 09:54:55 +0000</pubDate>
         <guid isPermaLink="true">https://www.youtube.com/watch?v=zrrDF62uLg4</guid>
         <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP28.m4a" type="audio/mpeg" isDefault="true" expression="full">
             <media:title type="plain">الحلقة 28</media:title>
@@ -70,7 +70,7 @@
         <link>https://www.youtube.com/watch?v=1BWx5YGQjlo</link>
         <description>
             المبتدأ و الخبر: الحلقة 27 مـن الشـعـراء الـفحـول فـي الـجـاهـلية  - المتلمس الضبعي</description>
-         <pubDate>Sun, 14 Jun 2020 07:54:55 +0000</pubDate>
+         <pubDate>Sun, 14 Jun 2020 08:54:55 +0000</pubDate>
         <guid isPermaLink="true">https://www.youtube.com/watch?v=1BWx5YGQjlo</guid>
         <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP27.m4a" type="audio/mpeg" isDefault="true" expression="full">
             <media:title type="plain">الحلقة 27</media:title>
@@ -575,11 +575,11 @@
     </item>
     <item>
         <title>المبتدأ و الخبر: الحلقة 2 ..نسب رسول الله ﷺ كأنك ستسمعه لأول مرة </title>
-        <link>https://www.youtube.com/watch?v=Nd2iiFIclUA</link>
+        <link>https://www.youtube.com/watch?v=9U0iun8JfgQ</link>
         <description>
             المبتدأ و الخبر: الحلقة 2 ..نسب رسول الله ﷺ كأنك ستسمعه لأول مرة </description>
         <pubDate>Thu, 21 May 2020 06:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=Nd2iiFIclUA</guid>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=9U0iun8JfgQ</guid>
         <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP02.m4a" type="audio/mpeg" isDefault="true" expression="full">
             <media:title type="plain">الحلقة 3</media:title>
             <media:description>
