@@ -40,17 +40,71 @@
         <height>144</height>
     </image>
 
+
     <item>
-        <title>المبتدأ و الخبر: الحلقة 28 هل تعرف " هرم بن حيان العبدي " القائد الفاتح </title>
+        <title>المبتدأ و الخبر: الحلقة 30  استمتع بهذه الأبيات التي تسيل بلاغة و حكمة </title>
+        <link>https://www.youtube.com/watch?v=ckxC4r9m9RI</link>
+        <description>
+            المبتدأ و الخبر:  استمتع بهذه الأبيات التي تسيل بلاغة و حكمة </description>
+         <pubDate>Tue, 16 Jun 2020 08:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=ckxC4r9m9RI</guid>
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP30.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 30</media:title>
+            <media:description>
+                المبتدأ و الخبر:  استمتع بهذه الأبيات التي تسيل بلاغة و حكمة   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP30.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>30</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>10:14</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" /> 
+    </item>
+    
+
+    <item>
+        <title>المبتدأ و الخبر: الحلقة 29 هل تعرف " هرم بن حيان العبدي " القائد الفاتح </title>
         <link>https://www.youtube.com/watch?v=zrrDF62uLg4</link>
         <description>
             المبتدأ و الخبر: الحلقة هل تعرف " هرم بن حيان العبدي " القائد الفاتح </description>
-         <pubDate>Sun, 14 Jun 2020 09:54:55 +0000</pubDate>
+         <pubDate>Tue, 16 Jun 2020 07:54:55 +0000</pubDate>
         <guid isPermaLink="true">https://www.youtube.com/watch?v=zrrDF62uLg4</guid>
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP29.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 29</media:title>
+            <media:description>
+                المبتدأ و الخبر: الحلقة 29 هل تعرف " هرم بن حيان العبدي " القائد الفاتح   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP29.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>29</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>11:11</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" /> 
+    </item>
+    
+
+
+    <item>
+        <title>المبتدأ و الخبر: الحلقة 28 هكذا كانت العرب ، فرس لا تُدرك..يهبها صاحبها لمن يريد أن يتزوج </title>
+        <link>https://www.youtube.com/watch?v=ufk0aMRbe8I</link>
+        <description>
+            المبتدأ و الخبر: هكذا كانت العرب ، فرس لا تُدرك..يهبها صاحبها لمن يريد أن يتزوج </description>
+         <pubDate>Sun, 14 Jun 2020 09:54:55 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=ufk0aMRbe8I</guid>
         <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP28.m4a" type="audio/mpeg" isDefault="true" expression="full">
             <media:title type="plain">الحلقة 28</media:title>
             <media:description>
-                المبتدأ و الخبر: الحلقة 28 هل تعرف " هرم بن حيان العبدي " القائد الفاتح   </media:description>
+                المبتدأ و الخبر: الحلقة 28 هكذا كانت العرب ، فرس لا تُدرك..يهبها صاحبها لمن يريد أن يتزوج   </media:description>
             <media:rating scheme="urn:simple">nonadult</media:rating>
             <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg"/>
             <media:keywords>
@@ -61,7 +115,7 @@
         <itunes:explicit>clean</itunes:explicit>
         <itunes:episode>28</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>11:11</itunes:duration>
+        <itunes:duration>12:43</itunes:duration>
         <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" /> 
     </item>
     
