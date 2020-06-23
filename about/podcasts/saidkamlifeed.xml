@@ -40,6 +40,30 @@
         <height>144</height>
     </image>
 
+    <item>
+        <title>قصة : بـيـعـة الـرضـوان </title>
+        <link>https://www.youtube.com/watch?v=9kwNUHsTYnI</link>
+        <description>
+            قصة : بـيـعـة الـرضـوان </description>
+         <pubDate>Mon, 22 Jun 2020 08:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=9kwNUHsTYnI</guid>
+        <media:content medium="audio" url="https://chtbl.com/track/9G3BA5/archive.org/download/bai3at_ridawn_kamli/bai3at_ridawn_kamli.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 32</media:title>
+            <media:description>
+                قصة : بـيـعـة الـرضـوان   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://chtbl.com/track/9G3BA5/archive.org/download/bai3at_ridawn_kamli/bai3at_ridawn_kamli.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>32</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>13:23</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
 
 
     <item>
