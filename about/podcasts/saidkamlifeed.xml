@@ -40,18 +40,67 @@
         <height>144</height>
     </image>
 
+    <item>
+        <title>آداب و مواعظ : الـتعصب للعلماء و المذاهب </title>
+        <link>https://www.youtube.com/watch?v=9kwNUHsTYnI</link>
+        <description>
+            آداب و مواعظ :الـتعصب للعلماء و المذاهب </description>
+         <pubDate>Fri, 26 Jun 2020 09:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=9kwNUHsTYnI</guid>
+        <media:content medium="audio" url="https://archive.org/download/maw3ida_3olama_kamli/maw3ida_3olama_kamli.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 35</media:title>
+            <media:description>
+                آداب و مواعظ :الـتعصب للعلماء و المذاهب   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/maw3ida_3olama_kamli/maw3ida_3olama_kamli.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>35</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>13:23</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
 
     <item>
-        <title>قصة : قلب الدنيا !! عمر بن عبد العزيز (رائعة) </title>
+        <title>سير و تراجم: :سيرة عجيبة لرجل عظيم (أبو ذر الغفاري) </title>
+        <link>https://www.youtube.com/watch?v=092YxFbnNSs</link>
+        <description>
+            سير و تراجم: :سيرة عجيبة لرجل عظيم (أبو ذر الغفاري) </description>
+         <pubDate>Fri, 26 Jun 2020 08:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=092YxFbnNSs</guid>
+        <media:content medium="audio" url="https://archive.org/download/abu_dar_kamli/abu_dar_kamli.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 32</media:title>
+            <media:description>
+                سير و تراجم: : سيرة عجيبة لرجل عظيم (أبو ذر الغفاري)   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/abu_dar_kamli/abu_dar_kamli.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>34</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>32:13</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+    <item>
+        <title>سير و تراجم: : قلب الدنيا !! عمر بن عبد العزيز (رائعة) </title>
         <link>https://www.youtube.com/watch?v=1MXFqDqz2ME</link>
         <description>
-            قصة :قلب الدنيا !! عمر بن عبد العزيز (رائعة) </description>
+            سير و تراجم: :قلب الدنيا !! عمر بن عبد العزيز (رائعة) </description>
          <pubDate>Mon, 22 Jun 2020 08:01:31 +0000</pubDate>
         <guid isPermaLink="true">hhttps://www.youtube.com/watch?v=1MXFqDqz2ME</guid>
         <media:content medium="audio" url="https://archive.org/download/omar_abdel_aziz/omar_abdel_aziz.m4a" type="audio/mpeg" isDefault="true" expression="full">
             <media:title type="plain">الحلقة 33</media:title>
             <media:description>
-                قصة :قلب الدنيا !! عمر بن عبد العزيز (رائعة)   </media:description>
+                سير و تراجم: :قلب الدنيا !! عمر بن عبد العزيز (رائعة)   </media:description>
             <media:rating scheme="urn:simple">nonadult</media:rating>
             <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
             <media:keywords>
@@ -67,16 +116,16 @@
     </item>
 
     <item>
-        <title>قصة : بـيـعـة الـرضـوان </title>
+        <title>قصص و عبر: : بـيـعـة الـرضـوان </title>
         <link>https://www.youtube.com/watch?v=9kwNUHsTYnI</link>
         <description>
-            قصة : بـيـعـة الـرضـوان </description>
+            قصص و عبر: : بـيـعـة الـرضـوان </description>
          <pubDate>Mon, 22 Jun 2020 08:01:31 +0000</pubDate>
         <guid isPermaLink="true">https://www.youtube.com/watch?v=9kwNUHsTYnI</guid>
         <media:content medium="audio" url="https://archive.org/download/bai3at_ridawn_kamli/bai3at_ridawn_kamli.m4a" type="audio/mpeg" isDefault="true" expression="full">
             <media:title type="plain">الحلقة 32</media:title>
             <media:description>
-                قصة : بـيـعـة الـرضـوان   </media:description>
+                قصص و عبر: : بـيـعـة الـرضـوان   </media:description>
             <media:rating scheme="urn:simple">nonadult</media:rating>
             <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
             <media:keywords>
@@ -92,16 +141,16 @@
     </item>
 
     <item>
-        <title>قصة : غزوة بدر الكبرى </title>
+        <title>قصص و عبر: : غزوة بدر الكبرى </title>
         <link>https://www.youtube.com/watch?v=COi41w8zQxI</link>
         <description>
-            قصة : غزوة بدر الكبرى </description>
+            قصص و عبر: : غزوة بدر الكبرى </description>
          <pubDate>Sat, 20 Jun 2020 08:01:31 +0000</pubDate>
         <guid isPermaLink="true">https://www.youtube.com/watch?v=COi41w8zQxI</guid>
         <media:content medium="audio" url="https://archive.org/download/badr_kamli/badr_kamli.mp3" type="audio/mpeg" isDefault="true" expression="full">
             <media:title type="plain">الحلقة 31</media:title>
             <media:description>
-                قصة : غزوة بدر الكبرى   </media:description>
+                قصص و عبر: : غزوة بدر الكبرى   </media:description>
             <media:rating scheme="urn:simple">nonadult</media:rating>
             <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
             <media:keywords>
