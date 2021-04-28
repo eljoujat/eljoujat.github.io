@@ -51,7 +51,7 @@
             <media:title type="plain">الحلقة 52</media:title>
             <media:description> الإسوة الحسنة :عفو النبي ﷺ و تسامحه .. حقيقة لا يعرفها الجميع - الشيخ سعيد الكملي </media:description>
             <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/iswa_7asanat.jpeg"/>
             <media:keywords>
                 religion, islam, culture education, prayer
             </media:keywords>
@@ -61,7 +61,7 @@
         <itunes:episode>52</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:duration>7:52</itunes:duration>
-        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/iswa_7asanat.jpeg" /> 
     </item>
 
 
