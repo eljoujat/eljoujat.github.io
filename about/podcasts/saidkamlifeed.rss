@@ -1,0 +1,1492 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" 
+     xmlns:psc="https://podlove.org/simple-chapters/" 
+     xmlns:omny="https://omny.fm/rss-extensions" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" 
+     xmlns:acast="https://schema.acast.com/1.0/" version="2.0">
+
+<channel>
+    <title>قناة الشَّيخ سَعيد الكَمَلي</title>
+    <atom:link href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamlifeed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://www.youtube.com/channel/UCASAOTD6fMPEg8jmO4nPblQ</link>
+    <description>بودكاست محبي ومريدي الشيخ سعيد الكملي</description>
+    <pubDate>Wed, 10 Jun 2020 17:54:55 +0000</pubDate>
+    <generator>https://podbean.com/?v=5.5</generator>
+    <language>ar</language>
+        <copyright>Copyright 2020 All rights reserved.</copyright>
+    <category>Religion &amp; Spirituality</category>
+    <ttl>1440</ttl>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>بودكاست محبي ومريدي الشيخ سعيد الكملي</itunes:summary>
+    <itunes:author>eljoujat</itunes:author>
+<itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:owner>
+        <itunes:name>eljoujat</itunes:name>
+        <itunes:email>eljoujat@gmail.com</itunes:email>
+    </itunes:owner>
+	<itunes:block>No</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" />
+    <image>
+        <url>https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg</url>
+        <title>قناة الشَّيخ سَعيد الكَمَلي</title>
+        <link>https://www.youtube.com/channel/UCASAOTD6fMPEg8jmO4nPblQ</link>
+        <width>144</width>
+        <height>144</height>
+    </image>
+
+
+    <item>
+        <title> سيرة الحبيب ـ1ـ أَيْن المَفَر والإلَه الطّالِب ؟ الشيخ سعيد الكملي  </title>
+        <link>https://www.youtube.com/watch?v=Pv0HjFCsTpw</link>
+        <description> سيرة الحبيب ـ1ـ أَيْن المَفَر والإلَه الطّالِب ؟ الشيخ سعيد الكملي</description>
+         <pubDate>Sat, 8 Mai 2021 08:08:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=Pv0HjFCsTpw</guid>
+        <media:content medium="audio" url="https://archive.org/download/ep-6_20210508/EP1.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 56</media:title>
+            <media:description> سيرة الحبيب ـ1ـ أَيْن المَفَر والإلَه الطّالِب ؟ الشيخ سعيد الكملي </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/iswa_7asanat.jpeg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/ep-6_20210508/EP1.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>56</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>18:21</itunes:duration>
+        <itunes:image href="https://archive.org/download/ep-6_20210508/hqdefault.webp" /> 
+    </item>
+
+
+    <item>
+        <title> الاسوة الحسنة 1 : النبي محمد ﷺ - الشيخ سعيد الكملي جديد 2020  </title>
+        <link>https://www.youtube.com/watch?v=EghhBP0Fa1c</link>
+        <description> الاسوة الحسنة 1 : النبي محمد ﷺ - الشيخ سعيد الكملي جديد 2020</description>
+         <pubDate>Sat, 1 Mai 2021 08:08:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=EghhBP0Fa1c</guid>
+        <media:content medium="audio" url="https://ia801407.us.archive.org/5/items/isswat_hasana_EP12/isswat_hasana_EP1.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 55</media:title>
+            <media:description> الاسوة الحسنة 1 : النبي محمد ﷺ - الشيخ سعيد الكملي جديد 2020 </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/iswa_7asanat.jpeg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia801407.us.archive.org/5/items/isswat_hasana_EP12/isswat_hasana_EP1.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>55</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>5:17</itunes:duration>
+        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/iswa_7asanat.jpeg" /> 
+    </item>
+
+    <item>
+        <title> الأسوة الحسنة 2 : النبي محمد ﷺ _ خلقه مع خادمه أنس _ الشيخ سعيد الكملي جديد 2020 </title>
+        <link>https://www.youtube.com/watch?v=Bc0pWN17dLM</link>
+        <description> الأسوة الحسنة 2 : النبي محمد ﷺ _ خلقه مع خادمه أنس _ الشيخ سعيد الكملي جديد 2020</description>
+         <pubDate>Sat, 1 Mai 2021 09:08:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=Bc0pWN17dLM</guid>
+        <media:content medium="audio" url="https://ia801407.us.archive.org/5/items/isswat_hasana_EP12/isswat_hasana_EP2.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 54</media:title>
+            <media:description> الأسوة الحسنة 2 : النبي محمد ﷺ _ خلقه مع خادمه أنس _ الشيخ سعيد الكملي جديد 2020 </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/iswa_7asanat.jpeg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia801407.us.archive.org/5/items/isswat_hasana_EP12/isswat_hasana_EP2.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>54</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>4:37</itunes:duration>
+        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/iswa_7asanat.jpeg" /> 
+    </item>
+
+    <item>
+        <title> الإسوة الحسنة 11 :لا يرحم الله من لا يرحم الناس  ..مقطع جميل جدا للشيخ سعيد الكملي  </title>
+        <link>https://www.youtube.com/watch?v=br9FDwDyuUY</link>
+        <description> الإسوة الحسنة :لا يرحم الله من لا يرحم الناس ..مقطع جميل جدا للشيخ سعيد الكملي</description>
+         <pubDate>Thu, 21 Apr 2021 08:08:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=br9FDwDyuUY</guid>
+        <media:content medium="audio" url="https://ia601501.us.archive.org/30/items/rahma_prophete/rahma_prophete.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 53</media:title>
+            <media:description> الإسوة الحسنة 11 :لا يرحم الله من لا يرحم الناس ..مقطع جميل جدا للشيخ سعيد الكملي </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/iswa_7asanat.jpeg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601501.us.archive.org/30/items/rahma_prophete/rahma_prophete.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>53</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>5:41</itunes:duration>
+        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/iswa_7asanat.jpeg" /> 
+    </item>
+
+    <item>
+        <title> الإسوة الحسنة 13 :عفو النبي ﷺ و تسامحه .. حقيقة لا يعرفها الجميع - الشيخ سعيد الكملي  </title>
+        <link>https://www.youtube.com/watch?v=H93R8ziots8</link>
+        <description> الإسوة الحسنة 13 :عفو النبي ﷺ و تسامحه .. حقيقة لا يعرفها الجميع - الشيخ سعيد الكملي</description>
+         <pubDate>Wed, 20 Apr 2021 08:08:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=H93R8ziots8</guid>
+        <media:content medium="audio" url="https://ia601402.us.archive.org/15/items/pardon_du_prophet/pardon_du_prophet.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 52</media:title>
+            <media:description> الإسوة الحسنة :عفو النبي ﷺ و تسامحه .. حقيقة لا يعرفها الجميع - الشيخ سعيد الكملي </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/iswa_7asanat.jpeg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601402.us.archive.org/15/items/pardon_du_prophet/pardon_du_prophet.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>52</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>7:52</itunes:duration>
+        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamli/iswa_7asanat.jpeg" /> 
+    </item>
+
+
+    <item>
+        <title> آداب و مواعظ :مَوَاقِف النّبي مُحَمّد ﷺ مع الأطْفَال.. رِسالة لكل من لا يعرف نبينا الكريم  </title>
+        <link>https://www.youtube.com/watch?v=z1GuHCTNtwI</link>
+        <description> مَوَاقِف النّبي مُحَمّد ﷺ مع الأطْفَال.. رِسالة لكل من لا يعرف نبينا الكريم </description>
+         <pubDate>Thu, 10 Sep 2020 08:08:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=z1GuHCTNtwI</guid>
+        <media:content medium="audio" url="https://archive.org/download/192kbit-aac/%D9%85%D9%8E%D9%88%D9%8E%D8%A7%D9%82%D9%90%D9%81%20%D8%A7%D9%84%D9%86%D9%91%D8%A8%D9%8A%20%D9%85%D9%8F%D8%AD%D9%8E%D9%85%D9%91%D8%AF%20%EF%B7%BA%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%A7%D9%94%D8%B7%D9%92%D9%81%D9%8E%D8%A7%D9%84..%20%D8%B1%D9%90%D8%B3%D8%A7%D9%84%D8%A9%20%D9%84%D9%83%D9%84%20%D9%85%D9%86%20%D9%84%D8%A7%20%D9%8A%D8%B9%D8%B1%D9%81%20%D9%86%D8%A8%D9%8A%D9%86%D8%A7%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%D9%80%20%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%A7%D9%84%D9%83%D9%85%D9%84%D9%8A%20%28192kbit_AAC%29.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 51</media:title>
+            <media:description> آداب و مواعظ :مَوَاقِف النّبي مُحَمّد ﷺ مع الأطْفَال.. رِسالة لكل من لا يعرف نبينا الكريم </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/192kbit-aac/%D9%85%D9%8E%D9%88%D9%8E%D8%A7%D9%82%D9%90%D9%81%20%D8%A7%D9%84%D9%86%D9%91%D8%A8%D9%8A%20%D9%85%D9%8F%D8%AD%D9%8E%D9%85%D9%91%D8%AF%20%EF%B7%BA%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%A7%D9%94%D8%B7%D9%92%D9%81%D9%8E%D8%A7%D9%84..%20%D8%B1%D9%90%D8%B3%D8%A7%D9%84%D8%A9%20%D9%84%D9%83%D9%84%20%D9%85%D9%86%20%D9%84%D8%A7%20%D9%8A%D8%B9%D8%B1%D9%81%20%D9%86%D8%A8%D9%8A%D9%86%D8%A7%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%D9%80%20%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%A7%D9%84%D9%83%D9%85%D9%84%D9%8A%20%28192kbit_AAC%29.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>51</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>5:31</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+
+
+    <item>
+        <title> آداب و مواعظ :استيقظوا ياعباد الله !! درس مؤثر جداً نحتاج الى سماعه</title>
+        <link>https://www.youtube.com/watch?v=8vhu7x7VNBUZ</link>
+        <description> استيقظوا ياعباد الله !! درس مؤثر جداً نحتاج الى سماعه </description>
+         <pubDate>Thu, 10 Sep 2020 08:08:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=8vhu7x7VNBUZ</guid>
+        <media:content medium="audio" url="https://archive.org/download/128kbit-aac_20200910/istay9ido.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 50</media:title>
+            <media:description> آداب و مواعظ استيقظوا ياعباد الله !! درس مؤثر جداً نحتاج الى سماعه </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/128kbit-aac_20200910/istay9ido.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>50</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>11:43</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+
+
+    <item>
+        <title>قصص و عبر :القصة الكاملة لظهورمسليمة الكذاب ومقتله في معركة اليمامة التاريخية </title>
+        <link>https://www.youtube.com/watch?v=US87aidUTtA</link>
+        <description>
+            قصص و عبر : القصة الكاملة لظهورمسليمة الكذاب ومقتله في معركة اليمامة التاريخية </description>
+         <pubDate>Wed, 9 Sep 2020 08:30:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=US87aidUTtA</guid>
+        <media:content medium="audio" url="https://archive.org/download/128kbit-aac_20200909/histoire_mosailima_kaddab.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 50</media:title>
+            <media:description>
+                قصص و عبر :القصة الكاملة لظهورمسليمة الكذاب ومقتله في معركة اليمامة التاريخية   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/128kbit-aac_20200909/histoire_mosailima_kaddab.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>50</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>30:10</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+    <item>
+        <title> آداب و مواعظ :أروع ماقيل عن مغفرة الله سبحانه و تعالى</title>
+        <link>https://www.youtube.com/watch?v=8vhu7x7VNBU</link>
+        <description> أروع ماقيل عن مغفرة الله سبحانه و تعالى الشيخ سعيد الكملي </description>
+         <pubDate>Tue, 8 Sep 2020 08:08:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=8vhu7x7VNBU</guid>
+        <media:content medium="audio" url="https://archive.org/download/said_kamli_maghfira/maghfira.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 49</media:title>
+            <media:description> آداب و مواعظ أروع ماقيل عن مغفرة الله سبحانه و تعالى الشيخ سعيد الكملي </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/said_kamli_maghfira/maghfira.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>49</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>6:32</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+
+    <item>
+        <title>قصص و عبر :أشهر قصة في الجود عند العرب ! </title>
+        <link>https://www.youtube.com/watch?v=3Lr7WGArLfU</link>
+        <description>
+            قصص و عبر : أشهر قصة في الجود عند العرب ! </description>
+         <pubDate>Mon, 7 Sep 2020 09:30:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=3Lr7WGArLfU</guid>
+        <media:content medium="audio" url="https://archive.org/download/128kbit-aac_20200907_0737/Lkaram.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 49</media:title>
+            <media:description>
+                قصص و عبر :أشهر قصة في الجود عند العرب !   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/128kbit-aac_20200907_0737/Lkaram.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>49</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>3:11</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+    <item>
+        <title> آداب و مواعظ :لكل مقبل على الزواج .. اسمع هذه الوصية الغالية للشيخ سعيد الكملي</title>
+        <link>https://www.youtube.com/watch?v=NMEcE724pFU</link>
+        <description> آداب و مواعظ :لكل مقبل على الزواج .. اسمع هذه الوصية الغالية للشيخ سعيد الكملي</description>
+         <pubDate>Mon, 7 Sep 2020 09:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=NMEcE724pFU</guid>
+        <media:content medium="audio" url="https://archive.org/download/128kbit-aac_20200907/Zawaj_nasi7a.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 48</media:title>
+            <media:description> آداب و مواعظ :لكل مقبل على الزواج .. اسمع هذه الوصية الغالية للشيخ سعيد الكملي </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/128kbit-aac_20200907/Zawaj_nasi7a.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>48</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>5:17</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+    <item>
+        <title> آداب و مواعظ :لا تعذب نفسك ليرضى عنك الناس..! </title>
+        <link>https://www.youtube.com/watch?v=EgUZZxBupnw</link>
+        <description> آداب و مواعظ :لا تعذب نفسك ليرضى عنك الناس..!</description>
+        <pubDate>Fri, 4 Sep 2020 09:55:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=EgUZZxBupnw</guid>
+        <media:content medium="audio" url="https://archive.org/download/128kbit-aac_20200904/la_to3adib_nafsak_said_kamli.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 47</media:title>
+            <media:description> آداب و مواعظ :لا تعذب نفسك ليرضى عنك الناس..!</media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/128kbit-aac_20200904/la_to3adib_nafsak_said_kamli.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>47</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>3:01</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+
+    <item>
+        <title> آداب و مواعظ :نَحْنُ نَعِيشُ في دَارِ الخَيَال..! </title>
+        <link>https://www.youtube.com/watch?v=LYshU4IyVfo</link>
+        <description> آداب و مواعظ :نَحْنُ نَعِيشُ في دَارِ الخَيَال..!</description>
+        <pubDate>Fri, 4 Sep 2020 09:50:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=LYshU4IyVfo</guid>
+        <media:content medium="audio" url="https://ia601503.us.archive.org/32/items/128kbit-aac_202009/%D9%86%D9%8E%D8%AD%D9%92%D9%86%D9%8F%20%D9%86%D9%8E%D8%B9%D9%90%D9%8A%D8%B4%D9%8F%20%D9%81%D9%8A%20%D8%AF%D9%8E%D8%A7%D8%B1%D9%90%20%D8%A7%D9%84%D8%AE%D9%8E%D9%8A%D9%8E%D8%A7%D9%84..%21%20%D9%85%D9%86%20%D8%B1%D9%88%D8%A7%D9%8A%D9%94%D8%B9%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%A7%D9%84%D9%83%D9%85%D9%84%D9%8A%20%28128kbit_AAC%29.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 46</media:title>
+            <media:description> آداب و مواعظ :نَحْنُ نَعِيشُ في دَارِ الخَيَال..!</media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601503.us.archive.org/32/items/128kbit-aac_202009/%D9%86%D9%8E%D8%AD%D9%92%D9%86%D9%8F%20%D9%86%D9%8E%D8%B9%D9%90%D9%8A%D8%B4%D9%8F%20%D9%81%D9%8A%20%D8%AF%D9%8E%D8%A7%D8%B1%D9%90%20%D8%A7%D9%84%D8%AE%D9%8E%D9%8A%D9%8E%D8%A7%D9%84..%21%20%D9%85%D9%86%20%D8%B1%D9%88%D8%A7%D9%8A%D9%94%D8%B9%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%A7%D9%84%D9%83%D9%85%D9%84%D9%8A%20%28128kbit_AAC%29.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>46</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>1:09</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+
+
+    <item>
+        <title>سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك: الحلقة 12 </title>
+        <link>https://www.youtube.com/watch?v=PLGFYjSyFjUZP</link>
+        <description>
+            سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك </description>
+         <pubDate>Fri, 4 Sep 2020 09:45:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=PLGFYjSyFjUTP</guid>
+        <media:content medium="audio" url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%2012%20%20.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 12</media:title>
+            <media:description>
+                سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%2012%20%20.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>45</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>6:55</itunes:duration>
+        <itunes:image href="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png" /> 
+    </item>
+
+
+    <item>
+        <title>سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك: الحلقة 11 </title>
+        <link>https://www.youtube.com/watch?v=PLGFYjSyFjUZP</link>
+        <description>
+            سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك </description>
+         <pubDate>Mon, 21 Jul 2020 09:45:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=PLGFYjSyFjUZP</guid>
+        <media:content medium="audio" url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%2011%20%20.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 11</media:title>
+            <media:description>
+                سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%2011%20%20.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>44</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>5:53</itunes:duration>
+        <itunes:image href="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png" /> 
+    </item>
+
+
+    <item>
+        <title>سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك: الحلقة 10 </title>
+        <link>https://www.youtube.com/watch?v=PLGFYjSyFjUZT</link>
+        <description>
+            سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك </description>
+         <pubDate>Mon, 21 Jul 2020 09:35:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=PLGFYjSyFjUZT</guid>
+        <media:content medium="audio" url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%2010%20.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 10</media:title>
+            <media:description>
+                سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%2010%20.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>43</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>6:41</itunes:duration>
+        <itunes:image href="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png" /> 
+    </item>
+
+
+    <item>
+        <title>سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك: الحلقة 09 </title>
+        <link>https://www.youtube.com/watch?v=PLGFYjSyFjUZ</link>
+        <description>
+            سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك </description>
+         <pubDate>Mon, 21 Jul 2020 09:30:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=PLGFYjSyFjUZ</guid>
+        <media:content medium="audio" url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%209%20.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 09</media:title>
+            <media:description>
+                سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%209%20.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>42</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>7:06</itunes:duration>
+        <itunes:image href="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png" /> 
+    </item>
+
+    <item>
+        <title>سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك: الحلقة 08 </title>
+        <link>https://www.youtube.com/watch?v=PLGFYjSyFjU</link>
+        <description>
+            سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك </description>
+         <pubDate>Mon, 21 Jul 2020 08:30:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=PLGFYjSyFjU</guid>
+        <media:content medium="audio" url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%208%20.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 08</media:title>
+            <media:description>
+                سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%208%20.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>41</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>6:41</itunes:duration>
+        <itunes:image href="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png" /> 
+    </item>
+    <item>
+        <title>سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك: الحلقة 07 </title>
+        <link>https://www.youtube.com/watch?v=PLGFYjSyFjZ</link>
+        <description>
+            سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك </description>
+         <pubDate>Mon, 21 Jul 2020 08:30:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=PLGFYjSyFjZ</guid>
+        <media:content medium="audio" url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%207%20.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 07</media:title>
+            <media:description>
+                سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%207%20.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>40</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>6:24</itunes:duration>
+        <itunes:image href="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png" /> 
+    </item>
+
+    <item>
+        <title> آداب و مواعظ :أين نحن من حب الحبيب المصطفى ﷺ</title>
+        <link>https://www.youtube.com/watch?v=ftbnCxKemUY</link>
+        <description> آداب و مواعظ :أين نحن من حب الحبيب المصطفى ﷺ</description>
+         <pubDate>Wed, 8 Jul 2020 09:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=ftbnCxKemUY</guid>
+        <media:content medium="audio" url="https://ia601401.us.archive.org/5/items/maw3ida14/maw3ida14.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 35</media:title>
+            <media:description> آداب و مواعظ :أين نحن من حب الحبيب المصطفى ﷺ</media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601401.us.archive.org/5/items/maw3ida14/maw3ida14.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>37</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>6:09</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+
+    <item>
+        <title>سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك: الحلقة 06 </title>
+        <link>https://www.youtube.com/watch?v=PLGFYjSyFjM</link>
+        <description>
+            سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك </description>
+         <pubDate>Wed, 15 Jul 2020 09:30:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=PLGFYjSyFjM</guid>
+        <media:content medium="audio" url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%206%20.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 06</media:title>
+            <media:description>
+                سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%206%20.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>39</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>6:22</itunes:duration>
+        <itunes:image href="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png" /> 
+    </item>
+
+    <item>
+        <title>سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك: الحلقة 05 </title>
+        <link>https://www.youtube.com/watch?v=mdgyYEPR5Y0</link>
+        <description>
+            سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك </description>
+         <pubDate>Wed, 15 Jul 2020 09:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=mdgyYEPR5Y0</guid>
+        <media:content medium="audio" url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%205%20.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 05</media:title>
+            <media:description>
+                سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%205%20.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>38</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>6:38</itunes:duration>
+        <itunes:image href="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png" /> 
+    </item>
+
+    <item>
+        <title>سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك: الحلقة 04 </title>
+        <link>https://www.youtube.com/watch?v=9vT69aW3KUc</link>
+        <description>
+            سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك </description>
+         <pubDate>Wed, 15 Jul 2020 08:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=9vT69aW3KUc</guid>
+        <media:content medium="audio" url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%204%20.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 04</media:title>
+            <media:description>
+                سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%204%20.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>37</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>6:30</itunes:duration>
+        <itunes:image href="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png" /> 
+    </item>
+
+
+    <item>
+        <title>سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك: الحلقة 03 </title>
+        <link>https://www.youtube.com/watch?v=PlAZjV3m5lE</link>
+        <description>
+            سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك </description>
+         <pubDate>Wed, 8 Jul 2020 08:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=PlAZjV3m5lE</guid>
+        <media:content medium="audio" url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%203%20.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 03</media:title>
+            <media:description>
+                سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%203%20.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>36</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>6:51</itunes:duration>
+        <itunes:image href="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png" /> 
+    </item>
+
+
+    <item>
+        <title>سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك: الحلقة 02 </title>
+        <link>https://www.youtube.com/watch?v=sO1hdyyL7AQ</link>
+        <description>
+            سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك </description>
+         <pubDate>Mon, 6 Jul 2020 15:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=sO1hdyyL7AQ</guid>
+        <media:content medium="audio" url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%202%20.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 02</media:title>
+            <media:description>
+                سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601503.us.archive.org/7/items/ep-1_20200706/EP%202%20.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>02</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>5:28</itunes:duration>
+        <itunes:image href="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png" /> 
+    </item>
+
+    <item>
+        <title>سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك: الحلقة 01 </title>
+        <link>https://www.youtube.com/watch?v=sO1hdyyL7CQ</link>
+        <description>
+            سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك </description>
+         <pubDate>Mon, 6 Jul 2020 09:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=sO1hdyyL7CQ</guid>
+        <media:content medium="audio" url="https://archive.org/download/ep-1_20200706/EP%201%20.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 01</media:title>
+            <media:description>
+                سـلـسـلـة  مـشـاهـد مـن سـيـرة الأمـام مـالـك   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/ep-1_20200706/EP%201%20.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>01</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>8:04</itunes:duration>
+        <itunes:image href="https://archive.org/download/ep-1_20200706/Screenshot%202020-07-06%20at%2010.03.44.png" /> 
+    </item>
+
+    <item>
+        <title>آداب و مواعظ : مـا الغايـة مـن الصيـام ؟  </title>
+        <link>https://www.youtube.com/watch?v=U4bQXDfkQjk</link>
+        <description>
+            آداب و مواعظ :مـا الغايـة مـن الصيـام ؟  </description>
+         <pubDate>Mon, 6 Jul 2020 08:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=U4bQXDfkQjk</guid>
+        <media:content medium="audio" url="https://ia601401.us.archive.org/5/items/maw3ida14/maw3ida08.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 35</media:title>
+            <media:description>
+                آداب و مواعظ :مـا الغايـة مـن الصيـام ؟    </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601401.us.archive.org/5/items/maw3ida14/maw3ida08.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>35</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>9:43</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+
+    <item>
+        <title>آداب و مواعظ : الـتعصب للعلماء و المذاهب </title>
+        <link>https://www.youtube.com/watch?v=vzvgS0YIdyk</link>
+        <description>
+            آداب و مواعظ :الـتعصب للعلماء و المذاهب </description>
+         <pubDate>Fri, 26 Jun 2020 09:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=vzvgS0YIdyk</guid>
+        <media:content medium="audio" url="https://archive.org/download/maw3ida_3olama_kamli/maw3ida_3olama_kamli.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 35</media:title>
+            <media:description>
+                آداب و مواعظ :الـتعصب للعلماء و المذاهب   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/maw3ida_3olama_kamli/maw3ida_3olama_kamli.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>35</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>17:21</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+    <item>
+        <title>سير و تراجم: :سيرة عجيبة لرجل عظيم (أبو ذر الغفاري) </title>
+        <link>https://www.youtube.com/watch?v=092YxFbnNSs</link>
+        <description>
+            سير و تراجم: :سيرة عجيبة لرجل عظيم (أبو ذر الغفاري) </description>
+         <pubDate>Fri, 26 Jun 2020 08:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=092YxFbnNSs</guid>
+        <media:content medium="audio" url="https://archive.org/download/abu_dar_kamli/abu_dar_kamli.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 32</media:title>
+            <media:description>
+                سير و تراجم: : سيرة عجيبة لرجل عظيم (أبو ذر الغفاري)   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/abu_dar_kamli/abu_dar_kamli.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>34</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>32:13</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+    <item>
+        <title>سير و تراجم : قلب الدنيا !! عمر بن عبد العزيز (رائعة) </title>
+        <link>https://www.youtube.com/watch?v=1MXFqDqz2ME</link>
+        <description>
+            سير و تراجم :قلب الدنيا !! عمر بن عبد العزيز (رائعة) </description>
+         <pubDate>Mon, 22 Jun 2020 08:01:31 +0000</pubDate>
+        <guid isPermaLink="true">hhttps://www.youtube.com/watch?v=1MXFqDqz2ME</guid>
+        <media:content medium="audio" url="https://archive.org/download/omar_abdel_aziz/omar_abdel_aziz.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 33</media:title>
+            <media:description>
+                سير و تراجم:قلب الدنيا !! عمر بن عبد العزيز (رائعة)   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/omar_abdel_aziz/omar_abdel_aziz.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>33</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>27:16</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+    <item>
+        <title>قصص و عبر : بـيـعـة الـرضـوان </title>
+        <link>https://www.youtube.com/watch?v=9kwNUHsTYnI</link>
+        <description>
+            قصص و عبر : بـيـعـة الـرضـوان </description>
+         <pubDate>Mon, 22 Jun 2020 08:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=9kwNUHsTYnI</guid>
+        <media:content medium="audio" url="https://archive.org/download/bai3at_ridawn_kamli/bai3at_ridawn_kamli.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 32</media:title>
+            <media:description>
+                قصص و عبر : بـيـعـة الـرضـوان   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/bai3at_ridawn_kamli/bai3at_ridawn_kamli.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>32</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>13:23</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+    <item>
+        <title>قصص و عبر : غزوة بدر الكبرى </title>
+        <link>https://www.youtube.com/watch?v=COi41w8zQxI</link>
+        <description>
+            قصص و عبر : غزوة بدر الكبرى </description>
+         <pubDate>Sat, 20 Jun 2020 08:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=COi41w8zQxI</guid>
+        <media:content medium="audio" url="https://archive.org/download/badr_kamli/badr_kamli.mp3" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 31</media:title>
+            <media:description>
+                قصص و عبر : غزوة بدر الكبرى   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://archive.org/download/badr_kamli/badr_kamli.mp3" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>31</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>38:57</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/said_kamli_profile.jpg" /> 
+    </item>
+
+
+    <item>
+        <title>المبتدأ و الخبر: الحلقة 30  استمتع بهذه الأبيات التي تسيل بلاغة و حكمة </title>
+        <link>https://www.youtube.com/watch?v=ckxC4r9m9RI</link>
+        <description>
+            المبتدأ و الخبر:  استمتع بهذه الأبيات التي تسيل بلاغة و حكمة </description>
+         <pubDate>Tue, 16 Jun 2020 08:01:31 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=ckxC4r9m9RI</guid>
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP30.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 30</media:title>
+            <media:description>
+                المبتدأ و الخبر:  استمتع بهذه الأبيات التي تسيل بلاغة و حكمة   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP30.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>30</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>10:14</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" /> 
+    </item>
+    
+
+    <item>
+        <title>المبتدأ و الخبر: الحلقة 29 هل تعرف " هرم بن حيان العبدي " القائد الفاتح </title>
+        <link>https://www.youtube.com/watch?v=zrrDF62uLg4</link>
+        <description>
+            المبتدأ و الخبر: الحلقة هل تعرف " هرم بن حيان العبدي " القائد الفاتح </description>
+         <pubDate>Tue, 16 Jun 2020 07:54:55 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=zrrDF62uLg4</guid>
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP29.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 29</media:title>
+            <media:description>
+                المبتدأ و الخبر: الحلقة 29 هل تعرف " هرم بن حيان العبدي " القائد الفاتح   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP29.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>29</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>11:11</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" /> 
+    </item>
+    
+
+
+    <item>
+        <title>المبتدأ و الخبر: الحلقة 28 هكذا كانت العرب ، فرس لا تُدرك..يهبها صاحبها لمن يريد أن يتزوج </title>
+        <link>https://www.youtube.com/watch?v=ufk0aMRbe8I</link>
+        <description>
+            المبتدأ و الخبر: هكذا كانت العرب ، فرس لا تُدرك..يهبها صاحبها لمن يريد أن يتزوج </description>
+         <pubDate>Sun, 14 Jun 2020 09:54:55 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=ufk0aMRbe8I</guid>
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP28.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 28</media:title>
+            <media:description>
+                المبتدأ و الخبر: الحلقة 28 هكذا كانت العرب ، فرس لا تُدرك..يهبها صاحبها لمن يريد أن يتزوج   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP28.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>28</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>12:43</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" /> 
+    </item>
+    
+    <item>
+        <title>المبتدأ و الخبر: الحلقة 27 مـن الشـعـراء الـفحـول فـي الـجـاهـلية  - المتلمس الضبعي</title>
+        <link>https://www.youtube.com/watch?v=1BWx5YGQjlo</link>
+        <description>
+            المبتدأ و الخبر: الحلقة 27 مـن الشـعـراء الـفحـول فـي الـجـاهـلية  - المتلمس الضبعي</description>
+         <pubDate>Sun, 14 Jun 2020 08:54:55 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=1BWx5YGQjlo</guid>
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP27.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 27</media:title>
+            <media:description>
+                المبتدأ و الخبر: الحلقة 27 مـن الشـعـراء الـفحـول فـي الـجـاهـلية  - المتلمس الضبعي  </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP27.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>27</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>10:43</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" /> 
+    </item>
+    <item>
+        <title>المبتدأ و الخبر: الحلقة 26 .{ صحيفة المتلمس }..التي يضرب بها المثل لكل من يحمل حتفه في يده و لا يعلم به</title>
+        <link>https://www.youtube.com/watch?v=8dcfMjioUjM</link>
+        <description>
+            المبتدأ و الخبر: الحلقة 26 .. { صحيفة المتلمس }..التي يضرب بها المثل لكل من يحمل حتفه في يده و لا يعلم به</description>
+         <pubDate>Sun, 14 Jun 2020 07:54:55 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=8dcfMjioUjM</guid>
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP26.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 26</media:title>
+            <media:description>
+                المبتدأ و الخبر: الحلقة 26 .. { صحيفة المتلمس }..التي يضرب بها المثل لكل من يحمل حتفه في يده و لا يعلم به  </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP26.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>26</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>12:42</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" /> 
+    </item>
+    <item>
+        <title>الحلقة25- قصة هلاك" أبرهة "الذي أراد هدم الكعبة I الإمام السهيلي..من أشهرعلماء هذه الأمة ذكاءا وفطنة</title>
+        <itunes:title>الحلقة25- قصة هلاك" أبرهة "الذي أراد هدم الكعبة I الإمام السهيلي..من أشهرعلماء هذه الأمة ذكاءا وفطنة</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a925%d9%82%d8%b5%d8%a9-%d9%87%d9%84%d8%a7%d9%83%d8%a3%d8%a8%d8%b1%d9%87%d8%a9%d8%a7%d9%84%d8%b0/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a925%d9%82%d8%b5%d8%a9-%d9%87%d9%84%d8%a7%d9%83%d8%a3%d8%a8%d8%b1%d9%87%d8%a9%d8%a7%d9%84%d8%b0/#comments</comments>
+        <pubDate>Wed, 10 Jun 2020 17:54:55 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/4e18a493-8f05-54b0-8454-b079e2f35e0b</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/cd3vt3/_25-_____I_128kbit_AAC__81n1v.m4a" length="11161449" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:30</itunes:duration>
+                <itunes:episode>25</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 24 _ الصحابية الجليلة.. أسماء بنت عميس.. زوجة الخليفتين والشهيدين وصاحبة الهجرتين</title>
+        <itunes:title>الحلقة 24 _ الصحابية الجليلة.. أسماء بنت عميس.. زوجة الخليفتين والشهيدين وصاحبة الهجرتين</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24_-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a%d8%a9%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84%d8%a9/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-24_-%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a%d8%a9%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84%d8%a9/#comments</comments>
+        <pubDate>Wed, 10 Jun 2020 17:53:15 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/8826ba5b-e023-5b8c-90f8-d0fc4dc01c39</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/z3e40r/_24___128kbit_AAC__8hbkk.m4a" length="11692728" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>12:03</itunes:duration>
+                <itunes:episode>24</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 23-قصة اشهر كهان العرب في الجاهليه[ شق وسطيح ] مع ملك اليمن و نبوءة خروج النبي</title>
+        <itunes:title>الحلقة 23-قصة اشهر كهان العرب في الجاهليه[ شق وسطيح ] مع ملك اليمن و نبوءة خروج النبي</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23%d9%82%d8%b5%d8%a9-%d8%a7%d8%b4%d9%87%d8%b1-%d9%83%d9%87%d8%a7%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-23%d9%82%d8%b5%d8%a9-%d8%a7%d8%b4%d9%87%d8%b1-%d9%83%d9%87%d8%a7%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8/#comments</comments>
+        <pubDate>Tue, 09 Jun 2020 15:36:52 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/7fa6ae56-75a0-5e5f-ad05-d38f7167fcfc</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/ejxwuf/_23-_-_128kbit_AAC__buq48.m4a" length="11721732" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>12:04</itunes:duration>
+                <itunes:episode>23</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 22- من طالب فقـير عند أبي حنيفة إلى قـاض مـشهور يجالس هارون الرشيد !!! </title>
+        <itunes:title>الحلقة 22- من طالب فقـير عند أبي حنيفة إلى قـاض مـشهور يجالس هارون الرشيد !!! </itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22%d9%85%d9%86-%d8%b7%d8%a7%d9%84%d8%a8-%d9%81%d9%82%d9%80%d9%8a%d8%b1%d8%b9%d9%86%d8%af-%d8%a7/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22%d9%85%d9%86-%d8%b7%d8%a7%d9%84%d8%a8-%d9%81%d9%82%d9%80%d9%8a%d8%b1%d8%b9%d9%86%d8%af-%d8%a7/#comments</comments>
+        <pubDate>Tue, 09 Jun 2020 15:35:18 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/80898525-a4ee-50a6-9606-69cb9fb4effc</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/smse9d/_22-_128kbit_AAC__66t1b.m4a" length="11638111" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشـيـخ سعيد الكـملي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>12:00</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>22</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 21 - مـناقب عظيمة للصحابي الجليل جرير بن عبدالله البجلي مع الرسول ﷺ </title>
+        <itunes:title>الحلقة 21 - مـناقب عظيمة للصحابي الجليل جرير بن عبدالله البجلي مع الرسول ﷺ </itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21%d9%85%d9%80%d9%86%d8%a7%d9%82%d8%a8-%d8%b9%d8%b8%d9%8a%d9%85%d8%a9%d9%84%d9%84%d8%b5%d8%ad%d8%a7/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21%d9%85%d9%80%d9%86%d8%a7%d9%82%d8%a8-%d8%b9%d8%b8%d9%8a%d9%85%d8%a9%d9%84%d9%84%d8%b5%d8%ad%d8%a7/#comments</comments>
+        <pubDate>Tue, 09 Jun 2020 15:34:11 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/3d4a4b50-48db-59e6-9f34-81a3e4790ccc</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/dj48wq/_21_-_128kbit_AAC__9u67f.m4a" length="10262367" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشيخ سعيد الكملي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>10:35</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>21</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 20 - سلوا الله العافية - النهاية المؤلمة للقاضي ابن ابي دؤاد</title>
+        <itunes:title>الحلقة 20 - سلوا الله العافية - النهاية المؤلمة للقاضي ابن ابي دؤاد</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20%d8%b3%d9%84%d9%88%d8%a7-%d8%a7%d9%84%d9%84%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%81%d9%8a%d8%a9%d8%a7%d9%84%d9%86/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20%d8%b3%d9%84%d9%88%d8%a7-%d8%a7%d9%84%d9%84%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d9%81%d9%8a%d8%a9%d8%a7%d9%84%d9%86/#comments</comments>
+        <pubDate>Mon, 08 Jun 2020 13:01:37 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/5b26af8f-5c7d-58ba-a666-bf47c88cbc57</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/f7ujhx/_20_-_-_-_128kbit_AAC__6sv1p.m4a" length="11583464" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشيخ سعيد الكملي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:37</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>20</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 19ـ _ وتُـذِلُّ مـن تَـشَـاء _.. المنـاظرة التي أذلّت الوزير ابن أبي دؤاد</title>
+        <itunes:title>الحلقة 19ـ _ وتُـذِلُّ مـن تَـشَـاء _.. المنـاظرة التي أذلّت الوزير ابن أبي دؤاد</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19%d9%80_-%d9%88%d8%aa%d9%8f%d9%80%d8%b0%d9%90%d9%84%d9%8f%d9%91-%d9%85%d9%80%d9%86-%d8%aa%d9%8e%d9%80/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19%d9%80_-%d9%88%d8%aa%d9%8f%d9%80%d8%b0%d9%90%d9%84%d9%8f%d9%91-%d9%85%d9%80%d9%86-%d8%aa%d9%8e%d9%80/#comments</comments>
+        <pubDate>Mon, 08 Jun 2020 13:00:08 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/f807ec50-ca5e-5c8a-bfd1-20e4062dd7b1</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/bh14ci/_19_____128kbit_AAC__7pn04.m4a" length="11297717" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشيخ سعيد الكملي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:39</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>19</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 18 -‏عجائب الجود والكرم_ كعب بن مامة وأبو دؤاد الإياديان </title>
+        <itunes:title>الحلقة 18 -‏عجائب الجود والكرم_ كعب بن مامة وأبو دؤاد الإياديان </itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18%e2%80%8f%d8%b9%d8%ac%d8%a7%d9%8a%d9%94%d8%a8-%d8%a7%d9%84%d8%ac%d9%88%d8%af%d9%88%d8%a7%d9%84%d9%83%d8%b1/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18%e2%80%8f%d8%b9%d8%ac%d8%a7%d9%8a%d9%94%d8%a8-%d8%a7%d9%84%d8%ac%d9%88%d8%af%d9%88%d8%a7%d9%84%d9%83%d8%b1/#comments</comments>
+        <pubDate>Mon, 08 Jun 2020 12:59:12 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/63ad93c6-f58b-5471-b028-b0a4e54417ff</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/oe6qkv/_18_-___-_128kbit_AAC__bqfcf.m4a" length="10856901" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشيخ سعيد الكملي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:12</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>18</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 17- قصة الشاعر الفحل مع ملك الفرس _ و قصة أحد أجود العرب.. جاد بحياته لإنقاذ رفيقه من العطش</title>
+        <itunes:title>الحلقة 17- قصة الشاعر الفحل مع ملك الفرس _ و قصة أحد أجود العرب.. جاد بحياته لإنقاذ رفيقه من العطش</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17%d9%82%d8%b5%d8%a9%d8%a7%d9%84%d8%b4%d8%a7%d8%b9%d8%b1-%d8%a7%d9%84%d9%81%d8%ad%d9%84-%d9%85%d8%b9/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17%d9%82%d8%b5%d8%a9%d8%a7%d9%84%d8%b4%d8%a7%d8%b9%d8%b1-%d8%a7%d9%84%d9%81%d8%ad%d9%84-%d9%85%d8%b9/#comments</comments>
+        <pubDate>Sat, 06 Jun 2020 15:35:39 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/4693ff1c-350a-5769-b0ac-f371e1580daf</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/f7wddz/_17-___128kbit_AAC__7v9mr.m4a" length="12068341" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>12:26</itunes:duration>
+                <itunes:episode>17</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 16 - من أعظم رجال '' إياد ''..أشهر خطباء العرب الذي يَضرِب به الشعراء المثل</title>
+        <itunes:title>الحلقة 16 - من أعظم رجال '' إياد ''..أشهر خطباء العرب الذي يَضرِب به الشعراء المثل</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16%d9%85%d9%86%d8%a7%d9%94%d8%b9%d8%b8%d9%85%d8%b1%d8%ac%d8%a7%d9%84%d8%a7%d9%95%d9%8a%d8%a7%d8%af%d8%a7/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16%d9%85%d9%86%d8%a7%d9%94%d8%b9%d8%b8%d9%85%d8%b1%d8%ac%d8%a7%d9%84%d8%a7%d9%95%d9%8a%d8%a7%d8%af%d8%a7/#comments</comments>
+        <pubDate>Sat, 06 Jun 2020 15:34:31 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/fd14c4fd-7332-5600-a37b-2a7184c70847</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/98ivem/_16_-_128kbit_AAC__ab3j5.m4a" length="10476568" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>10:47</itunes:duration>
+                <itunes:episode>16</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 15-قصة الاربعة الاذكياء مُضر وربيعة وأنمار وإياد مع الافعى الجرهمي</title>
+        <itunes:title>الحلقة 15-قصة الاربعة الاذكياء مُضر وربيعة وأنمار وإياد مع الافعى الجرهمي</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15%d9%82%d8%b5%d8%a9-%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a9-%d8%a7%d9%84%d8%a7%d8%b0%d9%83%d9%8a%d8%a7%d8%a1/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15%d9%82%d8%b5%d8%a9-%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a9-%d8%a7%d9%84%d8%a7%d8%b0%d9%83%d9%8a%d8%a7%d8%a1/#comments</comments>
+        <pubDate>Sat, 06 Jun 2020 15:33:19 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/c9bcdd99-7bd3-5cfd-b7e1-a9e9d6da323e</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/8g2dgu/_15-_128kbit_AAC__70vpd.m4a" length="10557266" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشيخ سعيد الكملي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>10:52</itunes:duration>
+                <itunes:episode>15</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 14-كلام جمـيل يُـشـبه أن لا يكون عربيا ! _ قصة الرجل الذي يصلي مئة ركعة بين المغرب و العشاء</title>
+        <itunes:title>الحلقة 14-كلام جمـيل يُـشـبه أن لا يكون عربيا ! _ قصة الرجل الذي يصلي مئة ركعة بين المغرب و العشاء</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14%d9%83%d9%84%d8%a7%d9%85%d8%ac%d9%85%d9%80%d9%8a%d9%84%d9%8a%d9%8f%d9%80%d8%b4%d9%80%d8%a8%d9%87-%d8%a7/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14%d9%83%d9%84%d8%a7%d9%85%d8%ac%d9%85%d9%80%d9%8a%d9%84%d9%8a%d9%8f%d9%80%d8%b4%d9%80%d8%a8%d9%87-%d8%a7/#comments</comments>
+        <pubDate>Fri, 05 Jun 2020 09:14:05 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/cbf9205f-2a04-52f2-9aa9-96bb05e78ecc</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/mo6s70/_14-___128kbit_AAC__bvspl.m4a" length="10960182" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:17</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>14</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 13 - من روائـع أخبار أشهر قبيلة عربية '' قضاعة </title>
+        <itunes:title>الحلقة 13 - من روائـع أخبار أشهر قبيلة عربية '' قضاعة </itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13%d9%85%d9%86%d8%b1%d9%88%d8%a7%d9%8a%d9%94%d9%80%d8%b9-%d8%a7%d9%94%d8%ae%d8%a8%d8%a7%d8%b1/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13%d9%85%d9%86%d8%b1%d9%88%d8%a7%d9%8a%d9%94%d9%80%d8%b9-%d8%a7%d9%94%d8%ae%d8%a8%d8%a7%d8%b1/#comments</comments>
+        <pubDate>Fri, 05 Jun 2020 09:13:11 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/f70aaeba-7caf-5caa-9fb1-3fa2282ab717</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/v7mthh/_13_-_-_128kbit_AAC__bbs19.m4a" length="10587714" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>10:54</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>13</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 12 - قصة الصحابي الذي صلى بقومه و هو في عمر 6 سنين ، و قصص اخرى من الزمن الجميل</title>
+        <itunes:title>الحلقة 12 - قصة الصحابي الذي صلى بقومه و هو في عمر 6 سنين ، و قصص اخرى من الزمن الجميل</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12%d9%82%d8%b5%d8%a9%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a-%d8%a7%d9%84%d8%b0%d9%8a-%d8%b5/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12%d9%82%d8%b5%d8%a9%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a-%d8%a7%d9%84%d8%b0%d9%8a-%d8%b5/#comments</comments>
+        <pubDate>Fri, 05 Jun 2020 09:12:19 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/7698cbf0-ed39-5634-9e47-91d84f9b582f</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/djj66v/_12_-_6_-_128kbit_AAC__ap8fi.m4a" length="12897864" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>13:17</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>12</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 11-رجل نهى رسول الله ﷺ عن قتله !! قصة عجيبة تعجب منها الشيخ سعيد الكملي</title>
+        <itunes:title>الحلقة 11-رجل نهى رسول الله ﷺ عن قتله !! قصة عجيبة تعجب منها الشيخ سعيد الكملي</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d9%82%d8%b5%d8%a9-%d8%b9%d8%ac%d9%8a%d8%a8%d8%a9%d8%aa%d8%b9%d8%ac%d8%a8%d9%85%d9%86%d9%87%d8%a7%d8%a7%d9%84%d8%b4%d9%8a%d8%ae/</link>
+        <comments>https://eljoujat.podbean.com/e/%d9%82%d8%b5%d8%a9-%d8%b9%d8%ac%d9%8a%d8%a8%d8%a9%d8%aa%d8%b9%d8%ac%d8%a8%d9%85%d9%86%d9%87%d8%a7%d8%a7%d9%84%d8%b4%d9%8a%d8%ae/#comments</comments>
+        <pubDate>Wed, 03 Jun 2020 08:14:25 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/f1c4129c-c48c-5dd7-83d1-76e2c48789c8</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/fk00qx/EP11.m4a" length="11051064" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:23</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>11</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 10 - هل رأيتم قتيلا بكى من حب قاتله !!! قصة حب حزينة للشاعر العذري جميل بثينة</title>
+        <itunes:title>الحلقة 10 - هل رأيتم قتيلا بكى من حب قاتله !!! قصة حب حزينة للشاعر العذري جميل بثينة</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d9%87%d9%84-%d8%b1%d8%a3%d9%8a%d8%aa%d9%85-%d9%82%d8%aa%d9%8a%d9%84%d8%a7%d8%a8%d9%83%d9%89-%d9%85%d9%86-%d8%ad%d8%a8%d9%82%d8%a7%d8%aa%d9%84%d9%87/</link>
+        <comments>https://eljoujat.podbean.com/e/%d9%87%d9%84-%d8%b1%d8%a3%d9%8a%d8%aa%d9%85-%d9%82%d8%aa%d9%8a%d9%84%d8%a7%d8%a8%d9%83%d9%89-%d9%85%d9%86-%d8%ad%d8%a8%d9%82%d8%a7%d8%aa%d9%84%d9%87/#comments</comments>
+        <pubDate>Wed, 03 Jun 2020 08:13:01 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/40a40fe7-b667-5a94-8963-47b3eeb7f837</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/w919hz/EP10.m4a" length="11914668" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشَّيخ سَعيد الكَمَلي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>12:16</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>10</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 9 - قصة أغرب من الخيال ! ـ رجل نسبه من نار -- أنصف قصيدة عرفها العرب !</title>
+        <itunes:title>الحلقة 9 - قصة أغرب من الخيال ! ـ رجل نسبه من نار -- أنصف قصيدة عرفها العرب !</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9%d9%82%d8%b5%d8%a9%d8%a3%d8%ba%d8%b1%d8%a8%d9%85%d9%86-%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d9%84%d9%80-%d8%b1/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9%d9%82%d8%b5%d8%a9%d8%a3%d8%ba%d8%b1%d8%a8%d9%85%d9%86-%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d9%84%d9%80-%d8%b1/#comments</comments>
+        <pubDate>Wed, 03 Jun 2020 08:12:01 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/b763b01e-34bf-5f69-bf41-451510cb2762</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/c6zpnh/EP9.m4a" length="11394220" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>الشيخ سعيد الكملي</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:44</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>9</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 8 _ من رجـال جُـهـيـنة  القـبـيـلة الـعـربـيـة المـشهـورة !</title>
+        <itunes:title>الحلقة 8 _ من رجـال جُـهـيـنة  القـبـيـلة الـعـربـيـة المـشهـورة !</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-_%d9%85%d9%86-%d8%b1%d8%ac%d9%80%d8%a7%d9%84%d8%ac%d9%8f%d9%80%d9%87%d9%80%d9%8a%d9%80%d9%86%d8%a9/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-_%d9%85%d9%86-%d8%b1%d8%ac%d9%80%d8%a7%d9%84%d8%ac%d9%8f%d9%80%d9%87%d9%80%d9%8a%d9%80%d9%86%d8%a9/#comments</comments>
+        <pubDate>Thu, 28 May 2020 07:24:48 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/bfc44db3-46fa-5aed-a694-f0545aa8fff4</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/9q83h9/EP8.m4a" length="11674500" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>eljoujat</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>12:01</itunes:duration>
+                <itunes:episode>8</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 7- أشهر رجال الجاهلية و سيد قضاعة !_ من هو جهينة ؟</title>
+        <itunes:title>الحلقة 7- أشهر رجال الجاهلية و سيد قضاعة !_ من هو جهينة ؟</itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7%d8%a3%d8%b4%d9%87%d8%b1%d8%b1%d8%ac%d8%a7%d9%84%d8%a7%d9%84%d8%ac%d8%a7%d9%87%d9%84%d9%8a%d8%a9-%d9%88/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7%d8%a3%d8%b4%d9%87%d8%b1%d8%b1%d8%ac%d8%a7%d9%84%d8%a7%d9%84%d8%ac%d8%a7%d9%87%d9%84%d9%8a%d8%a9-%d9%88/#comments</comments>
+        <pubDate>Thu, 28 May 2020 07:24:14 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/3d25caf0-a36f-5c52-b723-370daaa43a38</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/j7vu7w/EP7.m4a" length="10737214" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>eljoujat</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>11:03</itunes:duration>
+                <itunes:episode>7</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" />    </item>
+    <item>
+        <title>الحلقة 6-قصة عجيبة  لزيد بن حارثة مع رسول الله ﷺ الذي أحبه حبا شديدا فكان بمثابة ابنه الذي لم ينجبه </title>
+        <itunes:title>الحلقة 6-قصة عجيبة  لزيد بن حارثة مع رسول الله ﷺ الذي أحبه حبا شديدا فكان بمثابة ابنه الذي لم ينجبه </itunes:title>
+        <link>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%82%d8%b5%d8%a9-%d8%b9%d8%ac%d9%8a%d8%a8%d8%a9%d9%84%d8%b2%d9%8a%d8%af%d8%a8%d9%86-%d8%ad%d8%a7/</link>
+        <comments>https://eljoujat.podbean.com/e/%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%82%d8%b5%d8%a9-%d8%b9%d8%ac%d9%8a%d8%a8%d8%a9%d9%84%d8%b2%d9%8a%d8%af%d8%a8%d9%86-%d8%ad%d8%a7/#comments</comments>
+        <pubDate>Thu, 28 May 2020 07:23:20 +0000</pubDate>
+        <guid isPermaLink="false">eljoujat.podbean.com/3c06e3ba-de8d-5053-bfcc-1a689d991fcd</guid>
+                    <description><![CDATA[]]></description>
+                        <content:encoded><![CDATA[]]></content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/p8rv9z/EP6.m4a" length="10418357" type="audio/x-m4a"/>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:author>eljoujat</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>10:44</itunes:duration>
+                <itunes:episode>6</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" /> 
+    </item>
+    <item>
+        <title>المبتدأ و الخبر: الحلقة 5 نسب قبيلة قضاعة ! إحدى أشهر القبائل العربية </title>
+        <link>https://www.youtube.com/watch?v=iYANVtjSE_M</link>
+        <description>
+            المبتدأ و الخبر: الحلقة 5  نسب قبيلة قضاعة ! إحدى أشهر القبائل العربية </description>
+        <pubDate>Thu, 21 May 2020 09:24:48 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=iYANVtjSE_M</guid>
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP05.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 5</media:title>
+            <media:description>
+                المبتدأ و الخبر: الحلقة 5  نسب قبيلة قضاعة ! إحدى أشهر القبائل العربية   </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP05.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>5</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>10:43</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" /> 
+    </item>
+    <item>
+        <title>المبتدأ و الخبر: الحلقة 4  مـا القـصد من سرد السِّير ؟ / من أجداد رسول الله ﷺ '' مَـعَـدُّ بن عـدنان</title>
+        <link>https://www.youtube.com/watch?v=iHlScT_BSzc</link>
+        <description>
+            المبتدأ و الخبر: الحلقة 4  مـا القـصد من سرد السِّير ؟ / من أجداد رسول الله ﷺ '' مَـعَـدُّ بن عـدنان</description>
+        <pubDate>Thu, 21 May 2020 08:24:48 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=iHlScT_BSzc</guid>
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP04.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 4</media:title>
+            <media:description>
+                المبتدأ و الخبر: الحلقة 4  مـا القـصد من سرد السِّير ؟ / من أجداد رسول الله ﷺ '' مَـعَـدُّ بن عـدنان  </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP04.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>4</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>11:06</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" /> 
+    </item>
+    <item>
+        <title>المبتدأ و الخبر: الحلقة 3 ..''عدنان'' الجدّ الأعلى في نسب رسول الله ﷺ ، و أشعار وطرائف جميلة </title>
+        <link>https://www.youtube.com/watch?v=Nd2iiFIclUA</link>
+        <description>
+            المبتدأ و الخبر: الحلقة 3 ..''عدنان'' الجدّ الأعلى في نسب رسول الله ﷺ ، و أشعار وطرائف جميلة </description>
+        <pubDate>Thu, 21 May 2020 07:24:48 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=Nd2iiFIclUA</guid>
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP03.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 3</media:title>
+            <media:description>
+                المبتدأ و الخبر: الحلقة 3 ..''عدنان'' الجدّ الأعلى في نسب رسول الله ﷺ ، و أشعار وطرائف جميلة     </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP03.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>3</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>11:16</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" /> 
+    </item>
+    <item>
+        <title>المبتدأ و الخبر: الحلقة 2 ..نسب رسول الله ﷺ كأنك ستسمعه لأول مرة </title>
+        <link>https://www.youtube.com/watch?v=9U0iun8JfgQ</link>
+        <description>
+            المبتدأ و الخبر: الحلقة 2 ..نسب رسول الله ﷺ كأنك ستسمعه لأول مرة </description>
+        <pubDate>Thu, 21 May 2020 06:24:48 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=9U0iun8JfgQ</guid>
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP02.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 3</media:title>
+            <media:description>
+                المبتدأ و الخبر: الحلقة 2 ..نسب رسول الله ﷺ كأنك ستسمعه لأول مرة     </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP02.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>2</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>10:43</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" /> 
+    </item>
+    <item>
+        <title>المبتدأ و الخبر: الحلقة 1 ..أهمية علم التاريخ وكلام جميل عن عظمة هذ العلم </title>
+        <link>https://www.youtube.com/watch?v=lKoRxjNES24</link>
+        <description>
+            المبتدأ و الخبر: الحلقة 1 ..أهمية علم التاريخ وكلام جميل عن عظمة هذ العلم </description>
+        <pubDate>Thu, 21 May 2020 05:24:48 +0000</pubDate>
+        <guid isPermaLink="true">https://www.youtube.com/watch?v=lKoRxjNES24</guid>
+        <media:content medium="audio" url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP01.m4a" type="audio/mpeg" isDefault="true" expression="full">
+            <media:title type="plain">الحلقة 1</media:title>
+            <media:description>
+                المبتدأ و الخبر: الحلقة 1 ..أهمية علم التاريخ وكلام جميل عن عظمة هذ العلم     </media:description>
+            <media:rating scheme="urn:simple">nonadult</media:rating>
+            <media:thumbnail url="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg"/>
+            <media:keywords>
+                religion, islam, culture education, prayer
+            </media:keywords>
+        </media:content>
+        <enclosure url="https://ia601508.us.archive.org/21/items/ep-12_20200613/EP01.m4a" length="71170216" type="audio/mpeg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:duration>10:26</itunes:duration>
+        <itunes:image href="https://ia801508.us.archive.org/21/items/ep-12_20200613/mobtada_khabar_cover.jpg" /> 
+    </item>
+</channel>
+</rss>
