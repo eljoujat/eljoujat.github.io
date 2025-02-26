@@ -13,115 +13,105 @@ ANONYMOUS
 
 ## The idea behind the current lab.
 
+Impex is a [SAP Hybris](http://hybris.com) specific language on top of SQL to import/export data.
 
-Impex is a [Sap-hybris](http://hybris.com) specific language in top of SQL to import/export data .
+The lack of tools makes things difficult when working with Impex. In fact, some available options are:
 
-The lack of tools make things difficult when working with Impex, in fact some available options are :
-
-- Web console offered by SAP-hybris:
-	- Pros: Syntax highlighting, validation, execution.
-	- Cons : requires a running instance of hybris, going out from eclipse, risking to loose all you work if the browser crashes.
-- Excel or similar tools that could read and format CSV file:
-	- Pros: Formatting that offers higher readability
-	- Cons: no syntax highlighting, no validation and execution.
+- Web console offered by SAP Hybris:
+  - Pros: Syntax highlighting, validation, execution.
+  - Cons: Requires a running instance of Hybris, going out from Eclipse, risking losing all your work if the browser crashes.
+- Excel or similar tools that could read and format CSV files:
+  - Pros: Formatting that offers higher readability.
+  - Cons: No syntax highlighting, no validation, and no execution.
 - Eclipse or similar IDE:
-	- Pros: you stay focus on your IDE.
-	- Cons: no formatting, no syntax highlighting, no validation and execution.
+  - Pros: You stay focused on your IDE.
+  - Cons: No formatting, no syntax highlighting, no validation, and no execution.
 
+And guess what? Eclipse is the most used option! Developers choose it over other options because it allows them to stay more focused.
 
-And guess what, Eclipse is The most used option ! developers choose it over other options , beacause it allow them to stay more focus.
+## Eclipse Plugin:
 
-## Eclipse Plugin :
-
-To boost my productivity and to be more focus while working withe impex on Eclipse, I decided to develop an Impex Editor.The plugin should bring the hybris web console features to eclipse.
-Still that all what I know about eclipse plugin development is some basic notions.
+To boost my productivity and to be more focused while working with Impex on Eclipse, I decided to develop an Impex Editor. The plugin should bring the Hybris web console features to Eclipse.
+Still, all I knew about Eclipse plugin development were some basic notions.
 
 ### Learn by example:
 
 I believe the best way to learn new things is to start with some theory, then jump to a practical example where the real wisdom is gained.
 
-- A good theorical Article is [Introduction To Eclipse Plugin Development](http://www.eclipsepluginsite.com/).
-- A good practical tutorial i found interesting is :  [Extending the Eclipse IDE - Plug-in development - Tutorial](http://www.vogella.com/tutorials/EclipsePlugIn/article.html)
+- A good theoretical article is [Introduction To Eclipse Plugin Development](http://www.eclipsepluginsite.com/).
+- A good practical tutorial I found interesting is: [Extending the Eclipse IDE - Plug-in development - Tutorial](http://www.vogella.com/tutorials/EclipsePlugIn/article.html).
 
-I took as example the sample plugin project given by eclipse to create a xml editor .
+I took as an example the sample plugin project given by Eclipse to create an XML editor.
 
-### Features of the plugin :
+### Features of the plugin:
 
 #### Syntax highlighting:
 
-The Syntax highlighting feature uses the rule based scanner class, given a set of rules, the scanner consumes the impex file and evaluates each token. If the token matches a rule, the scanner exits with the corresponding properties.
+The syntax highlighting feature uses the rule-based scanner class. Given a set of rules, the scanner consumes the Impex file and evaluates each token. If the token matches a rule, the scanner exits with the corresponding properties.
 
-The ruleset are based on the Hybris [Impex syntax documentation](https://wiki.hybris.com/display/release5/ImpEx+Syntax)
+The ruleset is based on the Hybris [Impex syntax documentation](https://wiki.hybris.com/display/release5/ImpEx+Syntax).
 
-
-Before :
+Before:
 ![Before](/images/impex/avant.png)
 
-
-After :
-
+After:
 ![After](/images/impex/after.png)
 
+### Preferences of the plugin:
 
-### Preferences of the plugins :
-
-To give the more friendly user experience,i used the Preferences API to allow customisation.
+To provide a more friendly user experience, I used the Preferences API to allow customization.
 
 ![Preference Snapshot](/images/impex/perferences_1.png)
 
-I also possible to configure the connection parameters with hybris, this connection will be used to execute and validate the impex .
+It is also possible to configure the connection parameters with Hybris. This connection will be used to execute and validate the Impex.
 
 ![Preference Snapshot](/images/impex/perferences_2.png)
 
+#### Detecting Hybris Items and attributes:
 
+The first time Eclipse runs, the plugin connects to the already configured running Hybris instance, calls the REST Web service `allItems` and `allAttributes` (exposed by Hybris), and stores the information to avoid calling the web service again.
 
-#### Detecting hyrbis Item and attributes :
+I implemented an action to refresh the already stored data definition. The action will allow detecting newly added Items or attributes.
 
-The first time eclipse run, the plugin connect to the already configured running hybris instance, calls the Rest Webservice `allItems` , and `allAttributes` (exposed by hybris) and store the information to avoid calling the web service again.
+#### A challenge and a new technique acquired:
 
-I Implemented an action to refresh the already stored data definition, the action will allo detecting newly added Items or attributes.
+The web services exposed by Hybris require a registered Hybris account and are secured against [Cross-site request forgery](http://en.wikipedia.org/wiki/Cross-site_request_forgery).
 
-#### A challenge and a new techniques acquired :  
+To make a successful call, the request should pass a CSRF token. It is associated with the connected account and stored in the HTML code of a response, so I had to use the [Jsoup](http://jsoup.org/) library to retrieve its value.
 
-The web services exposed by hybris requires a registered hybris account and it's secured against [Cross-site request forgery](http://en.wikipedia.org/wiki/Cross-site_request_forgery).
+- Make a first call to login. The call returns with a `JSESSIONID`, which I store for further calls.
+- Use Jsoup with the stored `JSESSIONID`, and get the CSRF token from the HTML.
+- Make a REST call to retrieve the Items and attributes definition.
 
-To make a successful call the request should pass a crsf token, it's associated with the connected account. and it's stored on the HTML code of a response,so i had to use the [jsoup](http://jsoup.org/) library to retrieve its value. 
+### The coolest feature: Autocompletion.
 
-- Make a first to login, the call return with a JSESSIONID, I store the JSESSIONID for a further call.
-- Use jsoup with the stored JSESSIONID, and get the crsf token from the html.
-- Make a Rest Call to retrieve the Items and attributes definition.
-
-### The coolest feature : Autocompletion .
-The auto-completion is the most liked feature, since i have stored the data deffinition, this feature was easy to implement as well .
+The auto-completion is the most liked feature. Since I have stored the data definition, this feature was easy to implement as well.
 
 ![Preference Snapshot](/images/impex/autosuggest.png)
 
+## Install the plugin:
 
-## Install the plugin :
+To install the plugin, just open your Eclipse, click **Help > Install New Software…** and enter the URL [http://eljoujat.github.io/updates/](http://eljoujat.github.io/updates/).
 
-To install the plugin , just open your eclipse , click Help > Install New Software… and enter the URL [http://eljoujat.github.io/updates/](http://eljoujat.github.io/updates/).
+Or:
 
-Or :
+Just copy the latest release from here: [Impex Editor releases](https://github.com/eljoujat/eclipseimpexeditor/releases) to the `dropins` folder under the Eclipse directory, restart Eclipse, and enjoy :)
 
-just copy the latest release  from here [impex editor relases ](https://github.com/eljoujat/eclipseimpexeditor/releases) to the dropins folder under eclipse directory , restart eclipse , and enjoy :)
+## What's next:
 
+Other features I'm working on are:
 
-
-## What next:
-
-Other features i'm working on are :
-
-- Validate the impex with error markers.
-- Execute the impex .
-- Hyperlink features to easily locate where an Item is already valued from the same impex .
-- Find usage Features, find all usage for the selected definied and selected item .
-- Formatting .
+- Validate the Impex with error markers.
+- Execute the Impex.
+- Hyperlink features to easily locate where an item is already valued from the same Impex.
+- Find usage features, find all usages for the selected defined and selected item.
+- Formatting.
 
 ## Code Source Repos:
 
-[The code source repo is available here ](https://github.com/eljoujat/eclipseimpexeditor)
+[The code source repo is available here](https://github.com/eljoujat/eclipseimpexeditor).
 
 
+> “I believe that there is always another way to do it, and I hope that you let me know.”
 
 
-> “I believe that there is always an other way to do it, and i hope that you let me know .”

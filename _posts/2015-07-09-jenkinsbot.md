@@ -6,40 +6,40 @@ description: "How to use Docker to build a Skype Bot communicating with jenkins!
 disqus_comments: true
 ---
 
+> "Besides black art, there is only automation and mechanization."
+> — [Federico García Lorca](https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca)
 
-> “Besides black art, there is only automation and mechanization.” .
-[Federico García Lorca](https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca/)
-
-Where i work, Jenkins is what we use for continuous integration. Skype is what we use to communicate.
-Now imagine with me that every day at least 6 times I'm being asked to run a build, another 6  to check the status of the build!  another 6 to run a deploy.
-
-And guess what ?! another 6 times to checks the status of the deploy and another 4 questions why the platform is down ?!!
+At my workplace, we use Jenkins for continuous integration and Skype for communication.
+Now, imagine being asked at least six times a day to run a build, another six times to check its status, another six to deploy, and yet another six to verify the deployment.
+And of course, four more times to explain why the platform is down!
 
 ![Dolor de Cabeza...](/images/dolor-de-cabeza.jpg)
 
-All this because some managers are too scared to let  non-technical person touch Jenkins, and some of the non-technical persons are too lazy to take the initiative to know how to run or check Jenkins's jobs.
+This happens because some managers are too afraid to let non-technical staff touch Jenkins, and some non-technical people are too lazy to learn how to use it themselves.
 
- I was getting annoyed and bored with this repeatedly tasks when i decided to build a Bot and delegate the task to him!
+I was getting frustrated with these repetitive tasks, so I decided to build a bot to handle them for me!
 
-So every request is sent directly to him as a command, he performs the action automatically and listens for any change on the status of the Jenkins job, if he detects any change or transitions, he sends us a notification.
+Now, every request is sent directly to the bot as a command. It performs the action automatically and listens for any status changes in the Jenkins job. If it detects a transition, it sends a notification.
 
 [![Dolor de Cabeza...](/images/gif_demo.gif)](/images/gif_demo.gif)
 
-The Bot is just s python script running on the background as demon,  using Skype4Py and Jenkins API module, and some basic logic that can be easily extended.
+The bot is simply a Python script running in the background as a daemon, using Skype4Py and the Jenkins API module. The logic is basic but easily extendable.
 
-![Communication Diagramm](/images/jenkinsbot_schma.png)
+![Communication Diagram](/images/jenkinsbot_schma.png)
 
-Things are not so easy as it looks and i will present step by step how i built a functional Bot !
+Things weren’t as simple as they seemed, so I'll explain step by step how I built a functional bot.
 
-First we cannot run two instances of Skype on the same machine, and i could not use another windows machine, I had access to the server where Jenkins is installed: so why not install Skype there and run the python script?
+### Running Skype in a Docker Container
 
-The Server has no GUI! that was not an issue, I had only to forward X11 socket to my machine, the probleme was that there is no installable version of Skype on that server.
+First, I couldn't run two instances of Skype on the same machine, and I didn’t have another Windows machine available. However, I did have access to the server where Jenkins was installed.
 
-Docker is what i thought of to solve the problem , it was time for free shopping from [dockerhub](https://hub.docker.com/) !
+The problem? The server had no GUI, and no installable version of Skype.
 
-I used [python:2.7.10](https://registry.hub.docker.com/u/library/python/) as a base image for my new docker file, and added the instruction to install Skype inspired from [jess/skype](https://registry.hub.docker.com/u/jess/skype/dockerfile/)
+The solution? **Docker!**
 
-{% highlight docker %}
+I used the [python:2.7.10](https://registry.hub.docker.com/u/library/python/) image as a base for my Dockerfile and added instructions to install Skype, inspired by [jess/skype](https://registry.hub.docker.com/u/jess/skype/dockerfile/).
+
+```dockerfile
 FROM python:2.7.10
 
 MAINTAINER Youssef El Jaoujat <eljoujat@gmail.com>
@@ -48,132 +48,97 @@ MAINTAINER Youssef El Jaoujat <eljoujat@gmail.com>
 ENV DEBIAN_FRONTEND noninteractive
 
 RUN apt-get -f install --fix-missing
-# Setup multiarch because Skype is 32bit only
-# Make sure the repository information is up to date
+# Setup multiarch because Skype is 32-bit only
 RUN dpkg --add-architecture i386 && \
- apt-get update && apt-get install -y \
- curl \
- --no-install-recommends
-# Install Skype
-RUN curl http://download.skype.com/linux/skype-debian_4.3.0.37-1_i386.deb -o /usr/src/skype.deb
-RUN dpkg -i /usr/src/skype.deb || true
+    apt-get update && apt-get install -y curl --no-install-recommends
 
-# Automatically detect and install dependencies
+# Install Skype
+RUN curl -o /usr/src/skype.deb http://download.skype.com/linux/skype-debian_4.3.0.37-1_i386.deb
+RUN dpkg -i /usr/src/skype.deb || true
 RUN apt-get -fy install --fix-missing
-RUN rm -rf /var/lib/apt/lists/* # pureg temp data
+RUN rm -rf /var/lib/apt/lists/* # Purge temp data
+
 # Start Skype
 ENTRYPOINT ["skype"]
+```
 
-{% endhighlight %}
+To build the Docker image, run:
 
-To build this Docker just execute from the command line  :
- {% highlight bash %}
- docker build -t eljoujat/skype .
- {% endhighlight %}
+```bash
+docker build -t eljoujat/skype .
+```
 
-At this point, i have a docker container with Skype and Python installed inside.
-To test the container , just run the container
-{% highlight bash %}
-docker run -it -v /tmp/.X11-unix:/tmp/.X11-unix  -e DISPLAY=unix$DISPLAY --device /dev/snd  eljoujat/skype
-{% endhighlight %}
+Now, to test the container:
 
-if you get an error with the x11 protocols , just run the following command to grant access to everyone
-{% highlight bash %}
+```bash
+docker run -it -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=unix$DISPLAY --device /dev/snd eljoujat/skype
+```
+
+If you get an error related to X11 protocols, run:
+
+```bash
 xhost +
-{% endhighlight %}
+```
 
-Our Python uses two modules  that need to be installed.
-we have just to add the instruction on the Docker file and rebuild the image.
-{% highlight docker %}
+### Installing Python Modules
+
+We need two Python modules: `Skype4Py` and `jenkinsapi`. To install them inside the container, update the Dockerfile:
+
+```dockerfile
 ## Install Python modules
 RUN apt-get install -y python-pip && \
     pip install Skype4Py && \
     pip install jenkinsapi
-{% endhighlight %}
+```
 
-Next step is to make the script available inside the image so we can execute.
+### Mounting the Script into the Container
 
-A best practice when working with docker  is decoupling applications into multiple containers,
-For the sake of simplicity, I did not completely respect this rule, but it's simple to apply with the script and make things very easy.
+A best practice with Docker is to decouple applications into multiple containers.
+For simplicity, I mapped my local script directory inside the container using the `-v` option:
 
-So, to do it  I had just to use '-v' option when running the docker image
+```bash
+docker run -it -v /tmp/.X11-unix:/tmp/.X11-unix -v /media/eljaoujat/Linux/job/labs/docker/skype:/scripts -e DISPLAY=unix$DISPLAY --device /dev/snd eljoujat/skype:V1.1
+```
 
+### Persisting Skype Login
 
-{% highlight bash %}
-docker run -it -v /tmp/.X11-unix:/tmp/.X11-unix -v /media/eljaoujat/Linux/job/labs/docker/skype:/scripts/scripts -e DISPLAY=unix$DISPLAY --device /dev/snd  eljoujat/skype:V1.1
-{% endhighlight %}
+When running the image, Skype launches, but I have to manually accept the Terms of Use and log in each time.
+Since there’s no argument to auto-login, I used Docker's `commit` command to create an image with my logged-in session.
 
- */media/eljaoujat/Linux/job/labs/docker/skype* is my locale folder and */scripts/scripts* will be created inside the container and will be mapped with my locale folder
+After logging in with the "Remember Me" option enabled, I ran:
 
+```bash
+docker commit <container_id> eljoujat/skype:v1.1
+```
 
-When running the image, the skype get executed ...oups !
+To get the container ID, run:
 
-i have to accept the term of Use !
-
-![accept the term of Use](/images/docker_skype_001.png)
-
-And login !
-![accept the term of Use](/images/docker_skype_002.png)
-
-I have no problem with the term of Use (or I have !?) and login, but doing it each time I run the container is not good at all.
-
-I searched for a solution to automate this on the docker file but with no help, there is no argument we can pass to skype so he will connect automatically.
-
-The only solution I found is to use the commit command of docker.
-
-this command allows you to make the change directly on the running container and create a new image from this changes,
-it was so easy and simple, i had just to accept the terms, login with the remember me option .
-
-![accept the term of Use](/images/docker_skype_003.png)
-
-and Commit,
-{% highlight bash %}
-docker commit b2ec5c9e295e eljoujat/skype:v.1.1
-{% endhighlight %}
-
-b2ec5c9e295e is the container ID, can be obtainerd by running:
-{% highlight bash %}
+```bash
 docker ps
-{% endhighlight %}
+```
 
-after that I fall in love with docker instantly .
+### Accessing the Running Container
 
-let's check what happens inside the Container, and test our script . To do this we have to access by ssh, which has to be added to the docker file and rebuild the image.
+To debug inside the running container, I used `nsenter`:
 
-A better solution is to use [nsenter](https://github.com/jpetazzo/nsenter) .
-to install run the following command
-
-{% highlight bash %}
+```bash
 docker run --rm -v /usr/local/bin:/target jpetazzo/nsenter
-{% endhighlight %}
+```
 
-To use nsenter with a running container we should first get his ID
+Then, to enter the container:
 
-![accept the term of Use](/images/docker_skype_004.png)
+```bash
+PID=$(docker inspect --format {{.State.Pid}} <container_id>)
+sudo nsenter --target $PID --mount --uts --ipc --net --pid
+```
 
- Get his PID
-{% highlight bash %}
-PID=$(docker inspect --format {{.State.Pid}} 1d46c2cb556c)
- {% endhighlight %}
+Inside, I could verify that my Python script was present and working.
 
-Then use nsenter
-{% highlight bash %}
-sudo nsenter  --target $PID --mount  --uts --ipc --net --pid
- {% endhighlight %}
+### Running the Bot on Container Startup
 
-After lsing the /scrtips directory inside the container we found our python script.
+To automate script execution, I used **supervisor**, a process control system. Here’s the config file:
 
-![accept the term of Use](/images/docker_skype_005.png)
-
-we can also run it and see that's work well.
-
-At this point all what it's left to do , is to run the script automatically when the container start.
-
-A good solution I found for this is to use [supervisor](http://supervisord.org/).
-supervisor is a process control system and when it's added to the container it will allow to execute as many processes as we want, we have just to configure them.
-In our case, we want to execute our pyhton script once the container start, a possible configuration file coud be :
-
-{% highlight bash %}
+```ini
 [supervisord]
 nodaemon=false
 
@@ -183,85 +148,48 @@ files = /etc/supervisor/conf.d/*.conf
 [program:skype]
 command=python /scripts/buildchatbot.py
 autostart=true
-
 autorestart=true
 startretries=20
-stderr_logfile=/opt/nodehook.err.log
-stdout_logfile=/opt/nodehook.out.log
-{% endhighlight %}
+stderr_logfile=/opt/skypebot.err.log
+stdout_logfile=/opt/skypebot.out.log
+```
 
-So I added supervisor and rebuilt the image with a higher tag version.
+### Final Dockerfile
 
-The final dockerfile version is  :
-
-{% highlight docker %}
+```dockerfile
 FROM python:2.7.10
-
 
 MAINTAINER Youssef El Jaoujat <eljoujat@gmail.com>
 
-
-
-# Tell debconf to run in non-interactive mode
 ENV DEBIAN_FRONTEND noninteractive
 
 RUN apt-get -f install --fix-missing
-# Setup multiarch because Skype is 32bit only
-# Make sure the repository information is up to date
 RUN dpkg --add-architecture i386 && \
-	apt-get update && apt-get install -y \
-	curl \
-	--no-install-recommends
-
-
-
+    apt-get update && apt-get install -y curl supervisor --no-install-recommends
 
 # Install Skype
-RUN curl http://download.skype.com/linux/skype-debian_4.3.0.37-1_i386.deb -o /usr/src/skype.deb
+RUN curl -o /usr/src/skype.deb http://download.skype.com/linux/skype-debian_4.3.0.37-1_i386.deb
 RUN dpkg -i /usr/src/skype.deb || true
-RUN apt-get -fy install --fix-missing					# Automatically detect and install dependencies
-RUN rm -rf /var/lib/apt/lists/* # pureg temp data
+RUN apt-get -fy install --fix-missing
+RUN rm -rf /var/lib/apt/lists/*
 
-
-# Install Supervisor
-RUN \
-  sed -i 's/# \(.*multiverse$\)/\1/g' /etc/apt/sources.list && \
-  apt-get update && \
-  apt-get -y upgrade
-
-# supervisor installation &&
-# create directory for child images to store configuration in
-RUN apt-get -y install supervisor && \
-  mkdir -p /var/log/supervisor && \
-  mkdir -p /etc/supervisor/conf.d
-
-# supervisor base configuration
-
-## Install skype4py and jenkinsapi modules
-
+# Install Python modules
 RUN apt-get install -y python-pip && \
-    pip install Skype4Py && \
-    pip install jenkinsapi
+    pip install Skype4Py jenkinsapi
 
-# add the Supervisor config
+# Add Supervisor config
 ADD supervisor.conf /etc/supervisor.conf
 
+CMD [ "sh", "-c", "supervisord -c /etc/supervisor.conf && skype" ]
+```
 
-CMD [ "sh", "-c", " supervisord -c /etc/supervisor.conf && skype" ]
+### Running the Final Version
 
-{% endhighlight %}
-
-
-- To build :
-
-{% highlight bash %}
+```bash
 docker build -t eljoujat/skype:V1.2 .
-{% endhighlight %}
+docker run -it -v /tmp/.X11-unix:/tmp/.X11-unix -v /media/eljaoujat/Linux/job/labs/docker/skype:/scripts -e DISPLAY=unix$DISPLAY --device /dev/snd eljoujat/skype:V1.2
+```
 
-- To run  :
-{% highlight bash %}
-docker run -it -v /tmp/.X11-unix:/tmp/.X11-unix -v /media/eljaoujat/Linux/job/labs/docker/skype:/scripts/scripts -e DISPLAY=unix$DISPLAY --device /dev/snd  eljoujat/skype:V1.2
-{% endhighlight %}
 
 - To test  :  just send a messgae to the jenkins Bot telling him to run a job .
 
