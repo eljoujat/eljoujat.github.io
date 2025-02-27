@@ -22,12 +22,6 @@
         // portrait
       }
     }
-    window.addEventListener('orientationchange', updateOrientation);
-    document.addEventListener('DOMSubtreeModified', function(ev) {
-      if (document.getElementById('sidebar')) {
-        document.removeEventListener('DOMSubtreeModified', arguments.callee);
-        updateOrientation();
-      }
-    });
+
   }
 </script>
