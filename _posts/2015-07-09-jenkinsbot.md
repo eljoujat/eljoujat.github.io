@@ -3,7 +3,6 @@ title: "How to use Docker to build a Skype Bot controlling  Jenkins!"
 layout: post
 og_image_url: "https://eljoujat.github.io/images/jenkinsbot_schma.png"
 description: "How to use Docker to build a Skype Bot communicating with jenkins! "
-disqus_comments: true
 ---
 
 > "Besides black art, there is only automation and mechanization."

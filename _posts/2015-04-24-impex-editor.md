@@ -3,7 +3,6 @@ title: "Writing SAP-Hybris Impex with Style !"
 layout: post
 og_image_url: "https://eljoujat.github.io/images/impex/image004.jpg"
 description: "Writing SAP-Hybris Impex with style: An eclipse plugin that will change the way you work with Impex."
-disqus_comments: true
 ---
 
 
