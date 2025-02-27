@@ -19,7 +19,6 @@ I'm a programmer, and I believe that a good programmer [should have a blog](http
 This was the most difficult question to answer, as I thought for a long time that I had nothing valuable to share...
 
 I was wrong all along. What's obvious to me could be amazing for others.  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xcmI5SSQLmE" frameborder="0" allowfullscreen></iframe>
 
 So, blogging about...
 
