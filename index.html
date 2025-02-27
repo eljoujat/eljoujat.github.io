@@ -1,41 +1,73 @@
 ---
 layout: default
 ---
-<div >
-  <section class="posts">    
-    {% for post in site.posts limit:25 %}
-<div class="card">
-<div class="action">
-    <a href='{{ post.url }}'><span class="title">{{ post.title }}</span></a>
+<section class="section author animate">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="author__inner">
+          <div class="profile-pic"><img loading="lazy" class="profile-pic""
+              src="https://media.licdn.com/dms/image/v2/C4E03AQHbqT3l13E_xQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1591375495852?e=1746057600&v=beta&t=VbmH8fRL4ajvklRDa5-8dKo4diKQUc3O7JXZlFKuG_8"
+              alt="Youssef El Jaoujat"></div>
+          <div class="author__content">
+            <h2 class="author__title">Hi there! 👋 I'm Youssef, software solution architect and developer.</h2>
+            <p class="author__description">Currently a Solution Architect at La Poste, I am passionate about
+              designing scalable and high-performance systems in the e-commerce domain. With solid experience in
+              complex environments such as SAP Commerce Cloud, I bring a blend of technical expertise and business
+              acumen to deliver strategic solutions for my clients..</p><a href="/contact"
+              class="author__button button">Let's сonnect!</a>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
-  <div class="image">
-  {% if post.photo_url %}
-        <img src="{{ post.photo_url }}">
-  {% endif %}
-    
-  </div>
-  <div class="content">
-    <p>{{ post.description | strip_html }}</p>
-  </div>
-  <div class="action">
-    <info datetime>{{ post.date | date: "%b %Y" }}</info>
-    <a href='{{ post.url }}' class="more">...</a>
-  </div>
-</div>
-    {% endfor %}
-  </section>
-</div>
+</section>
+<section class="section blog animate">
+  <div class="container">
+    <div class="section__info section__info__center">
+      <div class="section__head">
+        <span class="section__intro">What’s new?</span>
+        <h2 class="section__title">Latest from the blog</h2>
+      </div>
+    </div>
+    <section class="row g-4">
+      {% for post in site.posts limit:25 %}
+    <div class="col-md-4">
+      <div class="card article article__grid animate">
+        <div class="article__inner">
+          <div class="action">
+            <a href='{{ post.url }}'><span class="title">{{ post.title }}</span></a>
+          </div>
+          <div class="image">
+            {% if post.photo_url %}
+            <img src="{{ post.photo_url }}">
+            {% endif %}
 
+          </div>
+          <div class="content">
+            <p>{{ post.description | strip_html }}</p>
+          </div>
+          <div class="action">
+            <info datetime>{{ post.date | date: "%b %Y" }}</info>
+            <a href='{{ post.url }}' class="more">...</a>
+          </div>
+        </div>
+      </div>
+    </div>
+      {% endfor %}
+    </section>
+  </div>
+</section>
 <script type="text/javascript">
 
-$( function() {
-  
-  $('.posts').isotope({
-    itemSelector: '.card',
-    masonry: {
+  $(function () {
 
-    }
+    $('.posts').isotope({
+      itemSelector: '.card',
+      masonry: {
+
+      }
+    });
+
   });
-
-});
 </script>

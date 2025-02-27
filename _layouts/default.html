@@ -1,161 +1,153 @@
 <!DOCTYPE HTML>
 <html lang="en" prefix="og: http://ogp.me/ns#">
-  <head>
-    <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-WT68T4T2');</script>
-  <!-- End Google Tag Manager -->
-   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KBZ9P98CRY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-KBZ9P98CRY');
-</script>
-    <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}eljoujat-lab</title>
-    <link rel="canonical" href="http://eljoujat.github.io{{ page.url | replace:'index.html','' }}">
-    <meta name="google-site-verification" content="a5ED32pVq4OkWbcT6_wtxvSBwqmSrQCQtO6wKdhtOKc" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    {% if page.title != "Archive (sidebar)" %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% endif %}
-<link type="application/rss+xml" rel="alternate" title="farid_ansari" href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/ansarifeed.xml"/>
-<link type="application/rss+xml" rel="alternate" title="said_kamli" href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamlifeed.xml"/>   
-<link href='http://fonts.googleapis.com/css?family=Poly:400,400italic' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic' rel='stylesheet' type='text/css'>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.js"></script>
-     <script src=" https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.1.1/isotope.pkgd.js"></script>
-    <link rel="alternate" type="application/atom+xml" title="Youssef El Jaoujat" href="/atom.xml">
-    <link rel="shortcut icon" href="/favicon.ico">
-    <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="/favicons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-     <link rel="stylesheet" href="/stylesheets/styles.css">
-    <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
-    <link rel="stylesheet" href="/stylesheets/syntax.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@eljoujat">
-    {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}">
-      {% if page.description %}
-      <meta name="description" content="{{ page.description }}">
-      <meta name="og:description" content="{{ page.description }}">
-      {% else if content %}
-      <meta name="description" content="{{ content | strip_html | truncatewords: 25 }}">
-      <meta name="og:description" content="{{ content | strip_html | truncatewords: 25 }}">
-      {% endif %}
-    {% else %}
-      <meta name="description" content="Youssef lab : a blog for trying things ..">
-    {% endif %}
-    {% if page.og_image_url %}
-    <meta property="og:image" content="{{ page.og_image_url }}">
-    {% else %}
-    {% if page.photo_url %}
-    <meta property="og:image" content="{{ page.photo_url }}">
-    {% endif %}
-    {% endif %}
-    <meta property="og:url" content="http://eljoujat.github.io{{ page.url | remove_first:'index.html' }}">
-    <meta property="og:site_name" content="Yocef-Lab">
-    <meta property="og:type" content="article">
-    <meta property="og:locale" content="en_GB" />
-    {% if page.date %}
-    <meta property="article:published_time" content="{{ page.date | date: "%Y-%m-%d" }}">
-    {% endif %}
-    {% if page.title != "Archive (sidebar)" %}
-    {% include sidebar_ui_controller.html %}
-    {% endif %}
-    {% if page.include_move %}
-    <script src="http://movelang.org/move.js"></script>
-    {% endif %}
-       <!--[if lt IE 9]>
+<head>
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WT68T4T2');</script>
+  <!-- End Google Tag Manager -->
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-KBZ9P98CRY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-KBZ9P98CRY');
+  </script>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}eljoujat-lab</title>
+  <link rel="canonical" href="http://eljoujat.github.io{{ page.url | replace:'index.html','' }}">
+  <meta name="google-site-verification" content="a5ED32pVq4OkWbcT6_wtxvSBwqmSrQCQtO6wKdhtOKc" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  {% if page.title != "Archive (sidebar)" %}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% endif %}
+  <link type="application/rss+xml" rel="alternate" title="farid_ansari"
+    href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/ansarifeed.xml" />
+  <link type="application/rss+xml" rel="alternate" title="said_kamli"
+    href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamlifeed.xml" />
+  <link href='http://fonts.googleapis.com/css?family=Poly:400,400italic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic' rel='stylesheet' type='text/css'>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.js"></script>
+  <script src=" https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.1.1/isotope.pkgd.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+  <link rel="alternate" type="application/atom+xml" title="Youssef El Jaoujat" href="/atom.xml">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/favicons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="/stylesheets/styles.css">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@eljoujat">
+  {% if page.title %}
+  <meta property="og:title" content="{{ page.title }}">
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  <meta name="og:description" content="{{ page.description }}">
+  {% else if content %}
+  <meta name="description" content="{{ content | strip_html | truncatewords: 25 }}">
+  <meta name="og:description" content="{{ content | strip_html | truncatewords: 25 }}">
+  {% endif %}
+  {% else %}
+  <meta name="description" content="Youssef lab : a blog for trying things ..">
+  {% endif %}
+  {% if page.og_image_url %}
+  <meta property="og:image" content="{{ page.og_image_url }}">
+  {% else %}
+  {% if page.photo_url %}
+  <meta property="og:image" content="{{ page.photo_url }}">
+  {% endif %}
+  {% endif %}
+  <meta property="og:url" content="http://eljoujat.github.io{{ page.url | remove_first:'index.html' }}">
+  <meta property="og:site_name" content="Yocef-Lab">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_GB" />
+  {% if page.date %}
+  <meta property="article:published_time" content="{{ page.date | date: " %Y-%m-%d" }}">
+  {% endif %}
+  {% if page.title != "Archive (sidebar)" %}
+  {% include sidebar_ui_controller.html %}
+  {% endif %}
+  {% if page.include_move %}
+  <script src="http://movelang.org/move.js"></script>
+  {% endif %}
+  <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-  </head>
-  <body{% if page.wide_layout %} class="wide"{% endif %}>
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT68T4T2"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+</head>
+<body{% if page.wide_layout %} class="wide" {% endif %}>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT68T4T2" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
   <script>
 
-   window.fbAsyncInit = function() {
-     FB.init({
-       appId: "APP_ID",
-       xfbml: true,
-       version: "v2.6"
-     });
+    window.fbAsyncInit = function () {
+      FB.init({
+        appId: "APP_ID",
+        xfbml: true,
+        version: "v2.6"
+      });
 
-   };
+    };
 
-   (function(d, s, id){
+    (function (d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) { return; }
       js = d.createElement(s); js.id = id;
       js.src = "//connect.facebook.net/en_US/sdk.js";
       fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
+    }(document, 'script', 'facebook-jssdk'));
 
- </script>
+  </script>
+  <header class="header">
+    <div class="container-big">
+      <div class="row" >
+        <div class="header__inner col col-12">
+          <nav class="main-nav" aria-label="Main menu">
+            <div class="main-nav__box">
+              <ul class="nav__list list-reset">
+                <li class="nav__item"><a href="/" class="nav__link active-link">Home</a></li>
+              </ul>
+            </div>
+            <div class="nav-button">
+              <a href="/contact/" class="nav__link cta-button button">Get in touch</a>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+  <main class="content">
 
-  <div class="wrapper">
-     <header>
-    <nav class="global-nav deluxe" id="main-nav" role="navigation">
-    <ul class="inline-items">
-      <li><a href="/archive/"{% if page.url contains "/archive/" %}class="active"{% endif %} title="Archived articles"><h3>Archives</h3></a></li>
-      <li><a href="/projects/"{% if page.url contains "/projects/" %}class="active"{% endif %} title="projects "><h3>Projects</h3></a></li>
-      <li><a href="/about/"{% if page.url contains "/about/" %}class="active"{% endif %}><h3>About me</h3></a></li>
-    </ul>
 
-     <aside>
-          <div class="sidebox-mobile data-mobile">
-          <a href="/"><h1>joujat-lab</h1></a>
-          <p></p>
-          </div>
-       </aside>
-    </nav>
-        <aside>
-          <div class="sidebox data-desktop">
-          <a href="/"><h1>joujat-Lab</h1></a>
-           <div class="socialaccounts">
-            <a href="https://github.com/eljoujat/" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-github.png"> </a>
-            <a href="http://www.linkedin.com/in/eljaoujat" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-linkedin.png" alt="LinkedIn" title="Let's connect!"></a>
-          <a href="https://www.facebook.com/eljoujat" rel="external" target="_blank"><img width="32" height="32" src="/images/flaticons/32-facebook.png"> </a>
-           </div>
-          <p></p>
-
-          </div>
-       </aside>
-      </header>
-    <!--div class="wrapper content"-->
-      {{ content }}
-    <!--/div-->
-
-    {% if page.fb_comments or page.comments %}
-    <!--div class="content sub">
-      <h2 id="comments">comments</h2>
-      <div class="fb-comments" data-href="http://eljoujat.github.io/{{ page.url }}" data-num-posts="{{ page.fb_comments }}" data-width="550" data-font="arial"></div>
-    </div-->
-    {% endif %}
+    {{ content }}
 
     {% if paginator.page %}
     <div id="paginator" class="content">
@@ -167,9 +159,23 @@
       {% endif %}
     </div>
     {% endif %}
+  </main>
+  <script>
+    function toggleTheme() {
+      const body = document.body;
+      body.classList.toggle("dark-mode");
+      localStorage.setItem("theme", body.classList.contains("dark-mode") ? "dark" : "light");
+    }
 
-
-    {% include analytics.html %}
-  </div>
+    // Load the stored theme
+    (function() {
+      if (localStorage.getItem("theme") === "dark") {
+        document.body.classList.add("dark-mode");
+      }
+    })();
+  </script>
+    <footer></footer>
   </body>
+
+
 </html>

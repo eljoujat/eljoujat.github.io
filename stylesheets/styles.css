@@ -71,84 +71,14 @@ pre {
   overflow-x: auto;
 }
 
-table {
-  width:100%;
-  border-collapse:collapse;
-}
 
-th, td {
-  text-align:left;
-  padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
-}
-
-dt {
-  color:#444;
-  font-weight:700;
-}
-
-th {
-  color:#444;
-}
-
-img {
-  max-width:100%;
-}
-
-
-header ul {
-  list-style:none;
-  height:40px;
-  
-  padding:0;
-  
-  background: #eee;
-  background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
-  background: -webkit-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  background: -o-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  background: -ms-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  background: linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  
-  border-radius:5px;
-  border:1px solid #d2d2d2;
-  box-shadow:inset #fff 0 1px 0, inset rgba(0,0,0,0.03) 0 -1px 0;
-  width:270px;
-}
-
-header li {
-  width:89px;
-  float:left;
-  border-right:1px solid #d2d2d2;
-  height:40px;
-}
-
-
-
-header ul a {
-  line-height:1;
-  font-size:11px;
-  color:#999;
-  display:block;
-  text-align:center;
-  padding-top:6px;
-  height:40px;
-}
 
 strong {
   color:#222;
   font-weight:700;
 }
 
-header ul li + li {
-  width:88px;
-  border-left:1px solid #fff;
-}
 
-header ul li + li + li {
-  border-right:none;
-  width:89px;
-}
 
 header ul a strong {
   font-size:14px;
@@ -156,154 +86,9 @@ header ul a strong {
   color:#222;
 }
 
-section {
-  width:77%;
-  float:right;
-  padding-bottom:50px;
-  left: 0px;
-  position: relative;
-}
 
 small {
   font-size:11px;
-}
-
-hr {
-  border:0;
-  background:#e5e5e5;
-  height:1px;
-  margin:0 0 20px;
-}
-
-footer {
-  width:270px;
-  float:left;
-  position:fixed;
-  bottom:50px;
-}
-
-@media print, screen and (max-width: 960px) {
-  
-  div.wrapper {
-    width:auto;
-    margin:0;
-  }
-  
-  header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
-  }
-  
-  header {
-    padding-right:320px;
-  }
-  
-  section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
-    padding:20px 0;
-    margin:0 0 20px;
-  }
-  
-  header a small {
-    display:inline;
-  }
-  
-  header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
-  }
-}
-
-
-
-@media print, screen and (max-width: 480px) {
-  body {
-    padding:15px;
-  }
-  
-  header ul {
-    display:none;
-  }
-}
-
-@media print {
-  body {
-    padding:0.4in;
-    font-size:12pt;
-    color:#444;
-  }
-}
-
-.content{
-  margin-top: 10px;
-}
-
-.global-nav {
-  position: fixed;
-  z-index: 100;
-  top: 0;
-  width: 96%;
-  background: #fff;
-  background: rgba(255, 255, 255, .95);
-  border-bottom: 1px solid #d8d8d8;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 14px;
-  line-height: 18px;
-  padding: 0 24px;
-}
-
-.global-nav ul {
-  margin: 0 auto;
-  line-height: 41px;
-  background: none;
-  border: none;
-  height: 50px;
-  margin-right: 470px;
-}
-.global-nav ul li{
- border: none;
-  background: none;
-}
-ul.inline-items li {
-  display: inline-block;
-}
-
-.sidebox{
-  width:270px;
-  float:left;
-  position:fixed;
-  top: 50%;
-  left:7%;
-}
-
-.socialaccounts img{
-  -webkit-filter: grayscale(100%);
-    -moz-filter: grayscale(100%);
-  filter: grayscale(100%);
-}
-
-.socialaccounts img:hover {
-  transform: rotate(2deg);
-  -moz-transform: rotate(2deg);
-  -webkit-filter: grayscale(7%);
-  -moz-filter: grayscale(7%);
-  filter: grayscale(7%);
-}
-.post_entry {
-  width: 100%;
-}
-.post_entry .body{
-  color:  #777;
-  width: 100%
-}
-
-.post_entry  .title{
-  font-weight: bold;
-
 }
 
 
@@ -388,52 +173,13 @@ ul.inline-items li {
 }
 
 
-.sidebox-mobile {
- display: block;
- left: 34px;
- top: 26px;
- position: absolute;
-}
 
-@media only screen 
-and (min-device-width : 375px) 
-and (max-device-width : 667px) { 
-
-.data-desktop{
-	display: none;
-}
-
-}
-
-@media print, screen and (max-width: 720px) {
-  body {
-    word-wrap:break-word;
-  }
-  
-  header {
-    padding:0;
-  }
-  
-  header ul, header p.view {
-    position:static;
-  }
-  
-  pre, code {
-    word-wrap:normal;
-  }
-
-  .data-desktop{
-  	display: none;
-  }
-  .data-mobile{
-  	display: block;
-  }
-
-  .global-nav{
-  	border-bottom: none;
-  }
-}
-
-.data-mobile{
-	display: none;
+.profile-pic {
+  width: 150px; /* Adjust size as needed */
+  height: 150px; /* Keep height equal to width */
+  border-radius: 50%; /* Makes it circular */
+  object-fit: cover; /* Ensures the image fills the circle */
+  border: 2px solid #ddd; /* Optional border like LinkedIn */
+  display: block;
+  margin: 0 auto; /* Center the image */
 }
