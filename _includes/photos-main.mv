@@ -7,13 +7,13 @@ showIncompatibleMessage = ^(message) {
 
 if (typeof XMLHttpRequest == 'undefined' || !document.querySelector) {
   showIncompatibleMessage 'Unsupported browser. Redirecting...'
-  document.location.href = 'http://www.flickr.com/photos/rsms/'
+  document.location.href = 'https://www.flickr.com/photos/rsms/'
   return
 }
 
 if (window.rsmsHostIsIOS) {
   showIncompatibleMessage 'Touch screens are not yet supported. Redirecting...'
-  document.location.href = 'http://www.flickr.com/photos/rsms/'
+  document.location.href = 'https://www.flickr.com/photos/rsms/'
   return
 }
 
@@ -34,7 +34,7 @@ if (window.localStorage) {
 photoIdToView = {}
   
 flickrAPI_GET = ^(methodName, queryString, callback) {
-  url = 'http://api.flickr.com/services/rest/?method='+methodName+
+  url = 'https://api.flickr.com/services/rest/?method='+methodName+
     '&api_key=adb4222b6011ba080f780b82d85837a5'+
     '&format=json'+
     '&nojsoncallback=1'+(queryString || '')

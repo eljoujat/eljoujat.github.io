@@ -1,7 +1,7 @@
 ---
 title: "Writing SAP-Hybris Impex with Style !"
 layout: post
-og_image_url: "http://eljoujat.github.io/images/impex/image004.jpg"
+og_image_url: "https://eljoujat.github.io/images/impex/image004.jpg"
 description: "Writing SAP-Hybris Impex with style: An eclipse plugin that will change the way you work with Impex."
 disqus_comments: true
 ---
@@ -13,7 +13,7 @@ ANONYMOUS
 
 ## The idea behind the current lab.
 
-Impex is a [SAP Hybris](http://hybris.com) specific language on top of SQL to import/export data.
+Impex is a [SAP Hybris](https://hybris.com) specific language on top of SQL to import/export data.
 
 The lack of tools makes things difficult when working with Impex. In fact, some available options are:
 
