@@ -1,0 +1,7 @@
+# Table de langue par URL de post, utilisee car le front matter des articles
+# ne renseigne pas la langue. Ne pas en deduire une traduction implicite :
+# c'est uniquement un libelle d'affichage sur la home (EN / FR).
+"/2017/01/23/avitobot.html": "FR"
+"/2015/07/09/jenkinsbot.html": "EN"
+"/2015/04/24/impex-editor.html": "EN"
+"/2015/03/01/how-did-i-write-my-first-post.html": "EN"
