@@ -102,6 +102,11 @@ class PodcastToolTests(unittest.TestCase):
         url = self.publish.archive_download_url("saidkamli-abc", "عنوان الحلقة test.mp3")
         self.assertEqual(url, "https://archive.org/download/saidkamli-abc/%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%20test.mp3")
 
+    def test_archive_direct_url_from_metadata(self):
+        metadata = {"server": "ia600605.us.archive.org", "dir": "/13/items/saidkamli-example"}
+        url = self.publish.archive_direct_url_from_metadata(metadata, "عنوان الحلقة test.mp3")
+        self.assertEqual(url, "https://ia600605.us.archive.org/13/items/saidkamli-example/%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%20test.mp3")
+
     def test_dry_run_record_does_not_claim_archive_url_is_published(self):
         record = self.publish.build_publish_record(
             metadata={"title": "Test", "webpage_url": "https://www.youtube.com/watch?v=ABC123xyz00"},

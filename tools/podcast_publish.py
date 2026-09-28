@@ -206,6 +206,21 @@ def archive_download_url(identifier: str, filename: str) -> str:
     return f"https://archive.org/download/{identifier}/{quoted_filename}"
 
 
+def archive_direct_url_from_metadata(metadata: dict[str, Any], filename: str) -> str:
+    server = str(metadata.get("server") or metadata.get("d1") or "").strip()
+    directory = str(metadata.get("dir") or "").strip()
+    if not server or not directory:
+        raise PublishError("Archive.org metadata does not include server/dir for a direct file URL")
+    quoted_filename = urllib.parse.quote(filename)
+    return f"https://{server}{directory.rstrip('/')}/{quoted_filename}"
+
+
+def get_archive_metadata(identifier: str) -> dict[str, Any]:
+    ia = require_command("ia")
+    completed = run([ia, "metadata", identifier])
+    return json.loads(completed.stdout)
+
+
 def upload_to_archive(mp3_path: Path, identifier: str, metadata: dict[str, str], dry_run: bool = False) -> str:
     filename = safe_filename(mp3_path.name)
     if dry_run:
@@ -221,7 +236,15 @@ def upload_to_archive(mp3_path: Path, identifier: str, metadata: dict[str, str],
             command.append(f"--metadata={key}:{value}")
     run(command, capture=False)
     url = archive_download_url(identifier, filename)
-    verify_archive_url(url)
+    try:
+        verify_archive_url(url)
+    except PublishError:
+        # Some archive.org items list the uploaded file but the generic
+        # /download/<identifier>/<file> URL can briefly or persistently return
+        # 404. The item metadata exposes the assigned storage host/path; use it
+        # as a verified fallback enclosure URL.
+        url = archive_direct_url_from_metadata(get_archive_metadata(identifier), filename)
+        verify_archive_url(url)
     return url
 
 
