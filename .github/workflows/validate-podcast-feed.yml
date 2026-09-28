@@ -1,0 +1,37 @@
+name: Validate podcast feeds
+
+on:
+  push:
+    paths:
+      - "about/podcasts/**/*.xml"
+      - "tools/podcast_validate.py"
+      - "tests/**"
+      - ".github/workflows/validate-podcast-feed.yml"
+  pull_request:
+    paths:
+      - "about/podcasts/**/*.xml"
+      - "tools/podcast_validate.py"
+      - "tests/**"
+      - ".github/workflows/validate-podcast-feed.yml"
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Validate Said Kamli feed
+        run: python tools/podcast_validate.py about/podcasts/saidkamlifeed.xml
+
+      - name: Validate Farid Ansari feed
+        run: python tools/podcast_validate.py about/podcasts/ansarifeed.xml
