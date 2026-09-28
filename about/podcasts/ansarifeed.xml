@@ -1,629 +1,635 @@
-<rss xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns3="http://search.yahoo.com/mrss/" version="2.0">
+	<channel>
+		<lastBuildDate>Mon, 28 Sep 2026 19:48:23 GMT</lastBuildDate>
+		<title> الشَّيخ فريد الانصاري</title>
+		<atom:link href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/ansarifeed.xml" rel="self" type="application/rss+xml" />
+		<link>https://eljoujat.github.io</link>
+		<description>قناة محبي الدكتور فريد الأنصاري</description>
+		<pubDate>Thu, 28 May 2020 07:24:48 +0000</pubDate>
+		<generator>https://podbean.com/?v=5.5</generator>
+		<language>ar</language>
+		<copyright>Copyright 2020 All rights reserved.</copyright>
+		<category>Religion &amp; Spirituality</category>
+		<ttl>1440</ttl>
+		<itunes:type>episodic</itunes:type>
+		<itunes:subtitle />
+		<itunes:summary>قناة محبي الدكتور فريد الأنصاري</itunes:summary>
+		<itunes:author>eljoujat</itunes:author>
+		<itunes:category text="Religion &amp; Spirituality" />
+		<itunes:owner>
+			<itunes:name>eljoujat</itunes:name>
+			<itunes:email>eljoujat@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:block>No</itunes:block>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg" />
+		<image>
+			<url>https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg</url>
+			<link>https://eljoujat.github.io</link>
+			<title>الشَّيخ فريد الانصاري</title>
+			<width>144</width>
+			<height>144</height>
+		</image>
+		<item>
+			<title>الثقة في الله تصنع المعجزات | الشيخ فريد الأنصاري</title>
+			<description>الثقة في الله تصنع المعجزات | الشيخ فريد الأنصاري
 
-<channel>
-<title> الشَّيخ فريد الانصاري</title>
-    <atom:link href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/ansarifeed.xml" rel="self" type="application/rss+xml"/>
-    <link>https://eljoujat.github.io</link>
-    <description>قناة محبي الدكتور فريد الأنصاري</description>
-    <pubDate>Thu, 28 May 2020 07:24:48 +0000</pubDate>
-    <generator>https://podbean.com/?v=5.5</generator>
-    <language>ar</language>
-        <copyright>Copyright 2020 All rights reserved.</copyright>
-    <category>Religion &amp; Spirituality</category>
-    <ttl>1440</ttl>
-    <itunes:type>episodic</itunes:type>
-    <itunes:subtitle></itunes:subtitle>
-    <itunes:summary>قناة محبي الدكتور فريد الأنصاري</itunes:summary>
-    <itunes:author>eljoujat</itunes:author>
-<itunes:category text="Religion &amp; Spirituality"/>
-    <itunes:owner>
-        <itunes:name>eljoujat</itunes:name>
-        <itunes:email>eljoujat@gmail.com</itunes:email>
-    </itunes:owner>
-	<itunes:block>No</itunes:block>
-	<itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg" />
-    <image>
-        <url>https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg</url>
-        <link>https://eljoujat.github.io</link>
-        <title>الشَّيخ فريد الانصاري</title>
-        <width>144</width>
-        <height>144</height>
-    </image>
+
+
+الكلمات المفتاحية:
+
+الثقة في الله تحقق المستحيل, الثقة في الله تصنع المعجزات, يا من ضاقت بك الدنيا, لماذا لا يستجاب دعائي, لكل مهموم ضاقت به الدنيا, الشيخ فريد الأنصاري, الدكتور فريد الأنصاري, قوة الإيمان بالله, الدعاء المستجاب, كيف تحقق المعجزات بالإيمان, الثقة في الله وقت الشدائد, ضاقت بي الدنيا ماذا أفعل, الإيمان والتوكل على الله, أسباب عدم استجابة الدعاء, كيف أخرج من الضيق, المعجزات في حياة المؤمن, تأثير الثقة في الله على النفس, الدعاء والرضا بقضاء الله, أسرار استجابة الدعاء, الفرج بعد الشدة, كيف تكون قريباً من الله, قصص عن الثقة بالله, الدعاء هو العبادة, أمل بعد اليأس, يا من ضاقت عليك الدنيا, الإيمان في أوقات المحن, المعجزات الربانية, الثقة في الله مفتاح النجاح, التفاؤل في الإسلام, علاج الهموم والضيق, كيف أتغلب على الحزن, الإيمان يحقق المستحيل, النصائح الدينية للهموم, تقوية الثقة بالله, ضاقت بي الدنيا ولم أجد مخرجاً, تذكير بالعقيدة, اللجوء إلى الله وقت الشدة, فرج الله قريب, كيف تدعو الله بإخلاص, الإيمان في مواجهة الصعاب, التوكل على الله في المغرب, الرضا بما قسمه الله, دعاء الضيق والاكتئاب, أسرار الفرج من الله, كيف يطمئن القلب بذكر الله, النجاة من الأزمات, نصائح الشيخ فريد الأنصاري, دروس الدكتور فريد الأنصاري, الثقة في الله وبناء الأمل, كيف يتحقق الدعاء.
+
+#فريد_الأنصاري 
+#zg_podcast</description>
+			<link>https://www.youtube.com/watch?v=CYOtVjZH1Pk</link>
+			<guid isPermaLink="false">https://www.youtube.com/watch?v=CYOtVjZH1Pk</guid>
+			<dc:creator>eljoujat</dc:creator>
+			<pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
+			<enclosure url="https://ia903205.us.archive.org/26/items/farid-ansari-cyotvjzh1pk/%D8%A7%D9%84%D8%AB%D9%82%D8%A9%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%84%D9%87%20%D8%AA%D8%B5%D9%86%D8%B9%20%D8%A7%D9%84%D9%85%D8%B9%D8%AC%D8%B2%D8%A7%D8%AA%20%EF%BD%9C%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D9%81%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A3%D9%86%D8%B5%D8%A7%D8%B1%D9%8A%20%5BCYOtVjZH1Pk%5D.mp3" length="38762440" type="audio/mpeg" />
+			<itunes:summary>الثقة في الله تصنع المعجزات | الشيخ فريد الأنصاري
 
 
 
-    <item>
-        <title>الصلاة - فضل صلاة الفجر - فريد الأنصاري</title>
-        <link>https://www.youtube.com/watch?v=7on1DlUsi-8</link>
-        <description>
+الكلمات المفتاحية:
+
+الثقة في الله تحقق المستحيل, الثقة في الله تصنع المعجزات, يا من ضاقت بك الدنيا, لماذا لا يستجاب دعائي, لكل مهموم ضاقت به الدنيا, الشيخ فريد الأنصاري, الدكتور فريد الأنصاري, قوة الإيمان بالله, الدعاء المستجاب, كيف تحقق المعجزات بالإيمان, الثقة في الله وقت الشدائد, ضاقت بي الدنيا ماذا أفعل, الإيمان والتوكل على الله, أسباب عدم استجابة الدعاء, كيف أخرج من الضيق, المعجزات في حياة المؤمن, تأثير الثقة في الله على النفس, الدعاء والرضا بقضاء الله, أسرار استجابة الدعاء, الفرج بعد الشدة, كيف تكون قريباً من الله, قصص عن الثقة بالله, الدعاء هو العبادة, أمل بعد اليأس, يا من ضاقت عليك الدنيا, الإيمان في أوقات المحن, المعجزات الربانية, الثقة في الله مفتاح النجاح, التفاؤل في الإسلام, علاج الهموم والضيق, كيف أتغلب على الحزن, الإيمان يحقق المستحيل, النصائح الدينية للهموم, تقوية الثقة بالله, ضاقت بي الدنيا ولم أجد مخرجاً, تذكير بالعقيدة, اللجوء إلى الله وقت الشدة, فرج الله قريب, كيف تدعو الله بإخلاص, الإيمان في مواجهة الصعاب, التوكل على الله في المغرب, الرضا بما قسمه الله, دعاء الضيق والاكتئاب, أسرار الفرج من الله, كيف يطمئن القلب بذكر الله, النجاة من الأزمات, نصائح الشيخ فريد الأنصاري, دروس الدكتور فريد الأنصاري, الثقة في الله وبناء الأمل, كيف يتحقق الدعاء.
+
+#فريد_الأنصاري 
+#zg_podcast</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:24:05</itunes:duration>
+			<itunes:image href="https://i.ytimg.com/vi_webp/CYOtVjZH1Pk/maxresdefault.webp" />
+		</item>
+		<item>
+			<title>الصلاة - فضل صلاة الفجر - فريد الأنصاري</title>
+			<link>https://www.youtube.com/watch?v=7on1DlUsi-8</link>
+			<description>
             الصلاة - فضل صلاة الفجر - فريد الأنصاري
         </description>
-        <pubDate>Mon, 26 Dec 2022 08:25:48 +0000</pubDate>
-        <guid isPermaLink="true">>https://www.youtube.com/watch?v=7on1DlUsi-8</guid>
-        <media:content medium="audio" url="https://archive.org/download/128kbit-aac_202212/%D8%B9%D9%86%20%D8%A7%D9%94%D8%B3%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A7%D9%94%D9%85%D8%B1%D8%A7%D8%B6%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%20%D9%88%20%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%AA%D9%81%D8%A7%D8%AF%D9%8A%D9%87%D8%A7%20%D9%88%20%D8%B9%D9%84%D8%A7%D8%AC%D9%87%D8%A7%20_%20%D8%AF.%D9%81%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A7%D9%94%D9%86%D8%B5%D8%A7%D8%B1%D9%8A%20%D8%B1%D8%AD%D9%85%D9%87%20%D8%A7%D9%84%D9%84%D9%87%20%28128kbit_AAC%29.m4a" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الصلاة - فضل صلاة الفجر - فريد الأنصاري</media:title>
-            <media:description>
-                الصلاة - فضل صلاة الفجر - فريد الأنصاري</media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg"/>
-            <media:keywords>
+			<pubDate>Mon, 26 Dec 2022 08:25:48 +0000</pubDate>
+			<guid isPermaLink="true">&gt;https://www.youtube.com/watch?v=7on1DlUsi-8</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/128kbit-aac_202212/%D8%B9%D9%86%20%D8%A7%D9%94%D8%B3%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A7%D9%94%D9%85%D8%B1%D8%A7%D8%B6%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%20%D9%88%20%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%AA%D9%81%D8%A7%D8%AF%D9%8A%D9%87%D8%A7%20%D9%88%20%D8%B9%D9%84%D8%A7%D8%AC%D9%87%D8%A7%20_%20%D8%AF.%D9%81%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A7%D9%94%D9%86%D8%B5%D8%A7%D8%B1%D9%8A%20%D8%B1%D8%AD%D9%85%D9%87%20%D8%A7%D9%84%D9%84%D9%87%20%28128kbit_AAC%29.m4a" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الصلاة - فضل صلاة الفجر - فريد الأنصاري</ns3:title>
+				<ns3:description>
+                الصلاة - فضل صلاة الفجر - فريد الأنصاري</ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/128kbit-aac_202212/%D8%B9%D9%86%20%D8%A7%D9%94%D8%B3%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A7%D9%94%D9%85%D8%B1%D8%A7%D8%B6%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%20%D9%88%20%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%AA%D9%81%D8%A7%D8%AF%D9%8A%D9%87%D8%A7%20%D9%88%20%D8%B9%D9%84%D8%A7%D8%AC%D9%87%D8%A7%20_%20%D8%AF.%D9%81%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A7%D9%94%D9%86%D8%B5%D8%A7%D8%B1%D9%8A%20%D8%B1%D8%AD%D9%85%D9%87%20%D8%A7%D9%84%D9%84%D9%87%20%28128kbit_AAC%29.m4a" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>22</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>1:12:33</itunes:duration>
-    </item>
-
-
-    <item>
-        <title>عن أسباب الأمراض النفسية و طريقة تفاديها و علاجها </title>
-        <link>https://www.youtube.com/watch?v=S6eEi-dveGU</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/128kbit-aac_202212/%D8%B9%D9%86%20%D8%A7%D9%94%D8%B3%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A7%D9%94%D9%85%D8%B1%D8%A7%D8%B6%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%20%D9%88%20%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%AA%D9%81%D8%A7%D8%AF%D9%8A%D9%87%D8%A7%20%D9%88%20%D8%B9%D9%84%D8%A7%D8%AC%D9%87%D8%A7%20_%20%D8%AF.%D9%81%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A7%D9%94%D9%86%D8%B5%D8%A7%D8%B1%D9%8A%20%D8%B1%D8%AD%D9%85%D9%87%20%D8%A7%D9%84%D9%84%D9%87%20%28128kbit_AAC%29.m4a" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>22</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>1:12:33</itunes:duration>
+		</item>
+		<item>
+			<title>عن أسباب الأمراض النفسية و طريقة تفاديها و علاجها </title>
+			<link>https://www.youtube.com/watch?v=S6eEi-dveGU</link>
+			<description>
             عن أسباب الأمراض النفسية و طريقة تفاديها و علاجها
         </description>
-        <pubDate>Wed, 9 Sep 2020 08:25:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=S6eEi-dveGU</guid>
-        <media:content medium="audio" url="https://archive.org/download/128kbit-aac_20200909_0614/amrad_nafsya.m4a" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">عن أسباب الأمراض النفسية و طريقة تفاديها و علاجها</media:title>
-            <media:description>
-                عن أسباب الأمراض النفسية و طريقة تفاديها و علاجها</media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg"/>
-            <media:keywords>
+			<pubDate>Wed, 9 Sep 2020 08:25:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=S6eEi-dveGU</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/128kbit-aac_20200909_0614/amrad_nafsya.m4a" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">عن أسباب الأمراض النفسية و طريقة تفاديها و علاجها</ns3:title>
+				<ns3:description>
+                عن أسباب الأمراض النفسية و طريقة تفاديها و علاجها</ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/128kbit-aac_20200909_0614/amrad_nafsya.m4a" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>21</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>5:20</itunes:duration>
-    </item>
-
-
-    <item>
-        <title>نهاية "إسرائيل" </title>
-        <link>https://www.youtube.com/watch?v=GHHdUKFijFg</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/128kbit-aac_20200909_0614/amrad_nafsya.m4a" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>21</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>5:20</itunes:duration>
+		</item>
+		<item>
+			<title>نهاية "إسرائيل" </title>
+			<link>https://www.youtube.com/watch?v=GHHdUKFijFg</link>
+			<description>
             نهاية "إسرائيل"
         </description>
-        <pubDate>Mon, 7 Sep 2020 09:25:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=GHHdUKFijFg</guid>
-        <media:content medium="audio" url="https://archive.org/download/96kbit-aac/nihaya_israel.m4a" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">نهاية "إسرائيل"</media:title>
-            <media:description>
-                نهاية "إسرائيل"</media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg"/>
-            <media:keywords>
+			<pubDate>Mon, 7 Sep 2020 09:25:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=GHHdUKFijFg</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/96kbit-aac/nihaya_israel.m4a" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">نهاية "إسرائيل"</ns3:title>
+				<ns3:description>
+                نهاية "إسرائيل"</ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/96kbit-aac/nihaya_israel.m4a" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>20</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>6:56</itunes:duration>
-    </item>
-    
-    <item>
-        <title>المؤمن في زمن الفتن</title>
-        <link>https://www.youtube.com/watch?v=edp5c8MdKb0</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/96kbit-aac/nihaya_israel.m4a" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>20</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>6:56</itunes:duration>
+		</item>
+		<item>
+			<title>المؤمن في زمن الفتن</title>
+			<link>https://www.youtube.com/watch?v=edp5c8MdKb0</link>
+			<description>
             المؤمن في زمن الفتن ـ الدكتور فريد الأنصاري رحمه الله
         </description>
-        <pubDate>Mon, 7 Sep 2020 09:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=edp5c8MdKb0</guid>
-        <media:content medium="audio" url="https://archive.org/download/128kbit-aac_20200907_0750/mo2mine_fizamen_fitan.m4a" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">المؤمن في زمن الفتن</media:title>
-            <media:description>
-                المؤمن في زمن الفتن </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg"/>
-            <media:keywords>
+			<pubDate>Mon, 7 Sep 2020 09:24:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=edp5c8MdKb0</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/128kbit-aac_20200907_0750/mo2mine_fizamen_fitan.m4a" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">المؤمن في زمن الفتن</ns3:title>
+				<ns3:description>
+                المؤمن في زمن الفتن </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/128kbit-aac_20200907_0750/mo2mine_fizamen_fitan.m4a" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>19</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>6:10</itunes:duration>
-    </item>
-
-
-    <item>
-        <title>قناديل الصلاةالحلقة 1: بارقة</title>
-        <link>https://www.youtube.com/watch?v=gz2OKrMbDZM</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/128kbit-aac_20200907_0750/mo2mine_fizamen_fitan.m4a" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/profile.jpg" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>19</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>6:10</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 1: بارقة</title>
+			<link>https://www.youtube.com/watch?v=gz2OKrMbDZM</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل الأول بعنوان: بارقة.
         </description>
-        <pubDate>Thu, 28 May 2020 07:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=gz2OKrMbDZM</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_01.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 1 : بارقة</media:title>
-            <media:description>
+			<pubDate>Thu, 28 May 2020 07:24:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=gz2OKrMbDZM</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_01.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 1 : بارقة</ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل الأول بعنوان: بارقة.
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_01.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>1</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>5:45</itunes:duration>
-    </item>
-
-    <item>
-        <title>قناديل الصلاةالحلقة2: يـا أيها الحيران، هنا الصلاة فادخل </title>
-        <link>https://www.youtube.com/watch?v=PV8iHpkUW_I</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_01.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>5:45</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة2: يـا أيها الحيران، هنا الصلاة فادخل </title>
+			<link>https://www.youtube.com/watch?v=PV8iHpkUW_I</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 2 بعنوان: يـا أيها الحيران، هنا الصلاة فادخل! .
         </description>
-        <pubDate>Thu, 28 May 2020 08:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=PV8iHpkUW_I</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_02.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 2 : يـا أيها الحيران، هنا الصلاة فادخل </media:title>
-            <media:description>
+			<pubDate>Thu, 28 May 2020 08:24:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=PV8iHpkUW_I</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_02.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 2 : يـا أيها الحيران، هنا الصلاة فادخل </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 2 بعنوان: يـا أيها الحيران، هنا الصلاة فادخل! .
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_02.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>2</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>15:25</itunes:duration>
-    </item>
-
-    <item>
-        <title>قناديل الصلاةالحلقة 3: حلية الغر المحجلين </title>
-        <link>https://www.youtube.com/watch?v=smOWb_A7mVE</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_02.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>15:25</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 3: حلية الغر المحجلين </title>
+			<link>https://www.youtube.com/watch?v=smOWb_A7mVE</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 3 بعنوان: حلية الغر المحجلين! .
         </description>
-        <pubDate>Thu, 28 May 2020 12:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=smOWb_A7mVE</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_03.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 3 :حلية الغر المحجلين </media:title>
-            <media:description>
+			<pubDate>Thu, 28 May 2020 12:24:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=smOWb_A7mVE</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_03.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 3 :حلية الغر المحجلين </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 3 بعنوان: حلية الغر المحجلين! .
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_03.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>3</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>9:37</itunes:duration>
-    </item>
-
-    <item>
-        <title>قناديل الصلاةالحلقة 4: والصـلاة نـور </title>
-        <link>https://www.youtube.com/watch?v=3wFwLM5zt1A</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_03.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>9:37</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 4: والصـلاة نـور </title>
+			<link>https://www.youtube.com/watch?v=3wFwLM5zt1A</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 4 بعنوان:والصـلاة نـور..! .
         </description>
-        <pubDate>Thu, 28 May 2020 17:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=3wFwLM5zt1A </guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_04.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 4 : يـا أيها الحيران، هنا الصلاة فادخل </media:title>
-            <media:description>
+			<pubDate>Thu, 28 May 2020 17:24:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=3wFwLM5zt1A </guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_04.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 4 : يـا أيها الحيران، هنا الصلاة فادخل </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 4 بعنوان:والصـلاة نـور..! .
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_04.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>4</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>14:11</itunes:duration>
-    </item>
-
-    <item>
-        <title>قناديل الصلاةالحلقة 5: هذا لعبدي، ولعبدي ما سأل </title>
-        <link>https://www.youtube.com/watch?v=SBGwsOzURi0</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_04.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14:11</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 5: هذا لعبدي، ولعبدي ما سأل </title>
+			<link>https://www.youtube.com/watch?v=SBGwsOzURi0</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 5 بعنوان:هذا لعبدي، ولعبدي ما سأل نـور..! .
         </description>
-        <pubDate>Thu, 29 May 2020 10:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=SBGwsOzURi0</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_05.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 5 :هذا لعبدي، ولعبدي ما سأل </media:title>
-            <media:description>
+			<pubDate>Thu, 29 May 2020 10:24:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=SBGwsOzURi0</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_05.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 5 :هذا لعبدي، ولعبدي ما سأل </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 5 بعنوان:هذا لعبدي، ولعبدي ما سأل
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_05.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>5</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>14:10</itunes:duration>
-    </item>
-
-    <item>
-        <title>قناديل الصلاةالحلقة 6: في ملكوت الله </title>
-        <link>https://www.youtube.com/watch?v=ZJloph2EAiA</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_05.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>14:10</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 6: في ملكوت الله </title>
+			<link>https://www.youtube.com/watch?v=ZJloph2EAiA</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 6 بعنوان:في ملكوت الله
         </description>
-        <pubDate>Thu, 29 May 2020 12:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=ZJloph2EAiA</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_06.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 6 : في ملكوت الله </media:title>
-            <media:description>
+			<pubDate>Thu, 29 May 2020 12:24:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=ZJloph2EAiA</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_06.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 6 : في ملكوت الله </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 6 بعنوان:في ملكوت الله
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_06.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>6</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>17:11</itunes:duration>
-    </item>
-    <item>
-        <title>قناديل الصلاةالحلقة 7: و خر راكعا و ٱناب </title>
-        <link>https://www.youtube.com/watch?v=RIdwH-dsRX8</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_06.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>17:11</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 7: و خر راكعا و ٱناب </title>
+			<link>https://www.youtube.com/watch?v=RIdwH-dsRX8</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 7 بعنوان:و خر راكعا و ٱناب
         </description>
-        <pubDate>Sun, 02 Jun 2020 09:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=RIdwH-dsRX8</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_07.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 7 : و خر راكعا و ٱناب </media:title>
-            <media:description>
+			<pubDate>Sun, 02 Jun 2020 09:24:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=RIdwH-dsRX8</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_07.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 7 : و خر راكعا و ٱناب </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 7 بعنوان:و خر راكعا و ٱناب
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_07.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>7</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>10:57</itunes:duration>
-    </item>
-
-    <item>
-        <title>قناديل الصلاةالحلقة 8: إلى مقام الحمد و الثناء </title>
-        <link>https://www.youtube.com/watch?v=4b7gCc_Py8o</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_07.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>10:57</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 8: إلى مقام الحمد و الثناء </title>
+			<link>https://www.youtube.com/watch?v=4b7gCc_Py8o</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 8 بعنوان:إلى مقام الحمد و الثناء
         </description>
-        <pubDate>Sun, 02 Jun 2020 12:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=4b7gCc_Py8o</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_08.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 8 : و خر راكعا و ٱناب </media:title>
-            <media:description>
+			<pubDate>Sun, 02 Jun 2020 12:24:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=4b7gCc_Py8o</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_08.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 8 : و خر راكعا و ٱناب </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 8 بعنوان:إلى مقام الحمد و الثناء
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_08.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>8</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>10:57</itunes:duration>
-    </item>
-
-
-    <item>
-        <title>قناديل الصلاةالحلقة 9: واسجد واقترب </title>
-        <link>https://www.youtube.com/watch?v=Y37K6Jg_eOM</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_08.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>10:57</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 9: واسجد واقترب </title>
+			<link>https://www.youtube.com/watch?v=Y37K6Jg_eOM</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 8 بعنوان:واسجد واقترب
         </description>
-        <pubDate>Mon, 02 Jun 2020 13:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=Y37K6Jg_eOM</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_09.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 9 : واسجد واقترب </media:title>
-            <media:description>
+			<pubDate>Mon, 02 Jun 2020 13:24:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=Y37K6Jg_eOM</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_09.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 9 : واسجد واقترب </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 9 بعنوان:واسجد واقترب
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_09.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>9</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>22:22</itunes:duration>
-    </item>
-    <item>
-        <title>قناديل الصلاةالحلقة 10:جلسة بين يدي الملِك </title>
-        <link>https://www.youtube.com/watch?v=zEMUpwVeVXo</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_09.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>22:22</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 10:جلسة بين يدي الملِك </title>
+			<link>https://www.youtube.com/watch?v=zEMUpwVeVXo</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 10 بعنوان:جلسة بين يدي الملِك
         </description>
-        <pubDate>Mon, 02 Jun 2020 14:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=zEMUpwVeVXo</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_10.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 10 : جلسة بين يدي الملِك </media:title>
-            <media:description>
+			<pubDate>Mon, 02 Jun 2020 14:24:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=zEMUpwVeVXo</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_10.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 10 : جلسة بين يدي الملِك </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 10 بعنوان:جلسة بين يدي الملِك
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_10.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>10</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>4:54</itunes:duration>
-    </item>
-    <item>
-        <title>قناديل الصلاةالحلقة 11: في موكب العابدين </title>
-        <link>https://www.youtube.com/watch?v=pIhpd0I7sGc</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_10.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>4:54</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 11: في موكب العابدين </title>
+			<link>https://www.youtube.com/watch?v=pIhpd0I7sGc</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 11 بعنوان:في موكب العابدين
         </description>
-        <pubDate>Mon, 02 Jun 2020 15:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=pIhpd0I7sGc</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_11.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 11 : في موكب العابدين </media:title>
-            <media:description>
+			<pubDate>Mon, 02 Jun 2020 15:24:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=pIhpd0I7sGc</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_11.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 11 : في موكب العابدين </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 11 بعنوان:في موكب العابدين
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_11.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>11</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>4:40</itunes:duration>
-    </item>
-    <item>
-        <title>قناديل الصلاةالحلقة 12:وهبّ عبير التحيات </title>
-        <link>https://www.youtube.com/watch?v=yN04NpWYBTg</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_11.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>4:40</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 12:وهبّ عبير التحيات </title>
+			<link>https://www.youtube.com/watch?v=yN04NpWYBTg</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 12 بعنوان:وهبّ عبير التحيات
         </description>
-        <pubDate>Mon, 02 Jun 2020 16:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=yN04NpWYBTg</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_12.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 12 : وهبّ عبير التحيات </media:title>
-            <media:description>
+			<pubDate>Mon, 02 Jun 2020 16:24:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=yN04NpWYBTg</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_12.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 12 : وهبّ عبير التحيات </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 12 بعنوان:وهبّ عبير التحيات
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_12.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>12</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>32:09</itunes:duration>
-    </item>
-
-    <item>
-        <title>قناديل الصلاةالحلقة 13:مطالع الكوكب الدُّري </title>
-        <link>https://www.youtube.com/watch?v=8B1hF7wqOVA</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_12.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>32:09</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 13:مطالع الكوكب الدُّري </title>
+			<link>https://www.youtube.com/watch?v=8B1hF7wqOVA</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 13 بعنوان:مطالع الكوكب الدُّري
         </description>
-        <pubDate>Mon, 08 Jun 2020 10:24:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=8B1hF7wqOVA</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_13.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 13 :مطالع الكوكب الدُّري </media:title>
-            <media:description>
+			<pubDate>Mon, 08 Jun 2020 10:24:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=8B1hF7wqOVA</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_13.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 13 :مطالع الكوكب الدُّري </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 13 بعنوان:مطالع الكوكب الدُّري
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_13.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>13</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>41:38</itunes:duration>
-    </item>
-
-    <item>
-        <title>قناديل الصلاةالحلقة 14:في منـازل نـاشئـة الليل </title>
-        <link>https://www.youtube.com/watch?v=1jZmDJ7s9wY</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_13.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>41:38</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 14:في منـازل نـاشئـة الليل </title>
+			<link>https://www.youtube.com/watch?v=1jZmDJ7s9wY</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 14 بعنوان: في منـازل نـاشئـة الليل
         </description>
-        <pubDate>Mon, 08 Jun 2020 10:34:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=1jZmDJ7s9wY</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_14.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 14:في منـازل نـاشئـة الليل </media:title>
-            <media:description>
+			<pubDate>Mon, 08 Jun 2020 10:34:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=1jZmDJ7s9wY</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_14.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 14:في منـازل نـاشئـة الليل </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 14 بعنوان: في منـازل نـاشئـة الليل
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_14.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>14</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>23:02</itunes:duration>
-    </item>
-
-    <item>
-        <title>قناديل الصلاةالحلقة 15:مع صفـوف المـلائـكة </title>
-        <link>https://www.youtube.com/watch?v=T7AdtmZx9PQ</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_14.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>23:02</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 15:مع صفـوف المـلائـكة </title>
+			<link>https://www.youtube.com/watch?v=T7AdtmZx9PQ</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 15 بعنوان:مع صفـوف المـلائـكة
         </description>
-        <pubDate>Mon, 08 Jun 2020 10:44:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=T7AdtmZx9PQ</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_15.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 15: مع صفـوف المـلائـكة </media:title>
-            <media:description>
+			<pubDate>Mon, 08 Jun 2020 10:44:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=T7AdtmZx9PQ</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_15.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 15: مع صفـوف المـلائـكة </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 15 بعنوان: مع صفـوف المـلائـكة
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_15.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>15</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>24:28</itunes:duration>
-    </item>
-
-    <item>
-        <title>قناديل الصلاةالحلقة 16:بـهجة الجمـعة </title>
-        <link>https://www.youtube.com/watch?v=NEShKAJSWNs</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_15.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>24:28</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 16:بـهجة الجمـعة </title>
+			<link>https://www.youtube.com/watch?v=NEShKAJSWNs</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 16 بعنوان:بـهجة الجمـعة
         </description>
-        <pubDate>Mon, 08 Jun 2020 10:44:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=NEShKAJSWNs</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_16.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 16: بـهجة الجمـعة </media:title>
-            <media:description>
+			<pubDate>Mon, 08 Jun 2020 10:44:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=NEShKAJSWNs</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_16.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 16: بـهجة الجمـعة </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 16 بعنوان: بـهجة الجمـعة
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_16.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>16</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>18:12</itunes:duration>
-    </item>
-
-    <item>
-        <title>قناديل الصلاةالحلقة 17:مع الأنبيـاء والصديقين </title>
-        <link>https://www.youtube.com/watch?v=QCkRwAw4J9Q</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_16.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>18:12</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 17:مع الأنبيـاء والصديقين </title>
+			<link>https://www.youtube.com/watch?v=QCkRwAw4J9Q</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 16 بعنوان:مع الأنبيـاء والصديقين
         </description>
-        <pubDate>Mon, 08 Jun 2020 10:44:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=QCkRwAw4J9Q</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_17.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 17: مع الأنبيـاء والصديقين </media:title>
-            <media:description>
+			<pubDate>Mon, 08 Jun 2020 10:44:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=QCkRwAw4J9Q</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_17.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 17: مع الأنبيـاء والصديقين </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 17 بعنوان:مع الأنبيـاء والصديقين
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_17.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>17</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>32:02</itunes:duration>
-    </item>
-
-    <item>
-        <title>قناديل الصلاةالحلقة 18:والخاتمة فاتحة خير </title>
-        <link>https://www.youtube.com/watch?v=TPYZH-0fxPU</link>
-        <description>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_17.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>32:02</itunes:duration>
+		</item>
+		<item>
+			<title>قناديل الصلاةالحلقة 18:والخاتمة فاتحة خير </title>
+			<link>https://www.youtube.com/watch?v=TPYZH-0fxPU</link>
+			<description>
             كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 18 بعنوان"والخاتمة فاتحة خير
         </description>
-        <pubDate>Mon, 08 Jun 2020 10:44:48 +0000</pubDate>
-        <guid isPermaLink="true">https://www.youtube.com/watch?v=TPYZH-0fxPU</guid>
-        <media:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_18.mp3" type="audio/mpeg" isDefault="true" expression="full">
-            <media:title type="plain">الحلقة 16: بـهجة الجمـعة </media:title>
-            <media:description>
+			<pubDate>Mon, 08 Jun 2020 10:44:48 +0000</pubDate>
+			<guid isPermaLink="true">https://www.youtube.com/watch?v=TPYZH-0fxPU</guid>
+			<ns3:content medium="audio" url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_18.mp3" type="audio/mpeg" isDefault="true" expression="full">
+				<ns3:title type="plain">الحلقة 16: بـهجة الجمـعة </ns3:title>
+				<ns3:description>
                 كتاب "قناديل الصلاة: مشاهدات في منازل الجمال" للشيخ فريد الأنصاري، رحمه الله، يؤنسك في رحلة إيمانية جمالية من الأذان إلى تكبيرة الإحرام إلى الفاتحة إلى الركوع والسجود، لعل أشواق القلب تستيقظ للسير إلى رب العالمين. تستمعون هنا إلى فصول الكتاب عبر حلقات متتالية إن شاء الله. الفصل 16 بعنوان:"والخاتمة فاتحة خير
-            </media:description>
-            <media:rating scheme="urn:simple">nonadult</media:rating>
-            <media:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-            <media:keywords>
+            </ns3:description>
+				<ns3:rating scheme="urn:simple">nonadult</ns3:rating>
+				<ns3:thumbnail url="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+				<ns3:keywords>
                 religion, islam, culture education, prayer
-            </media:keywords>
-        </media:content>
-        <enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_18.mp3" length="71170216" type="audio/mpeg"/>
-        <itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:episode>18</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:duration>7:44</itunes:duration>
-    </item>
+            </ns3:keywords>
+			</ns3:content>
+			<enclosure url="https://archive.org/download/fa_ks_ep_13/fa_ks_ep_18.mp3" length="71170216" type="audio/mpeg" />
+			<itunes:image href="https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/farid_ansari/kanadil_salat/cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>7:44</itunes:duration>
+		</item>
 
     https://www.youtube.com/watch?v=QCkRwAw4J9Q
 </channel>
