@@ -9,8 +9,8 @@ permalink: /contact/
 
 I'm always happy to discuss architecture, e-commerce, SAP Commerce Cloud, or any interesting technical challenge.
 
-- **Email**: [contact@eljoujat.dev](mailto:contact@eljoujat.dev)
-- **LinkedIn**: [linkedin.com/in/eljoujat](https://www.linkedin.com/in/eljoujat)
+- **Email**: [eljoujat@gmail.com](mailto:eljoujat@gmail.com)
+- **LinkedIn**: [linkedin.com/in/eljaoujat](https://www.linkedin.com/in/eljaoujat)
 - **GitHub**: [github.com/eljoujat](https://github.com/eljoujat)
 
 Feel free to reach out — I usually reply within a couple of days.
