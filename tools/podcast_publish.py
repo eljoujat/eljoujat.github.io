@@ -28,9 +28,11 @@ import tempfile
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+import time
 
 try:
     import yaml
@@ -223,11 +225,25 @@ def upload_to_archive(mp3_path: Path, identifier: str, metadata: dict[str, str],
     return url
 
 
-def verify_archive_url(url: str) -> None:
-    request = urllib.request.Request(url, method="HEAD", headers={"User-Agent": "podcast-publisher/1.0"})
-    with urllib.request.urlopen(request, timeout=30) as response:
-        if response.status >= 400:
-            raise PublishError(f"Archive.org URL is not available: HTTP {response.status} {url}")
+def verify_archive_url(url: str, attempts: int = 10, delay_seconds: int = 10) -> None:
+    last_error: Exception | None = None
+    for attempt in range(1, attempts + 1):
+        request = urllib.request.Request(url, method="HEAD", headers={"User-Agent": "podcast-publisher/1.0"})
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                if response.status < 400:
+                    return
+                last_error = PublishError(f"Archive.org URL returned HTTP {response.status}: {url}")
+        except urllib.error.HTTPError as exc:
+            last_error = exc
+            # Archive.org can need a short propagation window right after upload.
+            if exc.code not in {404, 503}:
+                raise PublishError(f"Archive.org URL check failed: HTTP {exc.code} {url}") from exc
+        except Exception as exc:
+            last_error = exc
+        if attempt < attempts:
+            time.sleep(delay_seconds)
+    raise PublishError(f"Archive.org URL is not available after {attempts} attempts: {url} ({last_error})")
 
 
 def text(parent: ET.Element, tag: str, value: str, attrib: dict[str, str] | None = None) -> ET.Element:

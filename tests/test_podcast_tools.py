@@ -4,6 +4,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest import mock
 import xml.etree.ElementTree as ET
 
 
@@ -126,6 +127,34 @@ class PodcastToolTests(unittest.TestCase):
         self.assertEqual(record["archive_file_url"], "https://archive.org/download/saidkamli-abc123xyz00/episode.mp3")
         self.assertNotIn("planned_archive_file_url", record)
         self.assertTrue(record["archive_url_available"])
+
+    def test_verify_archive_url_retries_transient_404(self):
+        class FakeResponse:
+            status = 200
+            def __enter__(self):
+                return self
+            def __exit__(self, exc_type, exc, tb):
+                return False
+
+        calls = {"count": 0}
+
+        def fake_urlopen(request, timeout):
+            calls["count"] += 1
+            if calls["count"] < 3:
+                raise self.publish.urllib.error.HTTPError(
+                    url="https://archive.org/download/example/file.mp3",
+                    code=404,
+                    msg="Not Found",
+                    hdrs=None,
+                    fp=None,
+                )
+            return FakeResponse()
+
+        with mock.patch.object(self.publish.urllib.request, "urlopen", side_effect=fake_urlopen), \
+             mock.patch.object(self.publish.time, "sleep"):
+            self.publish.verify_archive_url("https://archive.org/download/example/file.mp3", attempts=3, delay_seconds=0)
+
+        self.assertEqual(calls["count"], 3)
 
     def test_validate_feed_reports_duplicate_guid_and_bad_enclosure_length(self):
         with tempfile.TemporaryDirectory() as tmp:
