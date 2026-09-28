@@ -1,31 +1,60 @@
-podcast:
-  feed_path: about/podcasts/saidkamlifeed.xml
-  manifest_path: about/podcasts/publish_manifest.json
-  public_feed_url: https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamlifeed.xml
-  title: قناة الشَّيخ سَعيد الكَمَلي
-  author: eljoujat
-  creator: eljoujat
-  language: ar
-  explicit: "No"
-  default_image: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43131474/eb4548d0ef9ccf6d.jpg
-  keywords:
-    - religion
-    - islam
-    - culture
-    - education
-    - prayer
+podcasts:
+  saidkamli:
+    podcast:
+      feed_path: about/podcasts/saidkamlifeed.xml
+      manifest_path: about/podcasts/publish_manifest.json
+      public_feed_url: https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/saidkamlifeed.xml
+      title: قناة الشَّيخ سَعيد الكَمَلي
+      author: eljoujat
+      creator: eljoujat
+      language: ar
+      explicit: "No"
+      default_image: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43131474/eb4548d0ef9ccf6d.jpg
+      keywords:
+        - religion
+        - islam
+        - culture
+        - education
+        - prayer
+    archive:
+      identifier_prefix: saidkamli
+      collection: opensource_audio
+      mediatype: audio
+      language: ara
+      subject: islam;podcast;said kamli;religion
+    git:
+      branch: master
+      commit_prefix: "podcast: publish saidkamli episode"
 
-archive:
-  identifier_prefix: saidkamli
-  collection: opensource_audio
-  mediatype: audio
-  language: ara
-  subject: islam;podcast;said kamli;religion
+  ansari:
+    podcast:
+      feed_path: about/podcasts/ansarifeed.xml
+      manifest_path: about/podcasts/publish_manifest_ansari.json
+      public_feed_url: https://raw.githubusercontent.com/eljoujat/eljoujat.github.io/master/about/podcasts/ansarifeed.xml
+      title: الشَّيخ فريد الانصاري
+      author: eljoujat
+      creator: eljoujat
+      language: ar
+      explicit: "No"
+      keywords:
+        - religion
+        - islam
+        - culture
+        - education
+        - farid ansari
+    archive:
+      identifier_prefix: farid-ansari
+      collection: opensource_audio
+      mediatype: audio
+      language: ara
+      subject: islam;podcast;farid ansari;religion
+    git:
+      branch: master
+      commit_prefix: "podcast: publish ansari episode"
+
+# Backward-compatible default used when --podcast is omitted.
+default_podcast: saidkamli
 
 download:
   format: mp3
   audio_quality: "0"
-
-git:
-  branch: master
-  commit_prefix: "podcast: publish episode"

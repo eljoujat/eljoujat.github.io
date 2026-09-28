@@ -107,6 +107,32 @@ class PodcastToolTests(unittest.TestCase):
         url = self.publish.archive_direct_url_from_metadata(metadata, "عنوان الحلقة test.mp3")
         self.assertEqual(url, "https://ia600605.us.archive.org/13/items/saidkamli-example/%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%20test.mp3")
 
+    def test_select_podcast_config_supports_ansari(self):
+        config = {
+            "default_podcast": "saidkamli",
+            "download": {"format": "mp3"},
+            "podcasts": {
+                "saidkamli": {
+                    "podcast": {"feed_path": "about/podcasts/saidkamlifeed.xml"},
+                    "archive": {"identifier_prefix": "saidkamli"},
+                },
+                "ansari": {
+                    "podcast": {"feed_path": "about/podcasts/ansarifeed.xml"},
+                    "archive": {"identifier_prefix": "farid-ansari"},
+                },
+            },
+        }
+        selected, resolved = self.publish.select_podcast_config(config, "ansari")
+        self.assertEqual(selected, "ansari")
+        self.assertEqual(resolved["podcast"]["feed_path"], "about/podcasts/ansarifeed.xml")
+        self.assertEqual(resolved["archive"]["identifier_prefix"], "farid-ansari")
+        self.assertEqual(resolved["download"]["format"], "mp3")
+
+    def test_select_podcast_config_rejects_unknown_podcast(self):
+        config = {"podcasts": {"saidkamli": {"podcast": {}}}}
+        with self.assertRaises(self.publish.PublishError):
+            self.publish.select_podcast_config(config, "missing")
+
     def test_dry_run_record_does_not_claim_archive_url_is_published(self):
         record = self.publish.build_publish_record(
             metadata={"title": "Test", "webpage_url": "https://www.youtube.com/watch?v=ABC123xyz00"},

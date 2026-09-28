@@ -87,6 +87,33 @@ def load_config(path: Path) -> dict[str, Any]:
         return yaml.safe_load(fh) or {}
 
 
+def select_podcast_config(config: dict[str, Any], podcast_name: str | None = None) -> tuple[str, dict[str, Any]]:
+    """Return the selected podcast config.
+
+    New configs use a top-level `podcasts` map, but older configs had a single
+    `podcast`/`archive`/`git` set at the top level. Keep both forms working so
+    existing commands remain valid.
+    """
+    podcasts = config.get("podcasts")
+    if not podcasts:
+        return podcast_name or config.get("default_podcast") or "default", config
+
+    selected = podcast_name or config.get("default_podcast") or "saidkamli"
+    if selected not in podcasts:
+        available = ", ".join(sorted(podcasts))
+        raise PublishError(f"Unknown podcast '{selected}'. Available podcasts: {available}")
+
+    resolved = dict(config)
+    resolved.pop("podcasts", None)
+    selected_cfg = podcasts[selected] or {}
+    for section in ("podcast", "archive", "git", "download"):
+        merged = dict(config.get(section, {}) or {})
+        merged.update(selected_cfg.get(section, {}) or {})
+        if merged:
+            resolved[section] = merged
+    return selected, resolved
+
+
 def require_command(name: str) -> str:
     resolved = shutil.which(name)
     if resolved:
@@ -364,8 +391,10 @@ def build_publish_record(
     archive_url: str,
     feed_path: str,
     dry_run: bool,
+    podcast_name: str | None = None,
 ) -> dict[str, Any]:
     record: dict[str, Any] = {
+        "podcast": podcast_name,
         "youtube_url": metadata.get("webpage_url"),
         "youtube_id": youtube_id,
         "title": metadata.get("title"),
@@ -398,13 +427,14 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Publish a YouTube video into the podcast RSS feed.")
     parser.add_argument("youtube_url", help="YouTube video URL")
     parser.add_argument("--config", type=Path, default=root / "tools" / "podcast_config.yaml")
+    parser.add_argument("--podcast", help="Podcast key from tools/podcast_config.yaml, e.g. saidkamli or ansari")
     parser.add_argument("--dry-run", action="store_true", help="Do not upload, modify files, commit, or push")
     parser.add_argument("--no-git", action="store_true", help="Modify files but do not commit/push")
     parser.add_argument("--no-push", action="store_true", help="Commit locally but do not push")
     parser.add_argument("--work-dir", type=Path, default=None, help="Temporary working directory")
     args = parser.parse_args(argv)
 
-    config = load_config(args.config)
+    selected_podcast, config = select_podcast_config(load_config(args.config), args.podcast)
     podcast = config.get("podcast", {})
     archive = config.get("archive", {})
     git_cfg = config.get("git", {})
@@ -453,6 +483,7 @@ def main(argv: list[str] | None = None) -> int:
         archive_url=archive_url,
         feed_path=str(feed_path.relative_to(root)),
         dry_run=args.dry_run,
+        podcast_name=selected_podcast,
     )
 
     if args.dry_run:
@@ -475,6 +506,7 @@ def main(argv: list[str] | None = None) -> int:
         git_commit_and_push([feed_path, manifest_path], message, push=not args.no_push)
 
     print("Episode published successfully.")
+    print(f"Podcast: {selected_podcast}")
     print(f"Title: {metadata.get('title')}")
     print(f"YouTube: {webpage_url}")
     print(f"Archive.org: {archive_url}")
