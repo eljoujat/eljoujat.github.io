@@ -2,6 +2,17 @@
   "episodes": [
     {
       "podcast": "ansari",
+      "youtube_url": "https://www.youtube.com/watch?v=qc8mZ_I1N74",
+      "youtube_id": "qc8mz_i1n74",
+      "title": "الاستغفار سيغير حياتك | د. فريد الأنصاري رحمه الله",
+      "archive_identifier": "farid-ansari-qc8mz-i1n74",
+      "feed": "about/podcasts/ansarifeed.xml",
+      "published_at": "2026-09-28T20:14:44.042161+00:00",
+      "archive_url_available": true,
+      "archive_file_url": "https://archive.org/download/farid-ansari-qc8mz-i1n74/farid-ansari-qc8mz_i1n74.mp3"
+    },
+    {
+      "podcast": "ansari",
       "youtube_url": "https://www.youtube.com/watch?v=CYOtVjZH1Pk",
       "youtube_id": "cyotvjzh1pk",
       "title": "الثقة في الله تصنع المعجزات | الشيخ فريد الأنصاري",
