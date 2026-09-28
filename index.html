@@ -3,73 +3,54 @@ layout: home
 title: Youssef El Jaoujat — Solution Architecture & E-commerce
 description: "Architecture notes by Youssef El Jaoujat on e-commerce platforms, integration, performance and reliability."
 ---
-<a class="ye-skip-link" href="#ye-main">Skip to content</a>
-<div id="ye-blog">
-  <header class="ye-header">
-    <a class="ye-name" href="{{ '/' | relative_url }}">Youssef El Jaoujat<span class="ye-dot">.</span></a>
-    <nav aria-label="Blog navigation">
-      <a href="{{ '/' | relative_url }}" aria-current="page">Writing</a>
-      <a href="{{ '/about/' | relative_url }}">About</a>
-      <a class="ye-external" href="https://github.com/eljoujat" target="_blank" rel="noopener noreferrer">GitHub &#8599;</a>
-    </nav>
-  </header>
+<div class="ye-intro">
+  <div class="ye-kicker">Solution architecture &middot; E-commerce</div>
+  <h1>Architecture decisions.<br>Real-world constraints.</h1>
+  <p class="ye-lead">Notes on evolving software platforms, connecting systems, and understanding the trade-offs that shape them.</p>
+</div>
 
-  <main id="ye-main">
-    <div class="ye-intro">
-      <div class="ye-kicker">Solution architecture &middot; E-commerce</div>
-      <h1>Architecture decisions.<br>Real-world constraints.</h1>
-      <p class="ye-lead">Notes on evolving software platforms, connecting systems, and understanding the trade-offs that shape them.</p>
-    </div>
+<div class="ye-grid">
+  <div>
+    {% assign featured_url = "/2015/04/24/impex-editor.html" %}
+    {% assign featured_post = nil %}
+    {% for post in site.posts %}
+      {% if post.url == featured_url %}
+        {% assign featured_post = post %}
+      {% endif %}
+    {% endfor %}
 
-    <div class="ye-grid">
-      <div>
-        {% assign featured_url = "/2015/04/24/impex-editor.html" %}
-        {% assign featured_post = nil %}
-        {% for post in site.posts %}
-          {% if post.url == featured_url %}
-            {% assign featured_post = post %}
-          {% endif %}
-        {% endfor %}
+    {% if featured_post %}
+    <article class="ye-feature">
+      <div class="ye-label">Selected from the archives &middot; {{ featured_post.date | date: "%Y" }} &middot; EN</div>
+      <h2>Writing SAP-Hybris ImpEx with Style</h2>
+      <p>An Eclipse plugin for working with ImpEx: syntax highlighting, content assistance and integration with SAP Hybris.</p>
+      <a class="ye-read" href="{{ featured_post.url | relative_url }}">Read the article &rarr;</a>
+    </article>
+    {% endif %}
 
-        {% if featured_post %}
-        <article class="ye-feature">
-          <div class="ye-label">Selected from the archives &middot; {{ featured_post.date | date: "%Y" }} &middot; EN</div>
-          <h2>Writing SAP-Hybris ImpEx with Style</h2>
-          <p>An Eclipse plugin for working with ImpEx: syntax highlighting, content assistance and integration with SAP Hybris.</p>
-          <a class="ye-read" href="{{ featured_post.url | relative_url }}">Read the article &rarr;</a>
-        </article>
-        {% endif %}
-
-        <section class="ye-archive">
-          <h3>From the archives</h3>
-          {% assign other_posts = site.posts | where_exp: "post", "post.url != featured_url" %}
-          {% for post in other_posts limit: 6 %}
-          {% assign post_lang = site.data.post_lang[post.url] %}
-          <div class="ye-row">
-            <span class="ye-date">{{ post.date | date: "%Y" }}</span>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}{% if post_lang %} <span class="ye-status">&middot; {{ post_lang }}</span>{% endif %}</a>
-          </div>
-          {% endfor %}
-        </section>
+    <section class="ye-archive">
+      <h3>From the archives</h3>
+      {% assign other_posts = site.posts | where_exp: "post", "post.url != featured_url" %}
+      {% for post in other_posts limit: 6 %}
+      {% assign post_lang = site.data.post_lang[post.url] %}
+      <div class="ye-row">
+        <span class="ye-date">{{ post.date | date: "%Y" }}</span>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}{% if post_lang %} <span class="ye-status">&middot; {{ post_lang }}</span>{% endif %}</a>
       </div>
+      {% endfor %}
+    </section>
+  </div>
 
-      <aside>
-        <h3>About this space</h3>
-        <p>I&rsquo;m Youssef, a Solution Architect with a Tech Lead background. I write about integration, performance and reliable systems.</p>
-        <a class="ye-read" href="{{ '/about/' | relative_url }}">More about me &rarr;</a>
+  <aside>
+    <h3>About this space</h3>
+    <p>I&rsquo;m Youssef, a Solution Architect with a Tech Lead background. I write about integration, performance and reliable systems.</p>
+    <a class="ye-read" href="{{ '/about/' | relative_url }}">More about me &rarr;</a>
 
-        <h3 style="margin-top:24px">Topics</h3>
-        <ul class="ye-topics">
-          <li>Architecture decisions</li>
-          <li>Integration &amp; reliability</li>
-          <li>Applied AI</li>
-        </ul>
-      </aside>
-    </div>
-  </main>
-
-  <footer>
-    <span>Youssef El Jaoujat &middot; Architecture notes</span>
-    <a href="https://www.linkedin.com/in/eljaoujat" target="_blank" rel="noopener noreferrer">LinkedIn &#8599;</a>
-  </footer>
+    <h3 style="margin-top:24px">Topics</h3>
+    <ul class="ye-topics">
+      <li>Architecture decisions</li>
+      <li>Integration &amp; reliability</li>
+      <li>Applied AI</li>
+    </ul>
+  </aside>
 </div>

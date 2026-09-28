@@ -1,23 +1,13 @@
 ---
 layout: default
 ---
-<div class="content content{% if page.photo_url %} photo-post{% endif %}">
-  <section>
-  <div class="post single">
-    {% unless page.photo_url %}
-    <h1>{{ page.title }}</h1>
-    <info datetime="{{ page.date | date: "%Y-%m-%d" }}">
-      {{ page.date | date: "%b %d, %Y" }}
-    </info>
-    {% endunless %}
-    <div class="body">{{ content }}</div>
-    <!-- <div class="breaker"></div> -->
-    <div class="breaker"></div>
-    <!-- <info class="after">
-<div class="fb-like" data-href="http://rsms.me{{ page.url }}" data-send="false" data-width="550" data-show-faces="false" data-font="arial"></div>
-    </info> -->
-
-  </div>
-  </section>
-</div>
+<article class="ye-article{% if page.photo_url %} ye-article--photo{% endif %}">
+  {% unless page.photo_url %}
+  {% if page.date %}
+  <div class="ye-kicker">{{ page.date | date: "%B %-d, %Y" }}</div>
+  {% endif %}
+  <h1>{{ page.title }}</h1>
+  {% endunless %}
+  <div class="ye-article-body">{{ content }}</div>
+</article>
 {% include autoreload-in-debug.html %}
