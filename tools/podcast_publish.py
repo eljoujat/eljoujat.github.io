@@ -249,7 +249,10 @@ def get_archive_metadata(identifier: str) -> dict[str, Any]:
 
 
 def upload_to_archive(mp3_path: Path, identifier: str, metadata: dict[str, str], dry_run: bool = False) -> str:
-    filename = safe_filename(mp3_path.name)
+    # Use a stable ASCII remote filename. Archive.org can accept an upload with
+    # Arabic/unicode filenames but delay or omit the media file from item
+    # metadata, which makes RSS enclosure verification unreliable.
+    filename = f"{identifier}.mp3"
     if dry_run:
         return archive_download_url(identifier, filename)
     ia = require_command("ia")
