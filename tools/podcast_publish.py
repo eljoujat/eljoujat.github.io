@@ -275,7 +275,7 @@ def upload_to_archive(mp3_path: Path, identifier: str, metadata: dict[str, str],
     return url
 
 
-def verify_archive_url(url: str, attempts: int = 10, delay_seconds: int = 10) -> None:
+def verify_archive_url(url: str, attempts: int = 3, delay_seconds: int = 5) -> None:
     last_error: Exception | None = None
     for attempt in range(1, attempts + 1):
         request = urllib.request.Request(url, method="HEAD", headers={"User-Agent": "podcast-publisher/1.0"})
