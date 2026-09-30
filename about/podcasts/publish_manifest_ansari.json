@@ -2,6 +2,17 @@
   "episodes": [
     {
       "podcast": "ansari",
+      "youtube_url": "https://www.youtube.com/watch?v=iQeBVBXaq0s",
+      "youtube_id": "iqebvbxaq0s",
+      "title": "عدوك اللدود - نفسك التي بين جنبيك- كيف تحاربها ؟ // د. فريد الأنصاري رحمه الله",
+      "archive_identifier": "farid-ansari-iqebvbxaq0s",
+      "feed": "about/podcasts/ansarifeed.xml",
+      "published_at": "2026-09-30T05:27:48.894516+00:00",
+      "archive_url_available": true,
+      "archive_file_url": "https://ia601607.us.archive.org/23/items/farid-ansari-iqebvbxaq0s/farid-ansari-iqebvbxaq0s.mp3"
+    },
+    {
+      "podcast": "ansari",
       "youtube_url": "https://www.youtube.com/watch?v=mZ08j2Fuy1U",
       "youtube_id": "mz08j2fuy1u",
       "title": "ستعشق الصلاة بعد سماع هذا الكلام | الدكتور فريد الأنصاري",
