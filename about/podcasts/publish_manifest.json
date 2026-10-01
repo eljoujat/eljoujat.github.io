@@ -2,6 +2,17 @@
   "episodes": [
     {
       "podcast": "saidkamli",
+      "youtube_url": "https://www.youtube.com/watch?v=vWTtz15HPlg",
+      "youtube_id": "vwttz15hplg",
+      "title": "سيرة الحبيب 32- قصة عجيبة لزواج سيدنا علي بفاطمة بنت رسول الله- الشيخ سعيد الكملي",
+      "archive_identifier": "saidkamli-vwttz15hplg",
+      "feed": "about/podcasts/saidkamlifeed.xml",
+      "published_at": "2026-10-01T06:00:44.460132+00:00",
+      "archive_url_available": true,
+      "archive_file_url": "https://archive.org/download/saidkamli-vwttz15hplg/saidkamli-vwttz15hplg.mp3"
+    },
+    {
+      "podcast": "saidkamli",
       "youtube_url": "https://www.youtube.com/watch?v=YcP6WmwVBH4",
       "youtube_id": "ycp6wmwvbh4",
       "title": "سيرة الحبيب 31-هذا مجنون، اسألوه عني فسيقول قد رآني مقتولا- الشيخ سعيد الكملي",
