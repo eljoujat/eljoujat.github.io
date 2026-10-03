@@ -2,6 +2,17 @@
   "episodes": [
     {
       "podcast": "saidkamli",
+      "youtube_url": "https://www.youtube.com/watch?v=FI6sz0hcW2o",
+      "youtube_id": "fi6sz0hcw2o",
+      "title": "سيرة الحبيب 33-تعرف على قصة أول عيد أضحى في الاسلام- الشيخ سعيد الكملي",
+      "archive_identifier": "saidkamli-fi6sz0hcw2o",
+      "feed": "about/podcasts/saidkamlifeed.xml",
+      "published_at": "2026-10-03T06:00:45.365674+00:00",
+      "archive_url_available": true,
+      "archive_file_url": "https://archive.org/download/saidkamli-fi6sz0hcw2o/saidkamli-fi6sz0hcw2o.mp3"
+    },
+    {
+      "podcast": "saidkamli",
       "youtube_url": "https://www.youtube.com/watch?v=vWTtz15HPlg",
       "youtube_id": "vwttz15hplg",
       "title": "سيرة الحبيب 32- قصة عجيبة لزواج سيدنا علي بفاطمة بنت رسول الله- الشيخ سعيد الكملي",
