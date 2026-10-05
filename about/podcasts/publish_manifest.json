@@ -2,6 +2,17 @@
   "episodes": [
     {
       "podcast": "saidkamli",
+      "youtube_url": "https://www.youtube.com/watch?v=EQ6Xy92mAVw",
+      "youtube_id": "eq6xy92mavw",
+      "title": "الحلقة 34- ثبات كبير في المعركة ، وبئس الثبات - الشيخ سعيد الكملي",
+      "archive_identifier": "saidkamli-eq6xy92mavw",
+      "feed": "about/podcasts/saidkamlifeed.xml",
+      "published_at": "2026-10-05T06:01:07.526651+00:00",
+      "archive_url_available": true,
+      "archive_file_url": "https://archive.org/download/saidkamli-eq6xy92mavw/saidkamli-eq6xy92mavw.mp3"
+    },
+    {
+      "podcast": "saidkamli",
       "youtube_url": "https://www.youtube.com/watch?v=FI6sz0hcW2o",
       "youtube_id": "fi6sz0hcw2o",
       "title": "سيرة الحبيب 33-تعرف على قصة أول عيد أضحى في الاسلام- الشيخ سعيد الكملي",
