@@ -2,6 +2,17 @@
   "episodes": [
     {
       "podcast": "saidkamli",
+      "youtube_url": "https://www.youtube.com/watch?v=Xy0kKk0V6W4",
+      "youtube_id": "xy0kkk0v6w4",
+      "title": "سيرة الحبيب 35 -رجل احياه الله وكلمه بلا حجاب ، ماذا قال له ؟ - الشيخ سعيد الكملي",
+      "archive_identifier": "saidkamli-xy0kkk0v6w4",
+      "feed": "about/podcasts/saidkamlifeed.xml",
+      "published_at": "2026-10-07T06:00:37.537939+00:00",
+      "archive_url_available": true,
+      "archive_file_url": "https://archive.org/download/saidkamli-xy0kkk0v6w4/saidkamli-xy0kkk0v6w4.mp3"
+    },
+    {
+      "podcast": "saidkamli",
       "youtube_url": "https://www.youtube.com/watch?v=EQ6Xy92mAVw",
       "youtube_id": "eq6xy92mavw",
       "title": "الحلقة 34- ثبات كبير في المعركة ، وبئس الثبات - الشيخ سعيد الكملي",
