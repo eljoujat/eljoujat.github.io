@@ -2,6 +2,17 @@
   "episodes": [
     {
       "podcast": "saidkamli",
+      "youtube_url": "https://www.youtube.com/watch?v=7Ewq-gpmaI4",
+      "youtube_id": "7ewq-gpmai4",
+      "title": "سيرة الحبيب 37 - بلغني مقتل أخي حمزة ! - الشيخ سعيد الكملي",
+      "archive_identifier": "saidkamli-7ewq-gpmai4",
+      "feed": "about/podcasts/saidkamlifeed.xml",
+      "published_at": "2026-10-14T06:01:27.875374+00:00",
+      "archive_url_available": true,
+      "archive_file_url": "https://archive.org/download/saidkamli-7ewq-gpmai4/saidkamli-7ewq-gpmai4.mp3"
+    },
+    {
+      "podcast": "saidkamli",
       "youtube_url": "https://www.youtube.com/watch?v=yTkk35nogHA",
       "youtube_id": "ytkk35nogha",
       "title": "سيرة الحبيب 36 - يسأله الله لماذا قُتلتَ وقطع أنفك واذنك فيقول في سبيلك - الشيخ سعيد الكملي",
