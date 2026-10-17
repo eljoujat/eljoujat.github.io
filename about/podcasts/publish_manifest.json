@@ -2,6 +2,17 @@
   "episodes": [
     {
       "podcast": "saidkamli",
+      "youtube_url": "https://www.youtube.com/watch?v=OGgifbtZMxI",
+      "youtube_id": "oggifbtzmxi",
+      "title": "سيرة الحبيب 38 - ان البهائم تلعن عصاة بني آدم - الشيخ سعيد الكملي",
+      "archive_identifier": "saidkamli-oggifbtzmxi",
+      "feed": "about/podcasts/saidkamlifeed.xml",
+      "published_at": "2026-10-17T06:01:42.674428+00:00",
+      "archive_url_available": true,
+      "archive_file_url": "https://archive.org/download/saidkamli-oggifbtzmxi/saidkamli-oggifbtzmxi.mp3"
+    },
+    {
+      "podcast": "saidkamli",
       "youtube_url": "https://www.youtube.com/watch?v=7Ewq-gpmaI4",
       "youtube_id": "7ewq-gpmai4",
       "title": "سيرة الحبيب 37 - بلغني مقتل أخي حمزة ! - الشيخ سعيد الكملي",
