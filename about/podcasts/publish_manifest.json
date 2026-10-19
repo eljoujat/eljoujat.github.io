@@ -2,6 +2,17 @@
   "episodes": [
     {
       "podcast": "saidkamli",
+      "youtube_url": "https://www.youtube.com/watch?v=LAmwP0LvCaI",
+      "youtube_id": "lamwp0lvcai",
+      "title": "سيرة الحبيب 39- ما رأيتُ أحدًا يُعظّم أحدا كتعظيم أَصْحاب محمّد محمّدا  - الشيخ سعيد الكملي",
+      "archive_identifier": "saidkamli-lamwp0lvcai",
+      "feed": "about/podcasts/saidkamlifeed.xml",
+      "published_at": "2026-10-19T06:00:45.506874+00:00",
+      "archive_url_available": true,
+      "archive_file_url": "https://archive.org/download/saidkamli-lamwp0lvcai/saidkamli-lamwp0lvcai.mp3"
+    },
+    {
+      "podcast": "saidkamli",
       "youtube_url": "https://www.youtube.com/watch?v=OGgifbtZMxI",
       "youtube_id": "oggifbtzmxi",
       "title": "سيرة الحبيب 38 - ان البهائم تلعن عصاة بني آدم - الشيخ سعيد الكملي",
