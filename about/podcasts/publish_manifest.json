@@ -2,6 +2,17 @@
   "episodes": [
     {
       "podcast": "saidkamli",
+      "youtube_url": "https://www.youtube.com/watch?v=oyQsCIp_ZRs",
+      "youtube_id": "oyqscip_zrs",
+      "title": "سيرة الحبيب 40 - محاولة اغتيال النبي صلى الله عليه وسلم - الشيخ سعيد الكملي",
+      "archive_identifier": "saidkamli-oyqscip_zrs",
+      "feed": "about/podcasts/saidkamlifeed.xml",
+      "published_at": "2026-10-21T06:00:51.385446+00:00",
+      "archive_url_available": true,
+      "archive_file_url": "https://archive.org/download/saidkamli-oyqscip_zrs/saidkamli-oyqscip_zrs.mp3"
+    },
+    {
+      "podcast": "saidkamli",
       "youtube_url": "https://www.youtube.com/watch?v=LAmwP0LvCaI",
       "youtube_id": "lamwp0lvcai",
       "title": "سيرة الحبيب 39- ما رأيتُ أحدًا يُعظّم أحدا كتعظيم أَصْحاب محمّد محمّدا  - الشيخ سعيد الكملي",
