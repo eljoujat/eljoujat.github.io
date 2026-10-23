@@ -2,6 +2,17 @@
   "episodes": [
     {
       "podcast": "saidkamli",
+      "youtube_url": "https://www.youtube.com/watch?v=9GcZ51t9CXs",
+      "youtube_id": "9gcz51t9cxs",
+      "title": "سيرة الحبيب 41  -زوجها الله لنبيه من فوق سبع سموات..- الشيخ سعيد الكملي",
+      "archive_identifier": "saidkamli-9gcz51t9cxs",
+      "feed": "about/podcasts/saidkamlifeed.xml",
+      "published_at": "2026-10-23T06:02:14.757366+00:00",
+      "archive_url_available": true,
+      "archive_file_url": "https://archive.org/download/saidkamli-9gcz51t9cxs/saidkamli-9gcz51t9cxs.mp3"
+    },
+    {
+      "podcast": "saidkamli",
       "youtube_url": "https://www.youtube.com/watch?v=oyQsCIp_ZRs",
       "youtube_id": "oyqscip_zrs",
       "title": "سيرة الحبيب 40 - محاولة اغتيال النبي صلى الله عليه وسلم - الشيخ سعيد الكملي",
